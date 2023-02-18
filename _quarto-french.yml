@@ -16,13 +16,13 @@ website:
       - href: fr/blog_books.qmd
         text: Livres
       - href: fr/blog_projects.qmd
-        text: Projets
+        text: Recherches 
       - href: fr/blog_teaching.qmd
-        text: Enseignement
+        text: Enseignements
       - href: fr/media.qmd
         text: Média
       - href: fr/blog_review.qmd
-        text: Revues
+        text: Recensions
     right:
       - href: ../fr
         text: french
