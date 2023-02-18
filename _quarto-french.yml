@@ -1,0 +1,43 @@
+project:
+  output-dir: docs/fr
+  title: "french"
+
+website:
+   navbar:
+    background: secondary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: fr/bio.qmd
+        text: Bio
+      - href: fr/publications.qmd
+        text: Publications
+      - href: fr/blog_books.qmd
+        text: Livres
+      - href: fr/blog_projects.qmd
+        text: Projets
+      - href: fr/blog_teaching.qmd
+        text: Enseignement
+      - href: fr/media.qmd
+        text: Média
+      - href: fr/blog_review.qmd
+        text: Revues
+    right:
+      - href: ../fr
+        text: french
+      - href: ../en
+        text: english
+        
+lang: fr
+
+format:
+  html:
+    theme:
+      - lux
+      - custom.scss
+    css: styles.css
+    toc: true
+    
+editor: visual
+

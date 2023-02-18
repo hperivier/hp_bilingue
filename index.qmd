@@ -30,7 +30,7 @@ about:
 editor: visual
 ---
 
-::: {when-profile="french"}
+::: {.content-visible when-profile="french"}
 Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php), [Sciences Po Paris](http://www.sciencespo.fr/). Je dirige le programme de recherche et d'enseignement des savoirs sur le genre de Sciences Po, [PRESAGE](https://www.sciencespo.fr/programme-presage/en.html).
 
 Je suis membre du [HCFEA](https://www.hcfea.fr/) en tant que personnalité qualifiée.
@@ -62,7 +62,7 @@ Ravie d'avoir été interviewée dans le tout premier numéro de la revue Eigens
 ![](images/SCPO_PERIV_2020_01_L204.jpg){fig-align="center" width="155"}
 :::
 
-::: {when-profile="english"}
+::: {.content-visible when-profile="english"}
 I am a researcher in economics in the [OFCE](http://www.ofce.sciences-po.fr/index.php) at [Sciences Po Paris](http://www.sciencespo.fr/). I am the director of the Academic and Research Program on Gender Studies of Sciences Po, [PRESAGE](https://www.sciencespo.fr/programme-presage/en.html).
 
 I am expert member in the [HCFEA](https://www.hcfea.fr/), high council for families.
