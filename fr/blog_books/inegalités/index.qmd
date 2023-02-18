@@ -1,0 +1,42 @@
+---
+title: " "
+description: "Travail des femmes et inégalités, Revue de l'OFCE n°90, 2004, co-edited avec Françoise Milewski "
+date: 07-01-2004
+
+categories: [Numéro spécial] # self-defined categories
+
+image: livre.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+[Travail des femmes et inégalités, Revue de l'OFCE n°90, 2004, co-edited with Françoise Milewski](https://www.ofce.sciences-po.fr/publications/revue.php?an=2004)
+
+### Table des matières
+
+[Femmes : « top » modèles des inégalités](https://www.ofce.sciences-po.fr/pdf/revue/1-90.pdf) Françoise Milewski
+
+[Vers l'égalité de genre : les tendances générationnelles sont-elles irréversibles ?](https://www.ofce.sciences-po.fr/pdf/revue/2-90.pdf) Louis Chauvel
+
+[L'ouvrière n'est pas la femme de l'ouvrier](https://www.ofce.sciences-po.fr/pdf/revue/3-90.pdf) Maxime Parodi
+
+[Activité, précarité, chômage : toujours plus ?](https://www.ofce.sciences-po.fr/pdf/revue/4-90.pdf) Margaret Maruani
+
+[Les femmes françaises face au chômage : une inégalité en déclin](https://www.ofce.sciences-po.fr/pdf/revue/5-90.pdf) Bruno Coquet
+
+[Écarts de salaires entre les femmes et les hommes en Europe Effets de structures ou discrimination ?](https://www.ofce.sciences-po.fr/pdf/revue/6-90.pdf) Sophie Ponthieux, Dominique Meurs
+
+[Inégalités de salaires entre femmes et hommes et discriminations](https://www.ofce.sciences-po.fr/pdf/revue/7-90.pdf) Réjane Hugounenq, Yves de Curraize
+
+[Emploi des mères et garde des jeunes enfants en Europe](https://www.ofce.sciences-po.fr/pdf/revue/8-90.pdf) Hélène Périvier
+
+[Emploi des femmes et charges familiales Repenser le congé parental en France à la lumière des expériences étrangères Synthèse du débat du 3 décembre 2003](https://www.ofce.sciences-po.fr/pdf/revue/9-90.pdf) Hélène Périvier
+
+[Les systèmes de retraite et les femmes En France, en Allemagne et en Italie](https://www.ofce.sciences-po.fr/pdf/revue/10-90.pdf) Carole Bonnet, Odile Chagny, Paola Monperrus-Veroni
+
+[Les enjeux pour l'emploi féminin de la stratégie européenne pour l'emploi](https://www.ofce.sciences-po.fr/pdf/revue/11-90.pdf) Olivier Thévenon
+
+[Contre l'individualisation des droits sociaux](https://www.ofce.sciences-po.fr/pdf/revue/12-90.pdf) Henri Sterdyniak
+
+[Acquisition de droits sociaux et égalité entre les femmes et les hommes](https://www.ofce.sciences-po.fr/pdf/revue/13-90.pdf) Marie-Thérèse Lanquetin, Marie-Thérèse Letablier, Hélène Périvier
+
+\

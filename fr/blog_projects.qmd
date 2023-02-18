@@ -1,0 +1,20 @@
+---
+title: "Recherche"
+listing:
+  contents: blog_projects
+  sort: "date desc"
+  type: default
+  categories: true
+  image-align: left
+  
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    
+editor: visual
+#Adding a blog to your existing Quarto website (samanthacsik.github.io)
+---
+
+Ici la description des projets de recherche les importants dans lesquels je suis impliquée :

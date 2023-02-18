@@ -1,0 +1,20 @@
+---
+title: "Recensions"
+listing:
+  contents: blog_review
+  sort: "date desc"
+  type: default
+  categories: true
+  image-align: left
+  
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    
+editor: visual
+#Adding a blog to your existing Quarto website (samanthacsik.github.io)
+---
+
+Ici des recensions de livres ou d'articles que j'ai publiées:

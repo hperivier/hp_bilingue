@@ -1,0 +1,50 @@
+---
+title: "PRODIGE"
+description: "Projet de Recherche sur les Orchestres, les DIscriminations et le GEnre -> ANR project"
+date: 01-01-2023
+
+categories: [Research] # self-defined categories
+
+image: photo.jfif
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+PRODIGE, Projet de Recherche sur les Orchestres, les discriminations et le Genre, ANR funding, AAPG 2017 (Comité Inégalités, discriminations, migrations, radicalisation), 2018-2022. The funding amounts by the ANR are 325 404 €.
+
+### Previous research
+
+[*Écouter sans voir: L'impact du paravent sur le recrutement des musicien-ne-s des orchestres de Paris et d'Île-de-France*, Janvier 2015, Recherche réalisée avec le soutien de ARDIS, Alliance sur les Recherche sur les Discriminations, Région Île-de-France](ardis.pdf)
+
+#### Abstract
+
+Les auditions « à l'aveugle » sont-elles possibles de bout en bout des procédures de recrutements des musicien-ne-s dans les orchestres professionnels ? Le « paravent » est-il un outil de lutte contre les discriminations sociales, sexuées ou ethniques, et son utilisation a-t-elle permis de diversifier les profils des personnes recrutées? L'aide au financement de la recherche par l'ARDIS, financée par la Région Île-de-France dans le cadre du Domaine d'intérêt majeur « Genre, inégalités, discriminations », a permis de mener une recherche exploratoire sur ce thème. Celle-ci combine approches sociologique et économique des discriminations, elle vise à montrer l'impact de l'instauration de procédures « à l'aveugle » lors des recrutements des musicien-ne-s dans les orchestres et à décrypter les discours et perceptions autour de la mobilisation éventuelle du « paravent ». Une base de données a été construite à partir des informations collectées auprès de cinq orchestres permanents d'Île-de-France (panel Ardis-Orchestres ci-après) participant à l'étude de décembre 2013 à septembre 2014. Il s'agit de l'Ensemble intercontemporain, de l'Orchestre de chambre de Paris, de l'Orchestre national d'Île-de-France, ainsi que les deux orchestres de Radio France : l'Orchestre national de France et l'Orchestre philharmonique de Radio France. Nous remercions les équipes de ces orchestres qui nous ont aidées à réaliser ce travail. La base de données a permis de conduire une analyse statistique exploratoire à partir d'une série de concours de recrutement entre 2000 et 2014. L'analyse qualitative s'appuie sur des données de type ethnographique et des données issues d'entretiens menés avec des responsables et des administratifs des orchestres. Cette synthèse présente les premiers résultats de cette recherche au croisement entre les travaux sur les musicien-ne-s professionnel-le-s et sur les procédures d'embauche antidiscriminatoire.
+
+### PRODIGE Research
+
+#### Abstract
+
+This research aims at measuring discriminations in hiring process and at evaluating the efficiency of blind auditions to tackle discriminations. It analyses the dynamic of gender inequalities by drawing on the case study of Orchestras and musical performance.
+
+#### Team
+
+OFCE team :
+
+###### Audrey Etienne, Rouen University & OFCE Sciences Po
+
+###### Hélène Périvier, OFCE Sciences Po
+
+###### Maxime Parodi, OFCE Sciences Po
+
+IReMus team:
+
+###### [Hyacinthe Ravet, Sorbonne Université](https://www.iremus.cnrs.fr/fr/membres-permanents/hyacinthe-ravet)
+
+###### Reguina Hatzipetrou, OFCE Sciences Po & Sorbonne Université
+
+#### Lettres de PRODIGE
+
+###### [Lettre de PRODIGE n°1](pdf/lettre1.pdf)
+
+###### [Lettre de PRODIGE n°2](pdf/lettre2.pdf)
+
+###### [Lettre de PRODIGE n°3](pdf/lettre3.pdf)

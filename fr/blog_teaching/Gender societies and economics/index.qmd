@@ -1,0 +1,152 @@
+---
+title: "Gender, societies and Economics "
+description: "Formation commune"
+date: 01/26/2023
+
+categories: [Master] # self-defined categories
+
+image: dessin4.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+### Course description
+
+##### Teaching Assistant : Hazal Atay
+
+All societies are characterized by sex inequalities. Economic and social organizations rely on a sexual division of labor based on social norms which assign different roles for men and women; these categories must be questioned through the lens of gender. The course introduces a gender perspective in social sciences with a specific focus on economics. The persistence of sex inequalities articulated with other types of inequalities (social class, ethnicity ...) are analyzed by relying on theoretical and empirical knowledge. A broad spectrum of topics is addressed that enlighten the importance of gender in the understanding of our societies and their sustainability: questioning categories and concepts (gender, sex etc.); theories of justice and gender; presentation of feminist economics; the economic history of sexual division of labor; measuring discriminations and inequalities in the labor market; analyzing the gender dimension of crisis (great recession and covid19 crisis); gender and economic development; ecological sustainability and feminism. The interactions between Welfare state (public policies), market (labor market in particular) and family are analyzed through international, historical, and socio-economic perspectives. The course builds bridges between academic knowledge and policy making, in this regard the evaluation of public policies is covered. A particular attention is paid to controversies within the academic sphere to shed light on the inherent complexities in tackling inequalities and discriminations. Discussions based on mandatory readings are opened in the class. Some guests can be invited to share their latest research to broaden the scope of the course.
+
+### Course outline
+
+#### **SESSION 1: Introduction**
+
+Presentation of the general purpose and outline of the course. The different topics are presented, as well as the guests who are invited to present their research in some sessions.
+
+**Readings -\> Gender biases in Higher education:**
+
+-   Boring A., "Gender Biases in Student Evaluations of Teachers", Document de travail OFCE, N°2015-13.
+
+-   Boring, A., & Philippe, A. (2021). Reducing Discrimination in the Field Evidence from an Awareness Raising Intervention Targeting Gender Biases in Student Evaluations of Teaching. *Journal of Public Economics*, *193*.
+
+#### **SESSION 2: Sex, gender: questioning categories**
+
+Major concepts used in gender studies are defined and developed. A specific attention is paid to debates and controversies that might emerge in social sciences around key concepts: sex, gender, identities, intersectionality...
+
+**Readings -\>Building inclusive statistics:**
+
+-   Schönpflug Karin, Christine M. Klapeer, Roswitha Hofmann & Sandra Müllbacher (2018) "If Queers were Counted: An Inquiry into European Socioeconomic Data on LGB(TI)QS", Feminist Economics, 24:4, 1-30
+
+-   Badgett, M. V. Lee, Christopher S. Carpenter, and Dario Sansone. 2021. "LGBTQ Economics." *Journal of Economic Perspectives*, 35 (2): 141-70.
+
+#### **SESSION 3: Equality of what? Theories of justice and gender**
+
+The session aims at exposing the different ways to define equality and frames of theory of justice. The controversies around the philosophy of the social contract are presented. The Rawlsian theory is analyzed through a gender lens and the capabilities approach is described.
+
+**Readings -\> Debate on multiple forms on injustices:**
+
+-   Butler J., 1998,"Merely cultural", NLR, 227
+
+-   Fraser N., 1998, "Heterosexism, Misrecognition and Capitalism: A Response to Judith Butler», NLR,228
+
+#### **SESSION 4: On Feminist Economics**
+
+From a political perspective, feminist economics focuses on what is needed to produce a gender equal society, by raising issues that matter for feminism. From an epistemological perspective, It argues that because modern economics was built around the idea of the "economic man", it is affected by an androcentric bias, and this affects its scientific dimension.
+
+**Readings -\>The feminist critic in economics:**
+
+-   Dolfsma W. and H. Hoppe, 2003, "On Feminist Economics", Feminist Review, No. 75, Identities (2003), pp. 118-12
+
+-   Malecka M, 2021, « Values in economics: a recent revival with a twist", Journal of Economic Methodology, Vol.28, n°1, pp.88-97.
+
+#### **SESSION 5: Telling the story of sexual division of labor**
+
+Why and when did a sexual division of labor emerge? Gender inequalities in the history of western countries. Production/Reproduction dilemma and the industrialization process. This session will focus on the major factors explaining the increase of female participation in the labor market during the second part of the 20^th^ century and point the "unequal status quo" observed in most European countries.
+
+**Readings -\> *Gender inequalities in the middle Age:***
+
+-   De Pleijt A. and J.L. Van Zanden, 2021, "Two worlds of female labour: gender wage inequality in western Europe, 1300--1800", *Economic History Review*, 74, 3 (2021), pp. 611--638
+
+-   Marco-Gracia F. and F. J. Beltran Ta, 2021, "Son Preference, Gender Discrimination, and Missing Girls in Rural Spain, 1750--1950", *Population and Development Review*, Vol.47(3): 665--689.
+
+#### **SESSION 6: Gender inequalities in the labour market in high income countries**.
+
+This session addresses the general trends in gender gap in participation in the labor market, working time, wages, occupations, segregations, education, glass ceiling are, in Europe and more broadly high-income countries.
+
+**Readings -\> Measuring Child-penalty in high income countries**
+
+-   Yu Wei-hsin and Yuko Hara, « Motherhood Penalties and Fatherhood Premiums: Effects of Parenthood on Earnings Growth Within and Across Firms », *Demography*, 58 (1), 2021.
+
+-   Olivetti C. and B. Petrongolo, "The Evolution of Gender Gaps in Industrialized Countries*, Annu. Rev. Econ*. 2016. 8:405--34.
+
+#### **SESSION 7: Gender Regimes and Public Policies**
+
+What makes an institutional environment gender friendly? Parental leaves, childcare system and the challenge of ageing population: what are the more efficient public policies to promote emancipation of women? How protecting the maternity without stigmatizing women?
+
+**Readings -\> Gender regimes and labour markets:**
+
+-   Lewis J., 1992, "Gender and the Development of Welfare Regimes", *Journal European social policy*, Vol.2, n°3
+
+-   Rossella C. and D. Sainsbury, 2021, "Gendering welfare state analysis: tensions between care and paid work", European Journal of Politics and Gender, Volume 1, Numbers 1-2, July 2018, pp. 93-109(17)
+
+#### **SESSION 8: Analyzing and tackling discriminations**
+
+Discriminations produce inequalities but all forms of inequalities do not result from discriminations. From a legal point of view, discrimination process is defined as an unequal treatment of individuals based on criteria that are prohibited by law (sex, ethnicity, religion, sexual orientation ....). New concepts and approaches of discrimination have been developed to integrate more complex processes such as indirect discrimination, multiples discriminations and systemic discriminations. Measuring discriminations is a first step to tackle them. What are the different policies implemented to tackle discrimination? Are they efficient? What is the power of law?
+
+**Readings -\> Measuring discriminations**
+
+-   Tilcsik, A., 2021, "Statistical discrimination and the Rationalization of Stereotypes", *American Sociological Journal*, vol. 86, n°1, pp.93-122
+
+-   Goldin C. and C. Rouse, 2000, "Orchestrating Impartiality: The Impact of"Blind" Auditions on Female Musicians", *The American Economic Review*, Vol. 90, No. 4 (Sep., 2000), pp. 715-741
+
+-   Jian Zhang,  Songqing Jin and Tao Li, 2021, "Haigang Wang a Gender discrimination in China: Experimental evidence from the job market for college graduates", *Journal of Comparative Economics*, Vol. 49, Issue 3, Pages 819-835
+
+**SESSION 9: Crisis and gender: from Great recession to the covid-19 crisis**
+
+What do we learn from the great recession? The economic crisis experienced by European countries in 2009 has led to pipeline of low economic growth, high level of unemployment, increase in poverty and a crisis of public debt. In the aftermath of the crisis, austerity policies have been implemented in most European countries to achieve fiscal consolidation. Those economics policies are gender blind but not gender neutral. The session analyses the consequence of the crisis and question the business cycle in a gender perspective. The covid 19 crisis has shed light on structural gender inequalities.
+
+**Readings -\> *Analyzing crisis through a gender lens***
+
+-   Kushi S. and I. P. McManus, 2019, "Gendered costs of austerity: The effects of welfare regime and government policies on employment across the OECD, 2000--13", *International Labour Review,* Vol. 157 (2018), No. 4
+
+-   Karamessini M. and J. Rubery (eds.), *Women and Austerity, The economic crisis and the future for gender equality*, Routledge IAFFE Advanced in Feminist Economics.
+
+-   Eydoux A., Math A., H. Périvier (eds.), 2014, *European labour markets in times of crisis. A gender perspective*, *Revue de l'OFCE*, n° 133.
+
+-   Kushi S. and I. P. McManus, 2019, "Gendered costs of austerity: The effects of welfare regime and government policies on employment across the OECD, 2000--13", International Labour Review, Vol. 157 (2018), No. 4.
+
+-   Kabeer N., Razavi S & van der Meulen Rodgers Y. (2021) Feminist Economic Perspectives on the COVID-19 Pandemic, *Feminist Economics*, 27:1-2, 1-29
+
+#### **SESSION 10: Gender and economic development**.
+
+International institutions (UN, OECD, IMF, World Bank...) promote gender equality as tool to boost the economic development of poor countries. Education of girls, microcredits for women create female "empowerment", and would increase the GDP of these countries. The gender perspective in economic development has been integrated progressively. This session proposes a critical analysis of these approaches and sheds light on the empirical literature on poverty, gender, and economic growth.
+
+**Readings -\> Gender and development**
+
+-   Arat Kabasakal Zhera F., 2015, "Feminisms, Women's Rights, and the UN: Would Achieving Gender Equality Empower Women?", *American Political Science Review*, Vol. 109, No.4
+
+-   Duflo Esther, 2012, ""Women Empowerment and Economic Development." *Journal of Economic Literature*, 50(4):1051-79.
+
+#### **SESSION 11: Capitalism, neoliberalism, and gender**
+
+Capitalism is the dominant economic model worldwide. Is it compatible with gender equality? Does Capitalism cope with class, race and sex inequalities or does it create them? Sharing the economic power, quota, and law: what results in terms of gender equalities? Gender equality and/or diversity is more and more used or presented as a lever to increase economic performance (productivity, wealth, and better functioning of organizations...). How and why does this perspective jeopardize gender equality as a concept and as an achievement?
+
+**Readings -\> *Capitalism and Patriarchy***
+
+-   Folbre N., 2020, "Manifold exploitations: toward an intersectional political economy", *Review of Social Economy*, Vol.78, Issue 4.
+
+-   Périvier H and R. Sénac, 2017, « The new Spirit of neo-liberalism: Equality and economic prosperity », *International Social Science Journal,* 223-224
+
+-   [Nancy Folbre: Women's Work and the Limits of Capitalism \| The New School](https://www.youtube.com/watch?v=nNBQU_ESqtw)
+
+#### **SESSION 12: Sustainability, ecology and feminism.**
+
+Does an ecological approach reinforce the identification of women with nature? Can dualistic thinking about men and women, humans and nature be replaced with a fuller picture of human identity and knowledge? To what extend the commons/communing provides an alternative to the private and public ownership that can produce gender equality?
+
+**Readings -\> *Gender and the commons***
+
+-   Kushani De Silvaa and Ramanie Jayathilaka, 2014, "Gender in the context of Disaster Risk Reduction; A Case Study of a Flood Risk Reduction Project in the Gampaha District in Sri Lanka", *Procedia Economics and Finance,* 18 , pp. 873 -- 881
+
+-   Elias M, Joshi D. and R. Meinzen-Dick,2021, "Restoration for Whom, by Whom? A Feminist Political Ecology of Restoration », Ecological Restoration, vol.39, n°1 et 2.
+
+-   Dengler C. and Lang M., 2022, "Commoning Care: Feminist Degrowth Visions for a Socio-Ecological Transformation", *Feminist Economics*, 28:1, 1-28
+
+-   Nelson J., "Is Dismissing Environmental Caution the Manly thing to Do?: Gender and the Economics of Environmental Protection", Ethics & the Environment, Vol.20, Number 1, Spring 2015

@@ -1,0 +1,26 @@
+---
+title: "SUPERA"
+description: "Supporting the Promotion of Equality in Research and Academia"
+date: 01-01-2019
+
+categories: [EU project] # self-defined categories
+
+image: supera.jfif
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+SUPERA has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 787829, coordinated by Universidad Complutense de Madrid (Spain). It gathers **4 universities**, **2 funding organizations** and **2 expert partners** from 6 European countries. Different backgrounds and experiences and a common commitment to pursue meaningful advancements towards gender equality: this is the SUPERA Consortium!
+
+In SUPERA, Sciences Po leads an impartial monitoring and GEP progress evaluation, developing a methodology for objective monitoring and assessment (WP7) -\> Maxime Forest & Hélène Périvier
+
+[![](images/paste-627E9E3F.png){fig-align="center" width="424"}](https://www.superaproject.eu/)
+
+### Abstract
+
+The way **scientific knowledge** is designed, developed and transformed into useful results for society continues to be influenced by the gender inequalities that affect our society as a whole. Gender stereotypes may for instance set a wrong context for analysis, and the male/man gender is too often used as a default mode. When research methods don\'t take into due consideration the variables connected to gender, scientific results are impoverished, and a lot of opportunities are missed. The research and higher education sector has peculiarities that require specific actions to overcome this situation, which we have called \"**gender gap**\".
+
+The main goal of the SUPERA project is to implement **six Gender Equality Plans** (GEPs) in 6 organizations from Southern and Central Europe: 4 of them are Research Performing Organizations and 2 are Research Funding Organizations. The scope of a GEP may vary considerably, depending on the type of organization, on the institutional context in which it is implemented, on the main research disciplines addressed and on the type of gender biases and inequalities identified.
+
+In general, all the Gender Equality Plans will help to articulate a deeper understanding of gender inequalities, stereotypes and biases in research and support the inclusion of a gender perspective in research and academia.
+
+[to learn more about SUPERA](https://www.superaproject.eu/what/)

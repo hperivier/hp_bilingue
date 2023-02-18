@@ -1,0 +1,20 @@
+---
+title: "books & special issues"
+listing:
+  contents: blog_books
+  sort: "date desc"
+  type: default
+  categories: true
+  image-align: left
+  
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    
+editor: visual
+#Adding a blog to your existing Quarto website (samanthacsik.github.io)
+---
+
+Here are the books I published, or the special issue of academic journals I co-edited:

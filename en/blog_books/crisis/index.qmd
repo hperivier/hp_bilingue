@@ -1,0 +1,38 @@
+---
+title: " "
+description: "European labour markets in time of crisis: A gender perspective, Revue de l'OFCE, n°133, co-edited  with Antoine Math and Anne Eydoux. ISBN: 978-2-312-00836-3"
+date: 01-01-2014
+
+categories: [special issue] # self-defined categories
+
+image: livre.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+[European labour markets in time of crisis: A gender perspective, Revue de l'OFCE, n°133](https://www.ofce.sciences-po.fr/pdf/revue/133/revue-133.pdf)
+
+### Content
+
+[Introduction: European labour markets in times of crisis A gender perspective](https://www.ofce.sciences-po.fr/pdf/revue/1-133.pdf) Anne Eydoux, Antoine Math and Hélène Périvier
+
+[The challenge of austerity for equality/ A consideration of eight European countries in the crisis](https://www.ofce.sciences-po.fr/pdf/revue/2-133.pdf) Jill Rubery and Maria Karamessini
+
+[Men and women during the economic crisis Employment trends in eight European countries](https://www.ofce.sciences-po.fr/pdf/revue/3-133.pdf) Hélène Périvier
+
+[The long tail of the Great Recession: Foregone employment and foregone policies](https://www.ofce.sciences-po.fr/pdf/revue/4-133.pdf) Mark Smith and Paula Villa
+
+["An ebbing tide lowers all boats" How the great recession of 2008 has affected men and women in Central and Eastern Europe](https://www.ofce.sciences-po.fr/pdf/revue/5-133.pdf) Éva Fodor and Beáta Nagy
+
+[Women during recessions in France and Germany: The gender biases of public policies](https://www.ofce.sciences-po.fr/pdf/revue/6-133.pdf) Anne Eydoux
+
+[Women's employment in Germany: Robust in crisis but vulnerable in job quality](https://www.ofce.sciences-po.fr/pdf/revue/7-133.pdf) Claudia Weinkopf
+
+[Labour market flows and unemployment dynamics by sex in Greece during the crisis](https://www.ofce.sciences-po.fr/pdf/revue/8-133.pdf) Maria Karamessini and Franciscos Koutentakis
+
+[Gender issues of the recent crisis in Portugal](https://www.ofce.sciences-po.fr/pdf/revue/9-133.pdf) Pilar González
+
+[Have the economic crises reduced the gender gap on the Spanish labour market?](https://www.ofce.sciences-po.fr/pdf/revue/10-133.pdf) Yolanda Peña-Boquete
+
+[Women and men's employment in the recessions of the 1990s and 2000s in Sweden](https://www.ofce.sciences-po.fr/pdf/revue/11-133.pdf) Anita Nyberg
+
+[Gender equality and the impact of recession and austerity in the UK](https://www.ofce.sciences-po.fr/pdf/revue/12-133.pdf) Anthony Rafferty

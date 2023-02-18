@@ -1,0 +1,122 @@
+---
+title: "L'économie au défi du genre "
+description: "College"
+date: 09/01/2022
+
+categories: [Undergraduate] # self-defined categories
+
+image: dessin.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+### Description du cours
+
+Le cours présente la façon dont l'économie traite de la division sexuée du travail et des inégalités femmes-hommes. Il se divise en 4 chapitres : le 1er aborde l'histoire économique de la division sexuée du travail et se termine par une comparaison internationale des inégalités entre les sexes et les enjeux qu'elles soulèvent aujourd'hui dans les économies industrialisées occidentales. Le 2^ème^ chapitre se concentre sur l'histoire de la pensée économique de Smith à nos jours, en mettant en évidence la façon dont les différentes écoles de pensée abordent la question de la division sexuée du travail. Le 3^ème^ et le 4^ème^ chapitres se rapportent respectivement à l'économie de la famille (et au travail domestique) et à la discrimination. Dans les deux cas, les perspectives théoriques et empiriques sont présentées. Le cours explore aussi bien les approches issues du courant néoclassique que celles proposées par des courants de pensée moins connus des étudiant-e-s, comme par exemple l'institutionnalisme des origines.
+
+### Plan du cours
+
+#### **Introduction**
+
+**(1 séance)**
+
+###### Les objectifs du cours
+
+###### Les modes d'évaluation
+
+###### Economie, genre : de quoi parle-t-on?
+
+###### Le plan du cours
+
+#### **Chapitre 1: La division sexuée du travail dans une perspective historique**
+
+**(3 séances)**
+
+##### **Section 1. Le travail dans l'ère préindustrielle**
+
+###### → La famille, un espace de production
+
+##### **Section 2. L'industrialisation et l'encadrement du travail des femmes**
+
+###### → Agriculture, service, industrie : le positionnement des femmes et des hommes
+
+##### **Section 3. La montée du salariat et l'ère contemporaine**
+
+###### → Apogée et déclin du modèle économique du « *male breadwinner*»
+
+#### **Chapitre  2: La division sexuée du travail dans l'histoire de la pensée économique**
+
+**(3 séances)** 
+
+##### **Section 1. Les économistes classiques et l'ordre sexué**
+
+###### → Libéralisme, socialisme et féminisme
+
+##### **Section 2. L'homo œconomicus a-t-il un sexe ?**
+
+###### → Les fondements de la pensée néoclassique
+
+##### **Section 3. Beyond economic man**
+
+###### → La pensée féministe en économie et l'institutionnalisme
+
+#### **Chapitre 3 : Economie de la famille et production domestique**
+
+**(3 séances)**
+
+##### **Section 1. Microéconomie de la famille**
+
+###### → de la New Home economics aux développements théoriques récents
+
+###### → comment expliquer la division sexuée du travail dans les couples ?
+
+##### **Section 2. Le travail domestique : quelle richesse des Nations?**
+
+###### → comment définir et mesurer la valeur du travail domestique ?
+
+##### **Section 3. Comment évaluer les politiques familiales ?**
+
+###### → Evaluation des politiques d'articulation vie familiale/ vie professionnelle
+
+#### **Chapitre 4 : De la discrimination en économie**
+
+**(2 séances)**
+
+##### **Section 1 : Discrimination et ségrégation de l'emploi**
+
+###### → Qu'est-ce la discrimination ?
+
+###### → Marché du travail et processus discriminatoires
+
+##### **Section 2 : Les théories de la discrimination**
+
+###### → Les théories de la discrimination et leurs évolutions
+
+##### **Section 3 : Comment mesurer les discriminations?**
+
+###### → Les approches empiriques pour mesurer la discrimination
+
+### Références 
+
+Bertrand M., New Perspective on gender", *Handbook of Labor Economics*, Vol.4b, 2010
+
+Peterson J. et M. Lewis (dir.), *The Elgar Companion to Feminist Economics*, Edward Elgar publishing, 2004.
+
+Jacobsen J. , *The economics of gender*, Blackwell, 2007.
+
+Chant S. dir., *The International Handbook of gender and poverty. Concepts, research , Policy*, Edward Elgar, Publishing, 2010
+
+Fetherolf Loutfi M. ed.,  *Women, Gender and Work*, ILO, Geneva, 2001.
+
+Folbre N., *Greed, Lust and Gender: a history of Economic Ideas*, Oxford University Press, New York, 2009.
+
+Folbre N.,*The invisible Heart, Economics and Family Values*, The New Press, 2001.
+
+Folbre N., *De la différence des sexes en économie politique*, des femmes, Paris, 1997.
+
+Kuiper E. et J. Sap, *Out of the margin* , Routledge
+
+Périvier H., *L'économie féministe. Pourquoi l'économie a besoin du féminisme et vice versa*. Presses de Sciences Po, 2020.
+
+Ponthieux S. and D. Meurs (2015), "*Gender* Inequalities", in Atkinson A. and F. Bourguignon, Handbook of Income Distribution, vol.2.
+
+Vallet G., *L'économie politique du genre*, deBoeck, 2021.

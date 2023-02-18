@@ -1,0 +1,32 @@
+---
+title: "MOCHO"
+description: "The Rationale of Motherhood Choices : Influence of employment and public policies"
+date: 01-01-2005
+
+categories: [EU project] # self-defined categories
+
+image: mocho.jfif
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+The Rationale of Motherhood Choices : Influence of employment and public policies, 5e PCRD, CE, 2001-2004, coordinated Danièle Meulders, ULB, Brussels.
+
+[to learn more about MOCHO](https://cordis.europa.eu/project/id/HPSE-CT-2001-00096)
+
+### **Objectif**
+
+Women's attitudes towards motherhood are in the core of all economic and social problems raised by the decline in fertility rates and ageing of European population. The future of the welfare states depends on women's willingness to insure a reproduction function, as far as their choice is to take part in paid employment, are public policies adapted in order to facilitate the combination between employment and motherhood?. This project aim to study how the motherhood decision is affected by labour market conditions and how public policies can be designed in order to promote parenthood by dual career couples, which is becoming the normal way of life in European Union member states. The interdisciplinary and international character of the research team including policy analysts, economists and sociologists will allow both furthering the research front and allow for a broad discussion and dissemination of the results.
+
+### ![](images/paste-CCB84675.png){width="236"}
+
+
+
+Publications
+
+###### [« Family Policies in France: between generosity and ambiguity ](http://www.ulb.ac.be/soco/mocho/)», *First Newsletter of MOCHO*, September, 2002.
+
+###### [« The childcare system in France: a glance at the 2003 reform »](file:///D:/Appdata/Download/-%09http:/www.ulb.ac.be/soco/mocho/), *Third Newsletter of MOCHO*, September, 2003.
+
+###### [« Female employment and Public Policies in France »](http://www.ulb.ac.be/soco/mocho/), Chapter 3 *State of the Art*, First Report of MOCHO, September, 2002.
+
+###### [« Family Policies in Europe: a Formal Comparison across countries and across time (1988-2001) »](http://www.ulb.ac.be/soco/mocho/), *Working Paper*, November, 2002.

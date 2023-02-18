@@ -1,0 +1,182 @@
+---
+title: "Biological Gender Differences, Absenteeism and the Earning Gap"
+description: "Mon analyse de l'article de Ichino & Moretti (AER Applied, 2009)..."
+date: 09/01/2012
+categories: [Paper] # self-defined categories
+image: image.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Ichino, Andrea, and Enrico Moretti. 2009. "[Biological Gender
+Differences, Absenteeism, and the Earnings
+Gap.](https://www.aeaweb.org/articles?id=10.1257/app.1.1.183)" *American
+Economic Journal: Applied Economics*, 1 (1): 183-218.DOI:
+10.1257/app.1.1.183
+
+
+La recherche en sciences humaines et sociales n\'est toujours pas
+épargnée par ce que l\'on nomme le sexisme ordinaire. Idées-reçues,
+stéréotypes et poncifs sont encore présents dans certains travaux. La
+rubrique *Mauvais genre*, que nous inaugurons dans ce numéro, a pour but
+d\'épingler ces sophismes, malfaçons et absurdités ainsi que de
+déconstruire la circularité des raisonnements qui les entoure. Elle
+s\'ouvre avec la critique d\'un travail d\'économistes, qui, aveuglés
+par leur volonté de montrer que le cycle menstruel des femmes ne peut en
+aucun cas être sans effet sur leur productivité, leur temps de travail
+et donc leur salaire, finissent par tirer des données le résultat
+qu\'ils recherchaient fondamentalement. Si le sujet est d\'un intérêt
+incontestable, la démarche est quant à elle indigne d\'une recherche
+scientifique. Le sexisme ordinaire, dans notre métier, conduit à la
+faute professionnelle.
+
+La très sérieuse revue *American Economic Journal* publie dans son
+numéro de janvier 2009 un article coécrit par deux économistes, Andrea
+Ichino et Enrico Moretti, intitulé « *Biological Gender Differences,
+Absenteeism and the Earning Gap* »  qui nous apprend que les femmes sont
+moins rémunérées que les hommes en raison de leur cycle menstruel qui
+perturbe leur vie professionnelle. Cette différence biologique
+expliquerait 14 % de l\'écart de salaire entre les sexes ; un écart que
+les auteurs jugent donc incompressible, puisque Dame Nature en serait
+l\'instigatrice. Les deux économistes ne s\'arrêtent pas là, et infèrent
+de leurs résultats qu\'il serait contreproductif pour l\'emploi des
+femmes d\'obliger les entreprises à réduire cet écart de salaire, en
+leur faisant supporter le coût de cette « faiblesse féminine ». Ce
+serait donc à la collectivité de décider si elle juge bon de la
+compenser en subventionnant le salaire des femmes. Comment en sont-ils
+arrivés à cette conclusion teintée d\'un naturalisme archaïque et
+décalé ?
+
+Les auteurs partent du constat que dans tous les pays développés, les
+salaires des femmes sont plus faibles que ceux des hommes. Mais les
+explications usuelles qui tiennent aux partages des rôles et aux
+« avantages compara-tifs » de chaque sexe ne permettent pas de faire la
+part des choses entre ce qui relève de la construction sociale et ce qui
+relève des différences intrinsèques entre les femmes et les hommes. Pour
+trancher cette question, ils se proposent donc d\'utiliser
+l\'absentéisme comme révélateur de l\'impact des différences biologiques
+entre les sexes sur l\'emploi. Les statistiques par pays issues des
+grandes enquêtes nationales indiquent en effet que, partout, le nombre
+de jours d\'absence au travail par an est supérieur pour les femmes, sur
+une population de célibataires sans enfant. L\'écart entre les sexes est
+d\'un peu moins de trois jours pour l\'Europe, deux pour les États-Unis
+et un pour le Canada. Comment expliquer cet écart ? Les données issues
+de ces enquêtes ne leur permettent pas d\'aller plus loin. Ils basculent
+alors sur une base de données individuelles, issue d\'une grande banque
+italienne, qui contient les dates précises et la durée des absences.
+
+Les auteurs construisent des graphiques qui donnent la distribution des
+durées qui séparent toute paire d\'absences possibles. Pour les moins de
+45 ans, l\'écart entre deux absences est plus souvent de 28 jours pour
+les femmes que pour les hommes. Notons que ces graphiques sont
+extrêmement « bruités », c\'est-à-dire que de multiples pics
+apparaissent ; ces variations sont telles qu\'on peut s\'interroger sur
+leur possible interprétation. Par exemple, pour les personnes ayant
+entre 45 et 55 ans, un pic apparaît en défaveur des hommes à 14 jours,
+il est d\'ailleurs plus marqué que celui qui frappe les femmes à 28
+jours (Figure 2, page 46), ce qui s\'interpréterait comme suit :
+relativement aux femmes, les hommes de cette tranche d\'âge ont une
+probabilité plus forte d\'avoir 14 jours d\'écart entre deux périodes
+d\'absence au travail. Les hommes auraient-ils un cycle hormonal de
+14 jours qui perturberait leur vie professionnelle entre 45 et 55 ans,
+les affres de l\'andropause qui les frapperaient tous les 15 jours
+peut-être ?
+
+Les auteurs se lancent néanmoins dans une estimation paramétrique pour
+tenter de « faire la part des choses ». Il en résulte que le cycle des
+absences des femmes de moins 45 ans est plus souvent de 28 jours que
+celui des hommes et, que cet effet disparaît pour les femmes de plus de
+45 ans. Banco, ils y voient la preuve que ces absences cycliques sont le
+fruit du cycle menstruel qui s\'arrête avec la ménopause. Si leurs
+traitements des données font effectivement ressortir un cycle, en aucun
+cas ils ne leur permettent de faire un lien avec le cycle menstruel.
+Tout ce qui apparaît est que dans cette banque italienne, entre 1993
+et 1995, les absences au travail des femmes et des hommes ont été
+marquées par des cycles de 7 jours et d\'un multiple de 7, ce qui n\'a
+rien de surprenant étant donné le rythme imposé par le découpage du
+calendrier en semaines. Les raisons de ces absences peuvent être
+différentes selon le sexe, mais pour aller plus loin il faudrait des
+données spécifiques qui permettraient d\'établir un lien direct entre
+les absences et les règles des employées absentes. Mais Andrea Ichino et
+Enrico Moretti ne disposent pas de telles données, ils postulent donc
+que ces absences ont une cause biologique. D\'ailleurs, le cycle
+menstruel n\'est pas de 28 jours ; ils en conviennent et adoptent par la
+suite une durée du cycle « entre 26 et 30 jours » (Page 11). avec une
+grande variabilité. Au final, la fréquence de 28 jours entre deux
+absences pour les femmes serait tout au plus une résonance entre le
+cycle menstruel et le cycle hebdomadaire et très certainement rien de
+plus qu\'un bête effet de calendrier. Malgré tout, les auteurs y voient
+la preuve que le cycle menstruel conduirait les femmes à avoir 1,5 jour
+d\'absence par an de plus que les hommes.
+
+À partir de ce résultat et connaissant le salaire journalier moyen des
+femmes et l\'écart avec celui des hommes, les auteurs n\'hésitent pas à
+en déduire que les cycles menstruels expliqueraient directement 4,4 % de
+l\'écart de salaire entre les sexes. Mais ce strict coût salarial ne
+serait que la partie visible de l\'iceberg, le coût total serait encore
+plus important. D\'abord parce que l\'employeur paie un coût fixe pour
+un poste de travail, que l\'employée soit là ou non ; ensuite parce
+qu\'une absence non planifiée est plus coûteuse que le salaire
+journalier ; par ailleurs, les femmes qui viennent quand même travailler
+durant leurs jours de règles seraient moins productives **(**Note 22).
+Faut-il ici souligner que les absences des femmes coûtent moins cher que
+celles des hommes, et suggérer aux auteurs de calculer le coût global en
+tenant compte de cette différence ? Enfin et surtout, cela
+n\'intégrerait pas le signal négatif que des absences envoient à
+l\'employeur. Pour prendre en compte ces aspects, Andrea Ichino et
+Enrico Moretti utilisent un modèle de discrimination statistique, qui
+repose sur un mode de fixation des salaires de la part des employeurs
+aussi irréaliste qu\'absurde. Ne pouvant pas mesurer directement la
+productivité de leurs employés, les employeurs se fonderaient sur leurs
+caractéristiques observables, comme par exemple leur degré
+d\'absentéisme. Ils seraient cependant conscients qu\'une partie des
+absences des femmes serait liée à leur cycle menstruel et donc ne
+l\'interprèteraient pas directement comme un signal de volonté
+d\'éviction du travail. Malgré tout, ils le répercuteraient sur les
+salaires de sorte que les cycles menstruels expliqueraient 14 % de
+l\'écart de salaire entre les sexes. Ainsi l\'information révélée dans
+la première partie de l\'article, à savoir « les femmes ont des absences
+régulières liées à leur cycle », serait-elle depuis longtemps connue des
+employeurs et intégrée dans le processus de fixation des salaires.
+
+À aucun moment, les auteurs ne sont en mesure de valider les relations
+de cause à effet qui fondent leur raisonnement : les femmes de moins de
+45 ans ont des règles cycliques, donc elles ont des absences cycliques
+au travail et donc elles sont moins payées. Ainsi, c\'est parce
+qu\'elles ont des règles cycliques qu\'elles seraient moins payées. Les
+propositions sont exactes mais leur enchaînement est fallacieux : on
+pourrait tout aussi bien dire, les femmes sont moins bien payées que les
+hommes, donc elles ont des absences cycliques parce qu\'elles sont
+découragées : il n\'y a rien de biologique là-dedans, juste une
+discrimination salariale envers les femmes qui, par ailleurs, ont leurs
+règles tous les mois ou presque. Toute autre caractéristique propre aux
+femmes aurait pu faire l\'affaire : les femmes portent des talons
+aiguilles, elles ont un risque plus grand de se tordre la cheville, les
+employeurs connaissent ce risque et les paient moins que les hommes en
+conséquence. D\'ailleurs, si cet écart de salaire était bien lié aux
+rythmes biologiques des femmes, alors il devrait disparaître au moment
+de la ménopause. Or les auteurs n\'ont pas la rigueur, ou l\'honnêteté,
+de pousser leur démonstration jusqu\'au bout, puisque leurs estimations
+n\'intègrent que les employés âgés de moins de 45 ans  (Note 27). Nous
+ne saurons donc pas ce qu\'il advient de cet écart spécifique de salaire
+pour les femmes ménopausées.
+
+Finalement, les cycles menstruels se traduiraient par un
+« sur-absentéisme » des femmes relativement aux hommes de 1,5 jour par
+an, soit 0,7 % de leur temps travail, qui engendrerait un écart de
+salaire entre les sexes de 14 %... un effet boule de neige peu crédible.
+Loin d\'une démarche scientifique rigoureuse, cet article repose sur un
+sexisme plein de compassion pour les femmes tordues de douleur
+périodiquement. Sa publication révèle la main mise sur la recherche en
+économie d\'un scientisme qui réduit la complexité sociale à un simple
+déterminisme biologisant, digne du pire eugénisme du
+[xix]{.smallcaps}^e^ siècle, qui visait à chercher des justifications
+« scientifiques » de l\'infériorité d\'un groupe humain par rapport à un
+autre.
+
+Review published in [*Travail, genre et sociétés*, n°21,
+2012](file:///G:/Mon%20Drive/Mes%20Documents/CV,%20RA%20et%20Bio/CV/CV/-%09http:/www.cairn.info/revue-travail-genre-et-societes-2009-1-page-189.htm).
+
+

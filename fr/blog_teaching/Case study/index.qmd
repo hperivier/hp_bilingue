@@ -1,0 +1,18 @@
+---
+title: "Covering egg freezing cost for female employees at Apple and Facebook"
+description: "Case study, EAP"
+date: 09/01/2022
+
+categories: [Master] # self-defined categories
+
+image: desssin6.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Covering egg freezing cost for female employees and work life balance policies: a tool to promote gender equality in the workplace or a new form of oppression?
+
+### Case summary
+
+In 2014, Facebook and Apple announced that they will cover elective egg-freezing costs for their employees.  The two companies may be the first to pay for the procedure for women who choose to delay childbearing. It is also part of the war of Perks, more benefits are offered to the employees by very competitive companies attract the top talent with the best benefits. The proposal aims also to support women to pursue a career without having to sacrifice being mothers or having a family life. The critical time in the career is also the period during which the biological and the social pressures to have a child are the strongest. Oocyte freezing allows female workers to postpone the decision to have child and take the time to go up job ladder and to reach the highest position in the firm. The cost of freezing egg is around 15 000 \$ + 5000 \$ for 5 years of storage. Apple offers to cover up to 20 000 \$ for these costs.  This policy is part of a set of "family friendly policies" as Apple also provides extended maternity leave, adoption assistance and infertility treatments, and also paternity leave and work life balance measures to support parents. They have been many criticisms of this policy coming from different perspectives. This case study aims at analyzing the pros and cons and the efficiency of such proposal.
+
+[Description of the case](case.pdf)
