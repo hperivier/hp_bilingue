@@ -13,7 +13,7 @@ project:
   
 about:
   template: trestles
-  image: HP6.jpg
+  image: HP22.jpg
   image-width: 10em
   image-shape: rounded
   links:

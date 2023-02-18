@@ -9,19 +9,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: fr/bio.qmd
+      - href: en/bio.qmd
         text: Bio
-      - href: fr/publications.qmd
+      - href: en/publications.qmd
         text: Publications
-      - href: fr/blog_books.qmd
+      - href: en/blog_books.qmd
         text: Books
-      - href: fr/blog_projects.qmd
+      - href: en/blog_projects.qmd
         text: Research 
-      - href: fr/blog_teaching.qmd
+      - href: en/blog_teaching.qmd
         text: Teaching
-      - href: fr/media.qmd
+      - href: en/media.qmd
         text: Media
-      - href: fr/blog_review.qmd
+      - href: en/blog_review.qmd
         text: Book review
 
     right:
