@@ -1,6 +1,8 @@
 project:
   type: website
+  pre-render: 
+    - copy_index.r
 
 profile: 
-  default: french
-  group: [french, english]
+  default: FR
+  group: [FR, EN]

@@ -1,13 +1,14 @@
 project:
   output-dir: docs/fr
-  title: "french"
-
+  title: ""
+  render: 
+    - "fr/"
 website:
    navbar:
     background: secondary
     search: true
     left:
-      - href: index.qmd
+      - href: fr
         text: Home
       - href: fr/bio.qmd
         text: Bio
@@ -24,10 +25,8 @@ website:
       - href: fr/blog_review.qmd
         text: Recensions
     right:
-      - href: ../fr
-        text: french
-      - href: ../en
-        text: english
+      - href: en/
+        text: EN
         
 lang: fr
 

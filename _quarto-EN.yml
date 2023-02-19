@@ -1,13 +1,15 @@
 project:
-  title: "english"
   output-dir: docs/en
+  title: ""
+  render: 
+    - "en"
   
 website:
   navbar:
     background: secondary
     search: true
     left:
-      - href: index.qmd
+      - href: en
         text: Home
       - href: en/bio.qmd
         text: Bio
@@ -25,11 +27,9 @@ website:
         text: Book review
 
     right:
-      - href: ../fr
-        text: french
-      - href: ../en
-        text: english
-        
+      - href: fr/
+        text: FR
+ 
 lang: en
 
 format:
