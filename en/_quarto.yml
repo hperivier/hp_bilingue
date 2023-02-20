@@ -1,0 +1,35 @@
+project:
+  type: website
+  title: "english"
+  output-dir: ../ressources/en
+  
+website:
+  navbar:
+    background: secondary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - bio.qmd
+      - publications.qmd
+      - blog_books.qmd
+      - blog_projects.qmd
+      - blog_teaching.qmd
+      - media.qmd
+      - blog_review.qmd
+
+    right:
+      - href: ../
+        text: fr
+        
+lang: en
+
+format:
+  html:
+    theme:
+      - lux
+      - custom.scss
+    css: styles.css
+    toc: true
+    
+editor: visual
