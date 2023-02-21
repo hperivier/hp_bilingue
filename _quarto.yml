@@ -3,6 +3,8 @@ project:
   output-dir: docs
   resources: 
     - "ressources/en"
+  pre-render: 
+    - render_en.r
 
 website:
    navbar:
@@ -16,15 +18,15 @@ website:
       - href: fr/publications.qmd
         text: Publications
       - href: fr/blog_books.qmd
-        text: Livres
+        text: Ouvrages
       - href: fr/blog_projects.qmd
-        text: Projets
+        text: Recherches
       - href: fr/blog_teaching.qmd
         text: Enseignement
       - href: fr/media.qmd
         text: Média
       - href: fr/blog_review.qmd
-        text: Revues
+        text: Recensions
     right:
       - href: ressources/en/
         text: en
