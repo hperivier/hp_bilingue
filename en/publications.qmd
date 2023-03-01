@@ -3,29 +3,37 @@ title: "Publications"
 editor: visual
 ---
 
+### Working papers submitted
+
+["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, with Maxime Parodi and Fabrice Larat, 2022.
+
+["Measuring the Child Penalty Early in a Career: The Case of Young Adults in France",](https://www.iza.org/publications/dp/14763/measuring-the-child-penalty-early-in-a-career-the-case-of-young-adults-in-france) with [Stephen Bazen](https://www.iza.org/person/1677) and Xavier Joutard, *Discussion Paper IZA*, N° 14763, 2021*.*
+
+"[Can the parental leave be shared?](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2021-06.pdf)", with Grégory Verdugo*, Working Paper OFCE*, n° 06/2021, 2021.
+
 ### Refereed journals
 
-"Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer", with Rebecca Rogers, *Œconomia*, to be published.
+["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), with Rebecca Rogers, *Œconomia*, Vol.12, n°3, 2022.
 
-[\"Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes\"](http://localhost:4275/info_soc.pdf), with Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82, 2022.
+["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](http://localhost:4275/info_soc.pdf), with Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82, 2022.
 
 [« Sharing or Not Sharing? Household Division of Labor and Marital Status in France 1985-2009 »,](pdf/populationEN.pdf) with Lamia Kandil, *Population*, n°1, 2021, doi:10.3917/popu.2101.0155
 
-« [Taxation of Couples and marital status. Simulation of three Reforms of the Marital Quotient in France ](https://www.insee.fr/en/statistiques/5349534?sommaire=5432550)», with Guillaume Allègre and Muriel Pucci, *Economie et Statistique*, preprint 30 mars 2021, doi:10.24187/ecostat.2021.526d.2050
+« [Taxation of Couples and marital status. Simulation of three Reforms of the Marital Quotient in France ](pdf/eco_statEN.pdf)», with Guillaume Allègre and Muriel Pucci, *Economie et Statistique*, preprint 30 mars 2021. doi:10.24187/ecostat.2021.526d.2050
 
-[« Why women choose at-home abortion via teleconsultation in France: drivers of telemedicine abortion during and beyond the COVID-19 pandemic](https://srh.bmj.com/content/early/2021/07/28/bmjsrh-2021-201176) », with Hazal Atay, Kristina Gemzell-Danielsson, Jean Guilleminot, Danielle Hassoun, Judith Hottois, Rebecca Gomperts, Emmanuelle Levrier, *BMJ sexual and Reproductive Health*, Vol. 47, n°4, 2021, <http://dx.doi.org/10.1136/bmjsrh-2021-201176>
+[« Why women choose at-home abortion via teleconsultation in France: drivers of telemedicine abortion during and beyond the COVID-19 pandemic](https://srh.bmj.com/content/early/2021/07/28/bmjsrh-2021-201176) », with Hazal Atay, Kristina Gemzell-Danielsson, Jean Guilleminot, Danielle Hassoun, Judith Hottois, Rebecca Gomperts, Emmanuelle Levrier, *BMJ sexual and Reproductive Health*, Vol. 47, n°4, 2021. <http://dx.doi.org/10.1136/bmjsrh-2021-201176>
 
-[« Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard »](pdf/pegard.pdf), with Rebecca Rogers, *French Politics, Cultures and Societies*, Vol. 37, n°3, 2019, doi:10.3167/fpcs.2019.370301
+[« Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard »](pdf/pegard.pdf), with Rebecca Rogers, *French Politics, Cultures and Societies*, Vol. 37, n°3, 2019. doi:10.3167/fpcs.2019.370301
 
 [« Equivalence scales challenged by new family configurations »](pdf/revue_eco.pdf), with Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018.
 
-[«Recession, Austerity and Gender: A Comparison of Eight European Labour Markets», *International Labour Review*,](http://onlinelibrary.wiley.com/doi/10.1111/ilr.12032/full) Vol. 157, n°1, 2018.
+[«Recession, Austerity and Gender: A Comparison of Eight European Labour Markets»](pdf/ilr.pdf), *International Labour Review*, Vol. 157, n°1, 2018.
 
-[« The new Spirit of neo-liberalism: Equality and economic prosperity »](pdf/neolib.pdf), with Réjane Sénac, *International Social Science Journal*, 223-224, 2017, <https://doi.org/10.1111/issj.12131>
+[« The new Spirit of neo-liberalism: Equality and economic prosperity »](pdf/neolib.pdf), with Réjane Sénac, *International Social Science Journal*, 223-224, 2017. <https://doi.org/10.1111/issj.12131>
 
-« La pauvreté au prisme du genre », *Communications,* EHESS/CNRS-Centre Edgar Morin, n°98, 2016
+« La pauvreté au prisme du genre », *Communications,* EHESS/CNRS-Centre Edgar Morin, n°98, 2016.
 
-[« Une lecture genrée de la Sécurité sociale : 70 ans après, quel bilan pour l\'égalité des femmes et des hommes ? »](http://www.cairn.info/revue-informations-sociales-2015-3.htm), *Informations sociales*, n°189, 2015
+[« Une lecture genrée de la Sécurité sociale : 70 ans après, quel bilan pour l'égalité des femmes et des hommes ? »](http://www.cairn.info/revue-informations-sociales-2015-3.htm), *Informations sociales*, n°189, 2015.
 
 [« L'allocation de parent isolé a-t-elle favorisé l'inactivité des femmes ? »,](http://www.insee.fr/fr/ffc/docs_ffc/ES429G%20.pdf) with Yves de Curraize, *Economie et Statistique*, n°429-430, 2009.
 
@@ -41,29 +49,9 @@ editor: visual
 
 « La marche vers l'égalité des sexes au travail : du piétinement au recul, il n'y a qu'un pas », *Droit Social*, n°9/10, septembre/octobre 2004.
 
-[« The relative generosity of EU members\' states childcare system »](http://journals.sagepub.com/doi/pdf/10.1177/102425890401000108), with Jérôme de Hénau, Danièle Meulders and Sile O\'Dorchai, *Transfer*, n°1, 2004.
+[« The relative generosity of EU members' states childcare system »](http://journals.sagepub.com/doi/pdf/10.1177/102425890401000108), with Jérôme de Hénau, Danièle Meulders and Sile O'Dorchai, *Transfer*, n°1, 2004.
 
 « Emploi des mères et garde des jeunes enfants : l'impossible réforme ? », *Droit Social*, n°9/10, 2003.
-
-### Working papers
-
-["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Papers OFCE* n° 15/2022, with Maxime Parodi and Fabrice Larat, 2022
-
-["Measuring the Child Penalty Early in a Career: The Case of Young Adults in France",](https://www.iza.org/publications/dp/14763/measuring-the-child-penalty-early-in-a-career-the-case-of-young-adults-in-france) *with [Stephen Bazen](https://www.iza.org/person/1677) and Xavier Joutard, Discussion Paper IZA*, N° 14763, 2021*.*
-
-"[Can the parental leave be shared?](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2021-06.pdf)", with Grégory Verdugo*, Working Paper OFCE*, n° 06/2021, 2021.
-
-[« Sharing or Not Sharing? Household Division of Labor and Marital Status in France 1985-2009 »](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2019-12.pdf), Working Paper OFCE n°2019-12, with Lamia Kandil, juillet 2019.
-
-[« Imposition des couples en France et statut marital. Simulation de trois réformes du quotient conjugal »](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2019-13.pdf), with Guillaume Allègre and Muriel Pucci, Working paper OFCE n°2019-13, juillet 2019.
-
-[« The sexual division of labour within couples in France according to their marital status A study based on time-use surveys from 1985-1986, 1998-1999 and 2009-2010 »](http://www.ofce.sciences-po.fr/pdf/dtravail/WP2017-04.pdf), with Lamia Kandil, *Working Paper OFCE*, n°2017-4, 2017.
-
-[Recession, Austerity and Gender A Comparison of Eight European Labour Markets](http://www.ofce.sciences-po.fr/pdf/dtravail/WP2016-05.pdf), *Working Paper OFCE*, n°2016-5, 2016.
-
-« [Les échelles d'équivalence à l'épreuve des nouvelles configurations familiales ](http://www.ofce.sciences-po.fr/pdf/dtravail/WP2015-16.pdf)», with Henri Martin, *Working Paper OFCE*, n° 2015-16, 2015.
-
-[« La place du RMI dans les minima sociaux »](http://www.ofce.sciences-po.fr/pdf/dtravail/WP2008-08.pdf), *Working Paper OFCE,* n°2008-08, March, 2008.
 
 ### Revue de l'OFCE
 
@@ -83,43 +71,65 @@ editor: visual
 
 [« Les mesures fiscales d'incitation au travail des personnes peu qualifiées »](http://www.ofce.sciences-po.fr/pdf/revue/r87/r87-5.pdf.), *Revue de l'OFCE*, n° 87, 2003.
 
-### Policy Brief OFCE
+### Policy Brief & Blog OFCE
+
+[« Inégalités des chances a concours externe de l'ENA : le rôle du genre croisé à l'origine sociale »](https://www.ofce.sciences-po.fr/blog/inegalites-des-chances-au-concours-externe-de-lenale-role-du-genre-croise-a-lorigine-sociale/), with Maxime Parodi and Fabrice Larat, January 2023.
+
+[« L'imposition des couples dans la campagne présidentielle »,](https://www.ofce.sciences-po.fr/blog/limposition-des-couples-dans-la-campagne-presidentielle/) with Guillaume Allègre and Muriel Pucci,April 2022.
+
+[« Comment soutenir le niveau de vie des parents isolés ou séparés en adaptant le système socio-fiscal »,](https://www.ofce.sciences-po.fr/pdf/pbrief/2021/OFCEpbrief91.pdf) with Muriel Pucci, *Policy brief OFCE*, n° 91, 2021.
+
+[« Réduire significativement les taux de pauvreté des familles monoparentales »](https://www.ofce.sciences-po.fr/blog/reduire-significativement-le-taux-de-pauvrete-des-familles-monoparentales/), with Muriel Pucci, June 2021.
+
+[« Cinq ans après la réforme du congé parental (PreParE), les objectifs sont-ils atteints ? »](https://www.ofce.sciences-po.fr/pdf/pbrief/2021/OFCEpbrief91.pdf), *Policy Brief OFCE*, with Grégory Verdugo, n° 88, 2021.
+
+[« L'aide exceptionnelle de solidarité a-t-elle permis de couvrir les coûts du confinement pour les familles ? »](https://www.ofce.sciences-po.fr/blog/laide-exceptionnelle-de-solidarite-a-t-elle-permis-de-couvrir-les-couts-du-confinement-pour-les-familles/), avec Muriel Pucci and Guillaume Allègre, July 2020.
+
+[« L'emploi des femmes et des hommes pendant la période de confinement du 17 mars au 10 mai 2020 »](https://www.ofce.sciences-po.fr/blog/lemploi-des-femmes-et-des-hommes-pendant-la-periode-de-confinement-du-17-mars-au-10-mai-2020/), with Bruno Ducoudré, July 2020.
+
+[« Le recouvrement des impayés de pensions alimentaires réduit les dépenses sociales mais réduit également le niveau de vie de certaines mères isolées »](https://www.ofce.sciences-po.fr/blog/le-recouvrement-des-impayes-de-pensions-alimentaires-reduit-les-depenses-sociales-mais-reduit-egalement-le-niveau-de-vie-de-certaines-meres-isolees/), with Muriel Pucci, May 2019.
+
+[« Pour une réforme de l'imposition des couples »](https://www.ofce.sciences-po.fr/blog/10753-2/), with Guillaume Allègre, February 2019.
+
+[« Les Allemandes travaillent moins que les Françaises »](https://www.ofce.sciences-po.fr/blog/les-allemandes-travaillent-moins-que-les-francaises/), with Grégory Verdugo, February, 2019.
+
+[« Pourquoi rendre le congé de paternité obligatoire »,](https://www.ofce.sciences-po.fr/blog/10050-2/) February 2018.
 
 [« Le choix d'individualiser son impôt pour les couples »](https://www.ofce.sciences-po.fr/pdf/pbrief/2017/pbrief22.pdf), with Guillaume Allègre, Policy Brief OFCE, N°22, juillet 2017.
 
 [« Réduire les inégalités professionnelles en réformant le congé paternité »](http://www.ofce.sciences-po.fr/pdf/pbrief/2017/pbrief11.pdf), *Policy Brief OFCE*, n°11, janvier 2017
 
-[« Le partage du congé parental : un impératif d'égalité »](http://www.ofce.sciences-po.fr/pdf/notes/2013/note34.pdf), *Notes de l'OFCE*, n°34, septembre, 2013
+[« Le partage du congé parental : un impératif d'égalité »](http://www.ofce.sciences-po.fr/pdf/notes/2013/note34.pdf), *Notes de l'OFCE*, n°34, Septembre, 2013
 
-[« Quelle régulation économique et sociale de la pauvreté »](http://www.ofce.sciences-po.fr/pdf/notes/2011/note1.pdf), *Notes de l'OFCE*, n°1, septembre, 2011
+[« Quelle régulation économique et sociale de la pauvreté »](http://www.ofce.sciences-po.fr/pdf/notes/2011/note1.pdf), *Notes de l'OFCE*, n°1, Septembre, 2011
 
 [« Vers un service public de la petite enfance »](http://www.ofce.sciences-po.fr/pdf/revue/hs2012/hs2012.pdf), 2012, *in* Évaluation du projet économique du quinquennat 2012-2017
 
-[« Dix ans après](http://www.ofce.sciences-po.fr/pdf/lettres/279.pdf) la réforme du Welfare américain », *Lettre de l'OFCE*, n°279, janvier 2007
+[« Dix ans après](http://www.ofce.sciences-po.fr/pdf/lettres/279.pdf) la réforme du Welfare américain », *Lettre de l'OFCE*, n°279, January 2007
 
-[« Quel sort pour les allocataires de minima sociaux ? ](http://www.ofce.sciences-po.fr/pdf/lettres/273.pdf.)», *Lettre de l'OFCE*, n°273, mars, 2006
+[« Quel sort pour les allocataires de minima sociaux ? ](http://www.ofce.sciences-po.fr/pdf/lettres/273.pdf.)», *Lettre de l'OFCE*, n°273, March 2006
 
-[« Prime pour l'emploi et Minima sociaux : la lisibilité au détriment de l'équité ? »](http://www.ofce.sciences-po.fr/pdf/lettres/267.pdf), *Lettre de l'OFCE*, n°267, with Guillaume Allègre, octobre, 2005
+[« Prime pour l'emploi et Minima sociaux : la lisibilité au détriment de l'équité ? »](http://www.ofce.sciences-po.fr/pdf/lettres/267.pdf), *Lettre de l'OFCE*, n°267, with Guillaume Allègre, Octobre 2005
 
-[« Pauvreté et activité ](http://www.ofce.sciences-po.fr/pdf/lettres/262.pdf): vers quelle équation sociale ? », *Lettre de l'OFCE,* n°262, with Guillaume Allègre, juin, 2005
+[« Pauvreté et activité ](http://www.ofce.sciences-po.fr/pdf/lettres/262.pdf): vers quelle équation sociale ? », *Lettre de l'OFCE,* n°262, with Guillaume Allègre, June 2005
 
-[« La garde des jeunes enfants : affaire de femmes ou affaire d'Etat ? »](http://www.ofce.sciences-po.fr/pdf/lettres/228.pdf.), *Lettre de l'OFCE*, n°228, janvier, 2003
+[« La garde des jeunes enfants : affaire de femmes ou affaire d'Etat ? »](http://www.ofce.sciences-po.fr/pdf/lettres/228.pdf.), *Lettre de l'OFCE*, n°228, January 2003
 
 ### Other publications
 
-« Quelles conséquences de la crise sanitaire sur les inégalités entre les sexes en France ? », with Anne Boring, Marta Dominguez, Réjane Sénac and Marie Mercat-Bruns, in[Le Monde d'aujourd'hui Les sciences sociales au temps de la Covid, Première édition](http://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100370780#h2tabtableContents), Lazar M, G. Plantin and X. Ragot eds. Presses de Sciences Po, 2020.
+« Quelles conséquences de la crise sanitaire sur les inégalités entre les sexes en France ? », with Anne Boring, Marta Dominguez, Réjane Sénac and Marie Mercat-Bruns, in [Le Monde d'aujourd'hui Les sciences sociales au temps de la Covid, Première édition](http://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100370780#h2tabtableContents), Lazar M, G. Plantin and X. Ragot eds. Presses de Sciences Po, 2020.
 
-« [Repenser le congé parental en France dans une perspective féministe](https://www.alternatives-economiques.fr/node/94395) », *L\'économie politique,* n°88, 11-2020.
+« [Repenser le congé parental en France dans une perspective féministe](https://www.alternatives-economiques.fr/node/94395) », *L'économie politique,* n°88, 11-2020.
 
-\"A dynamic toward gender equality? Participation and employment in European Labour markets\", with Grégory Verdugo, *in* Creel J., E. Laurent, J. Le Cacheux eds., *Report on the State of European Union*, Vol. 5, *The Euro at 20 and the Futures of Europe*, Palgrave, 2018.
+"A dynamic toward gender equality? Participation and employment in European Labour markets", with Grégory Verdugo, *in* Creel J., E. Laurent, J. Le Cacheux eds., *Report on the State of European Union*, Vol. 5, *The Euro at 20 and the Futures of Europe*, Palgrave, 2018.
 
 « Les inégalités professionnelles »,[in Dictionnaire des inégalités et de la justice sociale, Savidan P., dir.,](https://www.puf.com/content/Dictionnaire_des_in%C3%A9galit%C3%A9s_et_de_la_justice_sociale) Presses Universitaires de France, 2018.
 
 « La réciprocité dans l'aide sociale », [*in Dictionnaire des inégalités et de la justice sociale*, Savidan P., dir.,](https://www.puf.com/content/Dictionnaire_des_in%C3%A9galit%C3%A9s_et_de_la_justice_sociale) Presses Universitaires de France, 2018.
 
-« Accueil des jeunes enfants : enjeux et perspectives », *Revue de l\'EN3S,* n°48, 2015.
+« Accueil des jeunes enfants : enjeux et perspectives », *Revue de l'EN3S,* n°48, 2015.
 
-« De madame Au-Foyer à madame Gagne-miettes. Etat social en mutation dans une perspective franco-états-unienne, *in Travail et genre dans le monde. L\'état des savoirs*, M. Maruani (eds.), La Découverte, 2013.
+« De madame Au-Foyer à madame Gagne-miettes. Etat social en mutation dans une perspective franco-états-unienne, *in Travail et genre dans le monde. L'état des savoirs*, M. Maruani (eds.), La Découverte, 2013.
 
 « Le genre des politiques sociales de lutte contre la pauvreté en France et aux Etats-Unis », *in* Sandrine Dauphin, Réjane Sénac (dir.), *Femmes-hommes : penser l'égalité*, Paris, La Documentation française, coll. « Les Etudes », décembre, 2012
 
@@ -141,12 +151,12 @@ editor: visual
 
 [*Ecouter sans voir : l'impact du paravent dans le recrutement des orchestres en Ile-de-France*](pdf/ardis.pdf), with Reguina Hatzipetrou-Andronikou, Chiara Noe, Hyacinthe Ravet, Report for the Alliance de Recherche sur les Discriminations-Domaine d'intérêt majeur « Genre, inégalités, discriminations », Région Ile-de-France, January 2015.
 
-*Etude comparée des politiques d'articulation entre vie familiale et vie professionnelle et des politiques envers les familles monoparentales en Allemagne, en France, aux Pays-Bas, en Suède et au Royaume-Uni*, Report for the French National Assembly, with the LIEPP-CEE and the OFCE, Marché 2010 ANJ-12-II-01, October, 2011. The total budget of the project amounts to 60 000 euros.
+*Etude comparée des politiques d'articulation entre vie familiale et vie professionnelle et des politiques envers les familles monoparentales en Allemagne, en France, aux Pays-Bas, en Suède et au Royaume-Uni*, Report for the French National Assembly, with the LIEPP-CEE and the OFCE, Marché 2010 ANJ-12-II-01, October, 2011.
 
 *Study on sex discrimination in access to education: Evaluation of the needs for and effectiveness of current measures in the Member State*, French Report for Fondazione Brodoli for the European Commission, VC/2010/0242, December 2010.
 
-*Les femmes sur le marché du travail : les faiblesses spécifiques dans huit pays représentatifs de l'Union Européenne*, Report for the European Parliament, with Sile O'Dorchai, n° IP-C-FEMM-IC-2007-077, OFCE, November, 2008. The total budget of the project amounts to 60 000 euros.
+*Les femmes sur le marché du travail : les faiblesses spécifiques dans huit pays représentatifs de l'Union Européenne*, Report for the European Parliament, with Sile O'Dorchai, n° IP-C-FEMM-IC-2007-077, OFCE, November, 2008.
 
 *Réformer la prime pour l'emploi*, with Guillaume Allègre and Cyril Hagneré, Report for the « Commission des Finances, de l'Economie Générale et du Plan » of the French National Assembly, OFCE, June, 2004.
 
-*Les réformes fiscales en Europe : 1992-2002*, Chapter 2.4. « Mesures d'incitation au travail des personnes peu qualifiées », Report for the French Senate, OFCE, mai 2002.
+*Les réformes fiscales en Europe : 1992-2002*, Chapter 2.4. « Mesures d'incitation au travail des personnes peu qualifiées », Report for the French Senate, OFCE, May 2002.

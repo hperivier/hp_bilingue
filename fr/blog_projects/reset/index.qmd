@@ -3,7 +3,9 @@ title: "RESET"
 description: "Redesigning Equality and Scientific Excellence Together"
 date: 01-01-2020
 
-categories: [projet européen] # self-defined categories
+categories: [Projet européen] # self-defined categories
+
+lang: fr
 
 image: reset.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!

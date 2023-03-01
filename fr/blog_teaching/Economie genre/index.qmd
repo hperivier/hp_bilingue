@@ -1,12 +1,14 @@
 ---
 title: "L'économie au défi du genre "
-description: "College"
+description: "Bachelor"
 date: 09/01/2022
 
-categories: [Undergraduate] # self-defined categories
+categories: [Collège universitaire] # self-defined categories
+
+lang: fr
 
 image: dessin.jpg
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false 
 ---
 
 ### Description du cours
@@ -95,7 +97,7 @@ Le cours présente la façon dont l'économie traite de la division sexuée du t
 
 ###### → Les approches empiriques pour mesurer la discrimination
 
-### Références 
+### Quelques références bibliographiques 
 
 Bertrand M., New Perspective on gender", *Handbook of Labor Economics*, Vol.4b, 2010
 

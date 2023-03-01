@@ -3,13 +3,13 @@ title: " "
 description: "European labour markets in time of crisis: A gender perspective, Revue de l'OFCE, n°133, co-edited  with Antoine Math and Anne Eydoux. ISBN: 978-2-312-00836-3"
 date: 01-01-2014
 
-categories: [special issue] # self-defined categories
+categories: [special issue]
 
 image: livre.jpg
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false
 ---
 
-[European labour markets in time of crisis: A gender perspective, Revue de l'OFCE, n°133](https://www.ofce.sciences-po.fr/pdf/revue/133/revue-133.pdf)
+[European labour markets in time of crisis: A gender perspective, *Revue de l'OFCE*, n°133](https://www.ofce.sciences-po.fr/pdf/revue/133/revue-133.pdf)
 
 ### Content
 

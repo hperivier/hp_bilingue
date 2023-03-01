@@ -5,6 +5,8 @@ date: 01-01-2019
 
 categories: [Projet européen] # self-defined categories
 
+lang: fr
+
 image: supera.jfif
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---

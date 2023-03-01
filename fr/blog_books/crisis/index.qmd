@@ -5,13 +5,14 @@ date: 01-01-2014
 
 categories: [Numéro spécial] # self-defined categories
 
+lang: fr
 image: livre.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 [European labour markets in time of crisis: A gender perspective, Revue de l'OFCE, n°133](https://www.ofce.sciences-po.fr/pdf/revue/133/revue-133.pdf)
 
-### Content
+### Table des matières
 
 [Introduction: European labour markets in times of crisis A gender perspective](https://www.ofce.sciences-po.fr/pdf/revue/1-133.pdf) Anne Eydoux, Antoine Math and Hélène Périvier
 

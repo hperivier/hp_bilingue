@@ -5,11 +5,13 @@ date: 01/26/2023
 
 categories: [Master] # self-defined categories
 
+lang: fr
+
 image: dessin4.jpg
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false 
 ---
 
-### Course description
+### Description du cours
 
 ##### Teaching Assistant : Hazal Atay
 

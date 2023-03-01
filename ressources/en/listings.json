@@ -3,8 +3,8 @@
     "listing": "/blog_teaching.html",
     "items": [
       "/blog_teaching/Gender societies and economics/index.html",
-      "/blog_teaching/Economie genre/index.html",
       "/blog_teaching/Case study/index.html",
+      "/blog_teaching/Economie genre/index.html",
       "/blog_teaching/Certificat/index.html"
     ]
   },
@@ -22,10 +22,10 @@
   {
     "listing": "/blog_projects.html",
     "items": [
-      "/blog_projects/egale/index.html",
       "/blog_projects/commons/index.html",
-      "/blog_projects/prodige/index.html",
+      "/blog_projects/egale/index.html",
       "/blog_projects/parents_isoles/index.html",
+      "/blog_projects/prodige/index.html",
       "/blog_projects/reset/index.html",
       "/blog_projects/supera/index.html",
       "/blog_projects/egera/index.html",

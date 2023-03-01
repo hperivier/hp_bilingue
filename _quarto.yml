@@ -1,11 +1,11 @@
 project:
   type: website
   output-dir: docs
-  resources: 
-    - "ressources/en"
   pre-render: 
     - render_en.r
-
+  resources: 
+    - "ressources/en"
+    
 website:
    navbar:
     background: secondary
@@ -22,14 +22,15 @@ website:
       - href: fr/blog_projects.qmd
         text: Recherches
       - href: fr/blog_teaching.qmd
-        text: Enseignement
+        text: Enseignements
       - href: fr/media.qmd
         text: Média
       - href: fr/blog_review.qmd
         text: Recensions
     right:
-      - href: ressources/en/
-        text: en
+      - href: ressources/en
+        text: EN
+        icon: globe2
         
 lang: fr
 

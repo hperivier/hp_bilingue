@@ -5,11 +5,12 @@ date: 01-01-2007
 
 categories: [Livre] # self-defined categories
 
+lang: fr
 image: livre2.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-[Le deuxième âge de l'émancipation. La société, les femmes et l'emploi, La République des Idées, Seuil, with Dominique Méda, 2007.](http://repid.com/Le-deuxieme-age-de-l-emancipation.html)
+[Le deuxième âge de l'émancipation. La société, les femmes et l'emploi, La République des Idées, Seuil, avec Dominique Méda, 2007.](http://repid.com/Le-deuxieme-age-de-l-emancipation.html)
 
 ### Résumé
 

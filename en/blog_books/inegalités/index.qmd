@@ -9,7 +9,7 @@ image: livre.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-[Travail des femmes et inégalités, Revue de l'OFCE n°90, 2004, co-edited with Françoise Milewski](https://www.ofce.sciences-po.fr/publications/revue.php?an=2004)
+*Women's Labour and inequalities* -\> [Travail des femmes et inégalités, *Revue de l'OFCE*](https://www.ofce.sciences-po.fr/publications/revue.php?an=2004)*,*[ n°90, 2004, co-edited with Françoise Milewski](https://www.ofce.sciences-po.fr/publications/revue.php?an=2004)
 
 ### Content
 
