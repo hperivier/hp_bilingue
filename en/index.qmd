@@ -32,8 +32,6 @@ editor: visual
 
 ### Welcome to my website
 
-(with [Quarto](https://quarto.org/docs/websites/) -\> codes on my [Github page](https://github.com/hperivier?tab=repositories))
-
 I am a researcher in economics in the [OFCE](https://www.ofce.sciences-po.fr/en/) at [Sciences Po Paris](https://www.sciencespo.fr/en/). My research focuses on evaluation of family, social and tax policies, and on the analysis of gender inequalities in the labour market, in the family and in higher education. I am also interested in the history of economic thought with a feminist perspective.
 
 I am the director and the co-founder of the gender studies program of Sciences Po, [PRESAGE](https://www.sciencespo.fr/programme-presage/fr.html). Since April 2023, I am the president of the *High Family Council* in the [*Haut Conseil de la famille de l'enfance et de l'âge, HCFEA*](https://www.hcfea.fr/). This Council aims at fostering and leading public debate on family issues and public policies in the French context.

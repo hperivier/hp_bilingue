@@ -32,6 +32,10 @@ website:
         text: EN
         icon: globe2
         
+   page-footer: 
+    left: 
+      - "Quarto & Github, Hélène Périvier, Copyright 2023."
+        
 lang: fr
 
 format:

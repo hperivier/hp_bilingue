@@ -33,8 +33,6 @@ editor: visual
 
 ### Bienvenue sur mon site
 
-(avec [Quarto](https://quarto.org/docs/websites/) -\> mes codes sont disponibles sur ma page [Github](https://github.com/hperivier?tab=repositories))
-
 Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php) Sciences Po Paris. Mes travaux portent sur l'évaluation des politiques familiales, sociales et fiscales, ainsi que sur l'analyse des inégalités femmes-hommes sur le marché du travail, dans la famille et dans l'enseignement supérieur. Je m'intéresse également à l'histoire de la pensée économique dans une perspective féministe.
 
 Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo.fr/programme-presage/fr.html) de Sciences Po. Depuis avril 2023, je suis présidente du Conseil de la famille au sein du [Haut Conseil de la famille de l'enfance et de l'âge, HCFEA](https://www.hcfea.fr/), dont la mission est d'animer le débat public sur les politiques publiques en direction des familles.
