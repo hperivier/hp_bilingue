@@ -11,7 +11,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 The Rationale of Motherhood Choices : Influence of employment and public policies, 5e PCRD, CE, 2001-2004, coordinated Danièle Meulders, ULB, Brussels.
 
-[to learn more about MOCHO](https://cordis.europa.eu/project/id/HPSE-CT-2001-00096)
+-\> [to learn more about MOCHO](https://cordis.europa.eu/project/id/HPSE-CT-2001-00096)
 
 ### **Objectif**
 
@@ -19,9 +19,7 @@ Women's attitudes towards motherhood are in the core of all economic and social 
 
 ### ![](images/paste-CCB84675.png){width="236"}
 
-
-
-Publications
+### Publications
 
 ###### [« Family Policies in France: between generosity and ambiguity ](http://www.ulb.ac.be/soco/mocho/)», *First Newsletter of MOCHO*, September, 2002.
 

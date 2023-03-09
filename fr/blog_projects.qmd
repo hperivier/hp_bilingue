@@ -15,5 +15,6 @@ format:
     
 lang: fr   
 editor: visual
-#Adding a blog to your existing Quarto website (samanthacsik.github.io)
 ---
+
+Voici les principaux projets de recherche sur lesquels je travaille actuellement

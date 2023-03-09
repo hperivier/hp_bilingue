@@ -3,19 +3,25 @@ title: "RESET"
 description: "Redesigning Equality and Scientific Excellence Together"
 date: 01-01-2020
 
-categories: [EU project] # self-defined categories
+categories: [EU project] 
 
 image: reset.jpg
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false
 ---
 
 The EU 2020 RESET (Redesigning Equality and Scientific Excellence Together) aim is mainstreaming of intersectional gender equality and equity in universities. Project focuses on supporting research organisations to implement gender equality plans - call identifier: H2020-SwafS-2020-1. In the University of Oulu RESET cooperates with university's gender equality and diversity committee (GEB).
 
-Sciences Po is the evaluator of the project -\> Maxime Forest & Hélène Périvier, OFCE Sciences Po
+Sciences Po is the evaluator of the project
+
+### Sciences Po team 
+
+-   [Maxime Forest](https://www.sciencespo.fr/programme-presage/fr/content/maxime-forest-cevipof-ofce.html), OFCE Sciences Po
+
+-   Hélène Périvier, OFCE Sciences Po
 
 ![](images/paste-81630BCB.png){width="344"}
 
-### Abstract
+### Description 
 
 Redesigning Equality and Scientific Excellence Together (RESET) will address the challenge of Gender Equality in Research Institutions in a diversity perspective, with the objective to design and implement a user-centered, impact-driven and inclusive vision of scientific excellence. RESET involves seven large multidisciplinary universities from all over Europe, all distinguished as excellent institutions (labels, clusters, programmes).
 

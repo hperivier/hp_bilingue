@@ -11,13 +11,23 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 EGERA was coordinated by Sciences Po, PRESAGE. It has received funding from the European Union's Seventh Framework Program for research.The total budget of the project amounts to €3 927 352 of which €2 229 155 corresponds to EU contribution.
 
+### Sciences Po OFCE Team
+
+-   [Anne Boring](http://www.anneboring.com/), OFCE Sciences Po, today Erasmus School of Economics, Erasmus University Rotterdam
+
+-   [Viviane Albenga](https://mica.u-bordeaux-montaigne.fr/albenga-viviane/), OFCE Sciences Po, today MICA Université de Bordeaux
+
+-   [Maxime Forest](https://www.sciencespo.fr/programme-presage/fr/content/maxime-forest-cevipof-ofce.html), OFCE Sciences Po, coordinateur scientifique
+
+-   Hélène Périvier, OFCE Sciences Po, coordinatrice
+
 ![](images/paste-C550B047.png){fig-align="center" width="314"}
 
-### Project Objectives:
+### Project Objectives 
 
 [From January 2014 to December 2018, EGERA has brought together 8 research and higher education institutions across the EU (Belgium, the Czech Republic, France, Germany, the Netherlands, Portugal and Spain) and Turkey](egera2.pdf), bound by a same commitment to the dual objective of achieving gender equality in research and the academia (1), and strengthening the gender dimension in research (2). The Project aimed at fostering structural change through the implementation of transformative Gender Equality Plans (GEPs). Operationalized over the duration of the project, GEPs articulate a structural understanding of gender inequalities and bias in research with a fully-fledged set of measures and actions. These actions do cover the most salient issues with respect to the recruitment, retention, appraisal and empowerment of women in research, and to the mainstreaming of gender knowledge across disciplinary fields -- notably in Science, Technology, Economics and Mathematics (STEM): Enhancing gender (in)equality monitoring instruments; Building Gender-friendly work environments; Mainstreaming Gender in Research content and curricula; Training Academic communities.
 
-### Executive Summary
+### Executive Summary of the final report
 
 Initiated in January 2014, EGERA brought together 8 research and higher education institutions across the EU and Turkey, bound by a same commitment to the dual objective of achieving gender equality in research and the academia (1), and strengthening the gender dimension in research (2) by introducing sustainable and measurable changes in the organization of our research institutions. The project aimed at fostering structural transformation, thanks to three key enabling factors: a) the strong commitment of their respective management structures and leaders; b) the involvement of all categories of stakeholders, including researchers, teaching and administrative staff, students, social partners and relevant policy agents, and c), the implementation of transformative Gender Equality Plans (GEPs).
 

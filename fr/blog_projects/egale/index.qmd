@@ -3,13 +3,17 @@ title: "EGALE"
 description: "Etude sur le Genre et Analyse  Longitudinale des Entrées à l'ENA"
 date: 01-01-2023
 
-categories: [Projet de recherche] # self-defined categories
+categories: [Projet de recherche]
 
 lang: fr
 
 image: ena.jfif
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false 
 ---
+
+Le projet EGALE, *Etude sur le Genre et Analyse Longitudinale des Entrées à l'ENA*, est le fruit d'une collaboration institutionnelle entre l'ENA et Sciences Po (OFCE) en vue de constituer une base de données permettant une étude longitudinale et ouvrant de nouvelles perspectives de recherche sur les inégalités dans l'accès aux grandes écoles et à la constitution des élites.
+
+ENA -\> Ecole Nationale d'Administration. Depuis 2022, l'ENA est devenue l'INSP -\> l'Institut National du Service Public.
 
 ### Equipe
 
@@ -27,11 +31,11 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 ### Couverture médiatique
 
-[Episode du podcast Genre etc. the PRESAGE](https://www.sciencespo.fr/programme-presage/fr/content/podcast-genre-etc.html)
+-\> à écouter l'épisode du [podcast de PRESAGE *Genre etc*](https://www.sciencespo.fr/programme-presage/fr/content/podcast-genre-etc.html)*.*
 
 ### Résumé
 
-Le projet EGALE est le fruit d'une collaboration institutionnelle entre l'ENA et Sciences Po (OFCE) en vue de constituer une base de données permettant une étude longitudinale et ouvrant de nouvelles perspectives de recherche sur les inégalités dans l'accès aux grandes écoles et à la constitution des élites. Cette base de données permet d'analyser les mécanismes en amont du concours et au moment des épreuves conduisant la moindre représentation des femmes au sein de l'ENA/INSP. Elle permet également d'analyser les parcours des élèves de leur entrée à Sciences Po jusqu'à la sortie de l'ENA. De façon générale, l'autocensure des femmes est souvent avancée comme l'élément principal expliquant la sous-représentation des femmes dans les espaces de pouvoir : alors qu'elles ont des profils similaires les étudiantes choisiraient moins souvent que les étudiants de présenter le concours de l'ENA. La recherche proposée dans le cadre du projet EGALE vise à tester différentes hypothèses :
+Cette base de données EGALE permet d'analyser les mécanismes en amont du concours et au moment des épreuves conduisant la moindre représentation des femmes au sein de l'ENA/INSP. Elle permet également d'analyser les parcours des élèves de leur entrée à Sciences Po jusqu'à la sortie de l'ENA. De façon générale, l'autocensure des femmes est souvent avancée comme l'élément principal expliquant la sous-représentation des femmes dans les espaces de pouvoir : alors qu'elles ont des profils similaires les étudiantes choisiraient moins souvent que les étudiants de présenter le concours de l'ENA. La recherche proposée dans le cadre du projet EGALE vise à tester différentes hypothèses :
 
 -   les parcours initiaux des femmes peuvent être différents et/ou moins favorables aux attentes du concours de l'ENA.
 
@@ -67,10 +71,10 @@ Les deux sources mobilisées pour la base de données EGALE ne se recoupent pas 
 
 -   [Elsa Favier, CMH](https://www.cmh.ens.fr/author/elsa-favier/)
 
-#### Groupe du [Certificat égalité femmes-hommes et politiques publiques](https://www.sciencespo.fr/programme-presage/fr/content/certificat-egalite-femmes-hommes-ecole-daffaires-publiques.html#:~:text=Le%20Certificat%20%C3%89galit%C3%A9%20femmes-hommes%20et%20politiques%20publiques%20propose,politiques%20d%E2%80%99%C3%A9galit%C3%A9%20et%20de%20lutte%20contre%20les%20discriminations.) :
+#### Groupe d'étudiantes du [Certificat égalité femmes-hommes et politiques publiques](https://www.sciencespo.fr/programme-presage/fr/content/certificat-egalite-femmes-hommes-ecole-daffaires-publiques.html#:~:text=Le%20Certificat%20%C3%89galit%C3%A9%20femmes-hommes%20et%20politiques%20publiques%20propose,politiques%20d%E2%80%99%C3%A9galit%C3%A9%20et%20de%20lutte%20contre%20les%20discriminations.) :
 
 -   Victoire Buiron, Jade Champetier, Mara Förster, Julia Kieloch, Marianne Rosenzweig 
 
 Le groupe d'étudiantes du [Certificat égalité femmes-hommes et politiques publiques](https://www.sciencespo.fr/programme-presage/fr/content/certificat-egalite-femmes-hommes-ecole-daffaires-publiques.html#:~:text=Le%20Certificat%20%C3%89galit%C3%A9%20femmes-hommes%20et%20politiques%20publiques%20propose,politiques%20d%E2%80%99%C3%A9galit%C3%A9%20et%20de%20lutte%20contre%20les%20discriminations.) de l'Ecole d'affaires publiques de Sciences Po travaillent sur un projet collectif visant à mieux comprendre les déterminants des choix d'orientation des élèves de M1 de l'EAP: qui opte pour la spécialité "Administration publique" et pourquoi, avec quelle ambition? Pour celles et ceux qui renoncent ou n'envisagent pas de tenter les concours amdinistratifs , quelles sont les raisons de ce choix? Quel est le rôle du genre et de l'origine sociale dans ces décisions?
 
-pour en savoir plus -\> voir[la description du projet](groupe_certificat.pdf)
+pour en savoir plus -\> voir [la description du projet](groupe_certificat.pdf)

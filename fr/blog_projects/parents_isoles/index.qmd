@@ -1,29 +1,28 @@
 ---
-title: "Single parents families"
-description: "Socio-economic situation of single mothers"
-date: 01-01-2021
+title: "Familles monoparentales"
+description: "Etude sur la situation socio-économique des parents isolés"
+date: 01-01-2023
 
 categories: [Projet de recherche] 
-
 lang: fr
 
 image: photo.jpg
-draft: false 
+draft: false
 ---
 
-A first research was co-financed by the Department for Women's Rights and Gender Equality (Service des droits des femmes et de l'égalité entre les femmes et les hommes): OFCE report (in French) -\> [*Etude sur la situation économique et sociale des parents isolés. Niveau de vie, marché du travail et politiques publiques*](rapport_pi.pdf)
+### Rapport OFCE 2020
 
-### Abstract OFCE Report 2020
+Une première recherche soutenue par le *Service des droits des femmes et de l'égalité entre les femmes et les hommes* est détaillée dans un rapport OFCE -\> [*Etude sur la situation économique et sociale des parents isolés. Niveau de vie, marché du travail et politiques publiques*](rapport_pi.pdf)
 
-This report presents an analysis of the precarious factors that lone parents have to face because of their specific family configuration. These factors are apprehended from several angles: that of their living conditions (standard of living and housing, etc.), that of their individual characteristics (level of diploma, age, etc.) and that of their situation on the labour market (participation, unemployment, type of contract, working time, etc.). Some public policies, social and fiscal policies but also employment policies, are designed to support these families. However, the complexities if the tax-benefit system might lead to negative negative consequences on the economic situation of single parents, especially single mothers (the treatment of maintenance payments in the tax benefit system may be unfavourable to them).
+Ce rapport présente une analyse des facteurs de précarité auxquels les parents isolés doivent faire face du fait de leur configuration familiale spécifique. Ces facteurs sont appréhendés sous plusieurs angles : celui de leurs conditions de vie (niveau de vie et logement...), celui de leur caractéristiques individuelles (niveau de diplôme, âge, ...) et celui de leur situation sur le marché du travail (participation, chômage, type de contrat, temps de travail, ...). Les politiques publiques ciblées, politiques sociales, fiscales mais aussi politiques de l'emploi, permettent de soutenir ces familles. Mais l'interaction entre les différents dispositifs socio-fiscaux peut avoir des conséquences négatives sur la situation des parents isolés, en particulier le traitement des pensions alimentaires dans le système socio-fiscal. Cette question est détaillée dans ce Post de Blog OFCE :
 
--\> "[Réduire significativement le taux de pauvreté des familles monoparentales](https://www.ofce.sciences-po.fr/blog/reduire-significativement-le-taux-de-pauvrete-des-familles-monoparentales/)", Billets de Blog OFCE, Hélène Périvier and Muriel Pucci, June 29 2021.
+-\> "[Réduire significativement le taux de pauvreté des familles monoparentales](https://www.ofce.sciences-po.fr/blog/reduire-significativement-le-taux-de-pauvrete-des-familles-monoparentales/)", Billets de Blog OFCE, Hélène Périvier et Muriel Pucci, 29 juin 2021.
 
-Finally, the general conditions of the labour market and the level of unemployment have a specific effect on single mothers, particularly because of the organisational constraints they face. We have shown that the level of unemployment affects the labour force participation of lone mothers relative to mothers in couples: in 2018, in localities where the unemployment rate for women was high, the participation rate of single mothers relative to those living in couples was, all other things being equal, lower. However, this was not the case in localities where the unemployment rate was low, as shown in the graph below :
+S'agissant de l'accès au marché du travail, nous montrons que toutes choses égales par ailleurs, en 2018, les mères isolées participent moins au marché du travail que les mères vivant en couple dans les départements où le chômage des femmes est le plus élevé, alors qu'elles participent davantage au marché du travail que les mères vivant en couple dans les départements où le taux de chômage des femmes est faible (graphique ci-dessous). Ce résultat peut s'interpréter comme un chômage découragé : confrontées à un marché du travail qui leur est défavorable, les mères isolées renonceraient à chercher un emploi.
 
 ![](images/paste-E859D02C.png)
 
-### New research project
+### Nouveau projet de recherche
 
 #### Equipe
 
@@ -33,6 +32,8 @@ Finally, the general conditions of the labour market and the level of unemployme
 
 -   Raul Sampognaro, OFCE Sciences Po Paris
 
-#### Objective
+#### Objectif
 
-This research extends part of the work carried out. The aim will be to analyse the specific situation of single mothers on the labour market. We want to extend this work by mobilizing more recent employment surveys, and refine our analysis.
+Cette nouvelle recherche vise à prolonger l'analyse des effets du chômage sur la participation des mères isolées au marché du travail. Il s'agira de mobiliser les dernières enquêtes disponibles et d'affiner l'analyse.
+
+.

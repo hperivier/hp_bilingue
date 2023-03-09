@@ -3,21 +3,25 @@ title: "RESET"
 description: "Redesigning Equality and Scientific Excellence Together"
 date: 01-01-2020
 
-categories: [Projet européen] # self-defined categories
+categories: [Projet européen]
 
 lang: fr
 
 image: reset.jpg
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false
 ---
 
-The EU 2020 RESET (Redesigning Equality and Scientific Excellence Together) aim is mainstreaming of intersectional gender equality and equity in universities. Project focuses on supporting research organisations to implement gender equality plans - call identifier: H2020-SwafS-2020-1. In the University of Oulu RESET cooperates with university's gender equality and diversity committee (GEB).
+Le projet RESET (Redesigning Equality and Scientific Excellence Together) adopte une approche intégrée et intersectionelle de l'égalité au sein des Universités. Il vise à soutenir les institutions de recherche et d'enseignement supérieur à mettre en oeuvre leur plan d'égalité (call identifier: H2020-SwafS-2020-1). Au sein de l'université Oulu, RESET collabore avec le *university's gender equality and diversity committee* (GEB). Sciences Po est l'institution évaluatrice du projet.
 
-Sciences Po is the evaluator of the project -\> Maxime Forest & Hélène Périvier, OFCE Sciences Po
+### L'équipe Sciences Po 
+
+-   [Maxime Forest](https://www.sciencespo.fr/programme-presage/fr/content/maxime-forest-cevipof-ofce.html), OFCE Sciences Po, évaluateur principal
+
+-   Hélène Périvier, OFCE Sciences Po
 
 ![](images/paste-81630BCB.png){width="344"}
 
-### Abstract
+### Description
 
 Redesigning Equality and Scientific Excellence Together (RESET) will address the challenge of Gender Equality in Research Institutions in a diversity perspective, with the objective to design and implement a user-centered, impact-driven and inclusive vision of scientific excellence. RESET involves seven large multidisciplinary universities from all over Europe, all distinguished as excellent institutions (labels, clusters, programmes).
 
@@ -29,4 +33,4 @@ RESET-project develops and tests Gender Impact Assessment (GIA) for new research
 
 RESET will transform partner institutions into local living labs, contributing to innovation maximization in close-knit with local and national ecosystems (RPOs, HEIs, municipalities, industry, NGOs and citizens incentives). The RESET experience will strategically use this momentum to promote full replication in other HEIs/RPOs, thus supporting the achievement of ERA's objective.
 
-[to learn more about RESET](https://wereset.eu/)
+[pour en savoir plus sur le projet RESET](https://wereset.eu/)

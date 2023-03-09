@@ -1,7 +1,7 @@
 ---
 title: "The commons with a gender lens"
 description: "Bibliometric analysis of the literature on the commons and gender"
-date: 01-01-2023
+date: 01-12-2022
 
 categories: [Research] 
 
@@ -15,42 +15,8 @@ Research project for the AFD -\> report to be published ([first draft in French)
 
 The purpose of this report is to report on the diversity of literature crossing gender with the commons in order to identify new paths of research. This work aims at de-compartmentalizing knowledge. The present report is based on a bibliometric analysis of the academic literature articulating the gender perspective with that of the commons. It does not report all the theoretical and empirical contributions of these two fields. The objective is to build a grid for reading the heuristic crossing between gender and commons to facilitate its understanding and appropriation by different categories of actors (academics, practitioners). The analysis is based on a literature review that is as exhaustive as possible, which led to the creation of a database, Genre&Com. This makes it possible to identify certain characteristics of the different approaches mobilized at the intersection between these two domains that are commons and gender.
 
-In order to understand the specificity of this doublel field, we rely on data from another bibliometric analysis on the commons carried out on the occasion of the 30th anniversary of Elinor Ostrom's book Governing the Commons and published in the International Journal of the Commons in 2020 (Laerhoven, Schoon, and Villamayor-Tomas 2020).
+In order to understand the specificity of this double field, we rely on data from another bibliometric analysis on the commons carried out on the occasion of the 30th anniversary of Elinor Ostrom's book Governing the Commons and published in the International Journal of the Commons in 2020 by [Laerhoven, Schoon, and Villamayor-Tomas](https://www.thecommonsjournal.org/article/10.5334/ijc.1030/). The authors gave me access to their own database, that is used as a benchmarks in the analysis.
 
 First, we briefly describe the fields of research on the commons on one hand and on gender on the other hand by showing the different ways of articulating the two. We propose an analysis grid of this double field. Then, we present the methodology and the data mobilized. Finally, we map the genre and the commons literature by applying the grid developed in the first part. In conclusion, we propose new paths for future research.
 
-### Content
-
-#### Introduction
-
-#### 1 Les contours de deux champs de recherche
-
-##### 1.1 Les communs
-
-##### 1.2 Etudes sur le genre et études féministes
-
-##### 1.3 Pourquoi et comment articuler "genre" et "communs"?
-
-#### 2 Méthodologie et données
-
-##### 2.1 La base de données Genre&Com
-
-##### 2.2 La base de données ijc2020
-
-#### 3 Analyse bibliométrique
-
-##### 3.1 La dynamique de publication et les revues
-
-##### 3.2 Un champ pluridisciplinaire
-
-##### 3.3 Collaborations et diffusion scientifique
-
-#### 4 Cartographie de la littérature Genre et Communs
-
-##### 4.1 Quels types de communs et où?
-
-##### 4.2 Genre, féminisme et communs
-
-#### Conclusion
-
-#### Références bibliographiques
+### 

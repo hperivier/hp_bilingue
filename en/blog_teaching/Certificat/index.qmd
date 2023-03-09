@@ -1,12 +1,12 @@
 ---
 title: "Certificat égalité femmes-hommes et politiques publiques "
 description: "Certificat, EAP"
-date: 08/30/2022
+date: 01/01/2023
 
 categories: [Master] # self-defined categories
 
 image: dessin3.jpg
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false 
 ---
 
 ### Course description
@@ -15,14 +15,14 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 ##### Teaching assistant : Violette Toye
 
-Le Certificat Égalité femmes-hommes et politiques publiques propose un encadrement pédagogique permettant de **comprendre la formation des inégalités** ainsi que d\'**évaluer les politiques d\'égalité et de lutte contre les discriminations**. L\'analyse des inégalités s\'étend à plusieurs domaines, en particulier la sphère politique et le marché du travail qu\'il s\'agisse de la fonction publique ou du secteur privé.
+Le Certificat Égalité femmes-hommes et politiques publiques propose un encadrement pédagogique permettant de **comprendre la formation des inégalités** ainsi que d'**évaluer les politiques d'égalité et de lutte contre les discriminations**. L'analyse des inégalités s'étend à plusieurs domaines, en particulier la sphère politique et le marché du travail qu'il s'agisse de la fonction publique ou du secteur privé.
 
-Cette formation certifiante met l\'accent sur l\'action publique en faveur des droits des femmes et de l\'égalité des sexes, mais s\'intéresse également aux politiques internes aux institutions (entreprises, universités, etc.) visant à promouvoir l\'égalité.
+Cette formation certifiante met l'accent sur l'action publique en faveur des droits des femmes et de l'égalité des sexes, mais s'intéresse également aux politiques internes aux institutions (entreprises, universités, etc.) visant à promouvoir l'égalité.
 
 Le Certificat Égalité femmes-hommes et politiques publiques est ouvert aux étudiantes et étudiants de première année de Master en Politiques publiques ou Master en Affaires Européennes, ainsi qu'aux étudiantes et étudiants de première année de Master à l'École des affaires internationales de Sciences Po (PSIA).
 
-Durant le semestre d\'automne, une série de conférences permet aux élèves d'approfondir leurs connaissances théoriques et de se familiariser avec l\'état des savoirs.
+Durant le semestre d'automne, une série de conférences permet aux élèves d'approfondir leurs connaissances théoriques et de se familiariser avec l'état des savoirs.
 
-Puis, au semestre de printemps, ils mettent en application des concepts à partir d\'études de cas portant sur des thématiques actuelles (quotas, congés parentaux, plans d\'action pour l\'égalité, ...). Ils sont amenés à proposer des solutions concrètes en faisant dialoguer les connaissances issues de la recherche en sciences sociales et les retours d\'expériences d\'actrices et d\'acteurs de terrain. Cet exercice leur permet de développer des compétences et d\'acquérir des connaissances solides en matière de politiques d\'égalité.
+Puis, au semestre de printemps, ils mettent en application des concepts à partir d'études de cas portant sur des thématiques actuelles (quotas, congés parentaux, plans d'action pour l'égalité, ...). Ils sont amenés à proposer des solutions concrètes en faisant dialoguer les connaissances issues de la recherche en sciences sociales et les retours d'expériences d'actrices et d'acteurs de terrain. Cet exercice leur permet de développer des compétences et d'acquérir des connaissances solides en matière de politiques d'égalité.
 
 [To know more about the certificate](https://www.sciencespo.fr/programme-presage/fr/content/certificat-egalite-femmes-hommes-ecole-daffaires-publiques.html#:~:text=Le%20Certificat%20%C3%89galit%C3%A9%20femmes-hommes%20et%20politiques%20publiques%20propose,politiques%20d%E2%80%99%C3%A9galit%C3%A9%20et%20de%20lutte%20contre%20les%20discriminations.)

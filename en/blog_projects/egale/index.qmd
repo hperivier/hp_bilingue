@@ -9,28 +9,29 @@ image: ena.jfif
 draft: false 
 ---
 
+The EGALE project is the result of an institutional collaboration between ENA and Sciences Po (OFCE) to build a database for longitudinal study and new research perspectives on inequalities in access to *grandes écoles* and the constitution of elites.
+
+ENA -\> *Ecole Nationale d'Administration.* Since 2022, the ENA has became the INSP -\> *Institut National du Service Public*
+
 ### Research team
 
-###### Fabrice Larat, INSP
+-   Fabrice Larat, INSP
 
-###### Maxime Parodi, OFCE Sciences Po
+-   Maxime Parodi, OFCE Sciences Po
 
-###### Hélène Périvier, OFCE Sciences Po
+-   Hélène Périvier, OFCE Sciences Po
 
 ### First results
 
 ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Papers OFCE* n° 15/2022, Maxime Parodi, Hélène Périvier and Fabrice Larat, 2022
 
-This paper analyzes the selective process during the competitive exams to integrate the Ecole Nationale
-d\'Administration (ENA). We use data from the ENA and those from the preparatory year of Sciences Po (PCA). We observe the course of 5 cohorts having passed the ENA exams between 2016 and 2020. The proportion of women is reduced at each stage: they are under-represented in the preparatory year relative to their representation within the population student at Sciences Po; among the preparatory students, they register less for the entrance examination of the ENA than men and opt for less selective schools and, finally, they are more eliminated at the admissibility stage, consisting of anonymous written tests. Taking into account of the level reached at the end of the PCA by each student, we show that men have similar results written tests regardless of their social origin, while women from disadvantaged social backgrounds perform less well in these tests than other social categories of women. Several explanations can be considered. They may scatter their efforts by preparing in other exams focusing less on that of the ENA. They may also feel less legitimate on this course of excellence, or lack role models. This study shows as well as the inequality of opportunity in access to the senior civil service must be analyzed by combining considerations on gender and those on social origin: if there is indeed a slow feminization of the ENA, this is mainly done from the top of the social pyramid.
+This paper analyzes the selective process during the competitive exams to integrate the Ecole Nationale d'Administration (ENA). We use data from the ENA and those from the preparatory year of Sciences Po (PCA). We observe the course of 5 cohorts having passed the ENA exams between 2016 and 2020. The proportion of women is reduced at each stage: they are under-represented in the preparatory year relative to their representation within the population student at Sciences Po; among the preparatory students, they register less for the entrance examination of the ENA than men and opt for less selective schools and, finally, they are more eliminated at the admissibility stage, consisting of anonymous written tests. Taking into account of the level reached at the end of the PCA by each student, we show that men have similar results written tests regardless of their social origin, while women from disadvantaged social backgrounds perform less well in these tests than other social categories of women. Several explanations can be considered. They may scatter their efforts by preparing in other exams focusing less on that of the ENA. They may also feel less legitimate on this course of excellence, or lack role models. This study shows as well as the inequality of opportunity in access to the senior civil service must be analyzed by combining considerations on gender and those on social origin: if there is indeed a slow feminization of the ENA, this is mainly done from the top of the social pyramid.
 
-[Episod of Genre etc. the PRESAGE Podcast](https://www.sciencespo.fr/programme-presage/fr/content/podcast-genre-etc.html)
+-\> Listen to the Episod of the [PRESAGE podcast *Genre etc.* (in French only)](https://www.sciencespo.fr/programme-presage/fr/content/podcast-genre-etc.html)
 
 ### Research project
 
-ENA -\> Ecole Nationale d'Administration/ INSP
-
-The EGALE project is the result of an institutional collaboration between ENA and Sciences Po (OFCE) to build a database for longitudinal study and new research perspectives on inequalities in access to *grandes écoles* and the constitution of elites. This database makes it possible to analyse the mechanisms before the contest and at the time of the tests leading to the lower representation of women within the ENA/INSP, and then among the highest positions in the public administrations. It also enable us to analyse students' careers from their entry into Sciences Po up the graduation from the ENA. In general, women's self-censorship is often put forward as the main element explaining the under-representation of women in spaces of power: while they have similar profiles, female students would choose less often than students to apply for the ENA contest.
+This database makes it possible to analyse the mechanisms before the contest and at the time of the tests leading to the lower representation of women within the ENA/INSP, and then among the highest positions in the public administrations. It also enable us to analyse students' careers from their entry into Sciences Po up the graduation from the ENA. In general, women's self-censorship is often put forward as the main element explaining the under-representation of women in spaces of power: while they have similar profiles, female students would choose less often than students to apply for the ENA contest.
 
 The research proposed as part of the EGALE project aims to test different hypotheses:
 
@@ -50,7 +51,7 @@ The research proposed as part of the EGALE project aims to test different hypoth
 
 The database currently contains 5 cohorts of individuals enrolled in Sciences Po's administrative competition preparation (PCA) from 2016 to 2020. The data from the PCA gathers the grades of the students in all the subjects in the different "test" and mock exams they have taken during their year of preparation. Then, from the list of student identifiers, we retrieved administrative and academic information on their curriculum at Sciences Po.
 
-In addition to the choice of specialities, the grades obtained, we have relatively precise information on the social origin of the students. Indeed, the database contains for each semester in Sciences Po information relating to the receipt of scholarships, the amounts of tuition fees paid, calculated according to the resources of the student's parents, as well as the socio-professional category of both parents, information on the place of the baccalaureate, etc. This list of names has been matched with the administrative data of the ENA which contain all the persons registered for the ENA contests, their grades obtained in the tests for eligibility and for admission.
+In addition to the choice of specialties, the grades obtained, we have relatively precise information on the social origin of the students. Indeed, the database contains for each semester in Sciences Po information relating to the receipt of scholarships, the amounts of tuition fees paid, calculated according to the resources of the student's parents, as well as the socio-professional category of both parents, information on the place of the baccalaureate, etc. This list of names has been matched with the administrative data of the ENA which contain all the persons registered for the ENA contests, their grades obtained in the tests for eligibility and for admission.
 
 The matching was made from names, first names and date of birth taking into account possible discrepancies between the two sources. In addition to these data, there are those of a survey carried out among people who join the ENA, which makes it possible to retrospectively complete the profile of candidates if necessary and to have information on their grades during their schooling at the ENA, their internships, their rank and their exit body.
 
@@ -58,6 +59,18 @@ Finally, we distinguish between individuals and applications insofar as the same
 
 ### Capstone project with Sciences Po students
 
-A group of students from the Gender Equality and Public Policy Certificate at Sciences Po's School of Public Affairs are working on a project aiming at understanding the determinants of the orientation choices of master students: who opts for the "Public Administration" speciality and why, with what ambition? For those who give up or do not plan to try amdinistrative contests, what are the reasons for this choice? What is the role of gender and social background in these decisions?
+#### Supervisors :
+
+-   [Maxime Parodi](https://www.ofce.sciences-po.fr/pages-chercheurs/page.php?id=27), OFCE Sciences Po
+
+-   Hélène Périvier, OFCE Sciences Po
+
+-   [Elsa Favier, CMH](https://www.cmh.ens.fr/author/elsa-favier/)
+
+#### Group of students from the [Certificat égalité femmes-hommes et politiques publiques](https://www.sciencespo.fr/programme-presage/fr/content/certificat-egalite-femmes-hommes-ecole-daffaires-publiques.html#:~:text=Le%20Certificat%20%C3%89galit%C3%A9%20femmes-hommes%20et%20politiques%20publiques%20propose,politiques%20d%E2%80%99%C3%A9galit%C3%A9%20et%20de%20lutte%20contre%20les%20discriminations.) :
+
+-   Victoire Buiron, Jade Champetier, Mara Förster, Julia Kieloch, Marianne Rosenzweig 
+
+A group of students from the Gender Equality and Public Policy Certificate at Sciences Po's School of Public Affairs are working on a project aiming at understanding the determinants of the orientation choices of master students: who opts for the "Public Administration" specialty and why, with what ambition? For those who give up or do not plan to try administrative contests, what are the reasons for this choice? What is the role of gender and social background in these decisions?
 
 -\> [description of the capstone (in French)](groupe_certificat.pdf)
