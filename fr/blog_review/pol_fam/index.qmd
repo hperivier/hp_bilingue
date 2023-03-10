@@ -3,6 +3,9 @@ title: "La Politique de la Famille"
 description: "Qu’est-ce que la politique familiale ? Quel est son objectif ? Évolue-t-elle conformément aux attentes des citoyens? ..."
 date: 09/01/2004
 categories: [Livre] # self-defined categories
+
+lang: fr
+
 image: image.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 editor: 
@@ -12,6 +15,9 @@ editor:
 
 Jacques Commaille, Pierre Strobel et Michel Villac, La Politique
 Familiale La Découverte, Paris, 2002, 117 p. ISBN 2707137804
+
+Recension publiée dans la revue [*Travail, genre et sociétés,* n° 28,
+2004.](review.pdf)
 
 Qu'est-ce que la politique familiale ? Quel est son objectif ?
 Évolue-t-elle conformément aux attentes des citoyens ? Dans un pays
@@ -72,7 +78,7 @@ généralisation de la scolarisation et la reconnaissance des droits des
 femmes et des enfants (Singly, 2003). Cela soulève certaines
 incohérences du système français : par exemple, si le versement des
 allocations familiales cesse dès les 21 ans de l'enfant -- ce dernier
-est donc supposé indépendant vis-à-vis de ses parents -- il ne peut
+est donc supposé indépendant vis-à-vis de ses parents -- il ne peut
 percevoir le RMI qu'à partir de 25 ans. L'ensemble du système
 redistributif français devrait donc être questionné à la lumière des
 droits de l'individu. L'un des objectifs initiaux de la politique
@@ -138,15 +144,19 @@ lui reste un long chemin à parcourir pour offrir une politique familiale
 en adéquation avec une vision moderne de la société. Le débat sur le
 mariage homosexuel le prouve une fois de plus.
 
-##### Bibliographie
+Bibliographie
 
-###### Aglietta Michel, 1999, in Majnoni d'Intignano B.(dir.) Egalité entre femmes et hommes : les aspects économiques, Rapport du conseil d'analyse économique, n° 15, pp. 59-64.
+Aglietta Michel, 1999, in Majnoni d'Intignano B.(dir.) Egalité entre
+femmes et hommes : les aspects économiques, Rapport du conseil d'analyse
+économique, n° 15, pp. 59-64.
 
-###### Chauvel Louis, 2004, "Vers l'égalité de genre : les tendances générationnelles sont-elles irréversibles ?", in Milewski F. et Périvier H.(dir.) Travail des femmes et inégalités, Revue de l'OFCE, n° 90, pp.69-84.
+Chauvel Louis, 2004, "Vers l'égalité de genre : les tendances
+générationnelles sont-elles irréversibles ?", in Milewski F. et Périvier
+H.(dir.) Travail des femmes et inégalités, Revue de l'OFCE, n° 90,
+pp.69-84.
 
-###### Gadrey Jean, 2003, Socio-économie des services, Repères, La Découverte, Paris. INSEE, 2003, Portrait social 2003-2004.
+Gadrey Jean, 2003, Socio-économie des services, Repères, La Découverte,
+Paris. INSEE, 2003, Portrait social 2003-2004.
 
-###### Singly de François, 2003, Les uns avec les autres : quand l'individualisme crée du lien, Armand Colin, Paris.
-
-[Review published in *Travail, genre et sociétés,* n° 28,
-2004.](review.pdf)
+Singly de François, 2003, Les uns avec les autres : quand
+l'individualisme crée du lien, Armand Colin, Paris.

@@ -5,13 +5,14 @@ date: 07-01-2011
 
 categories: [Livre] # self-defined categories
 
+lang: fr
 image: livre.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 Première publication -\> *Les discriminations entre les femmes et les hommes*, Revue de l'OFCE, n°114, 2010.
 
-### Content
+### Table des matières
 
 [Les discriminations entre les femmes et les hommes : présentation](https://www.ofce.sciences-po.fr/pdf/revue/1-114.pdf) Hélène Périvier, Françoise Milewski
 

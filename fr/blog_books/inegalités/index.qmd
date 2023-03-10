@@ -1,15 +1,16 @@
 ---
 title: " "
-description: "Travail des femmes et inégalités, Revue de l'OFCE n°90, 2004, co-edited avec Françoise Milewski "
+description: "Travail des femmes et inégalités, Revue de l'OFCE n°90, 2004, co-édité avec Françoise Milewski "
 date: 07-01-2004
 
 categories: [Numéro spécial] # self-defined categories
 
+lang: fr
 image: livre.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-[Travail des femmes et inégalités, Revue de l'OFCE n°90, 2004, co-edited with Françoise Milewski](https://www.ofce.sciences-po.fr/publications/revue.php?an=2004)
+[Travail des femmes et inégalités, Revue de l'OFCE n°90, 2004, co-édité avec Françoise Milewski](https://www.ofce.sciences-po.fr/publications/revue.php?an=2004)
 
 ### Table des matières
 

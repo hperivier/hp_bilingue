@@ -9,12 +9,12 @@ image: livre.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-[Refonder le système de protection sociale. Pour une nouvelle génération de droits sociaux](http://www.pressesdesciencespo.fr/fr/livre/?gcoi=27246100117760#_ga=2.239014788.543602804.1671828973-77847753.1671004113), Presses de Sciences Po, with Bernard Gazier and Bruno Palier, 2014
+*Rebuilding the Social security system. For a new generations of social rights* -\> [Refonder le système de protection sociale. Pour une nouvelle génération de droits sociaux](http://www.pressesdesciencespo.fr/fr/livre/?gcoi=27246100117760#_ga=2.239014788.543602804.1671828973-77847753.1671004113), Presses de Sciences Po, with Bernard Gazier and Bruno Palier, 2014
 
 ### Abstract
 
-Le système français de protection sociale a permis de consolider la cohésion sociale, de lutter contre la pauvreté et d'amortir les effets dévastateurs de la crise actuelle. Mais, bâti sur le modèle d'un homme chef de famille ayant à charge femme et enfants, il entérine les inégalités entre les sexes et néglige, voire pénalise, les évolutions de carrière.
+The French social protection system has helped consolidate social cohesion, fight poverty and cushion the devastating effects of the current crisis. But, built on the model of a male head of household with wife and children as a caregiver, it confirms gender inequalities and neglects, even penalizes, career development.
 
-Dessinant une nouvelle architecture pour la protection sociale, ce livre montre qu'il est urgent et possible de refonder ce système. Sa métamorphose doit s'appuyer sur l'exigence d'égalité des sexes, sur l'accompagnement de carrières diversifiées et sur l'investissement social en amont, en faveur des enfants et des jeunes, afin de garantir à chacun-e le droit à une vie personnelle et professionnelle de qualité.
+Drawing a new architecture for social protection, this book shows that it is urgent and possible to overhaul this system. Its metamorphosis must be based on the demand for gender equality, on the support of diversified careers and on upstream social investment in favour of children and young people, in order to guarantee everyone the right to a quality personal and professional life.
 
-Cette seconde génération de droits sociaux combine protection et promotion sociale pour toutes et pour tous, afin de construire une société de semblables.
+This second generation of social rights combines protection and social advancement for all, in order to build a society of fellow human beings.

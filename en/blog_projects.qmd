@@ -14,7 +14,6 @@ format:
     toc: true
     
 editor: visual
-#Adding a blog to your existing Quarto website (samanthacsik.github.io)
 ---
 
-Here are the description of the research projects I am involved in:
+Here are the main research projects I am currently involved in

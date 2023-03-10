@@ -9,7 +9,7 @@ image: livre.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-Première publication -\> Les discriminations entre les femmes et les hommes, Revue de l'OFCE, n°114, 2010.
+First publication -\> Les discriminations entre les femmes et les hommes, *Revue de l'OFCE*, n°114, 2010.
 
 ### Content
 

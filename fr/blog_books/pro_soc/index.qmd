@@ -1,10 +1,11 @@
 ---
 title: " "
-description: "Refonder le système de protection sociale. Pour une nouvelle génération de droits sociaux,, Presses de Sciences Po, avec Bernard Gazier et Bruno Palier, 2014.ISBN: 139782724616255"
+description: "Refonder le système de protection sociale. Pour une nouvelle génération de droits sociaux, Presses de Sciences Po, avec Bernard Gazier et Bruno Palier, 2014.ISBN: 139782724616255"
 date: 11-14-2014
 
 categories: [Livre] # self-defined categories
 
+lang: fr
 image: livre.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---

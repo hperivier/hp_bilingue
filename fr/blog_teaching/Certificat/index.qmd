@@ -5,6 +5,8 @@ date: 08/30/2022
 
 categories: [Master] # self-defined categories
 
+lang: fr
+
 image: dessin3.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---

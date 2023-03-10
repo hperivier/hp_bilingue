@@ -14,7 +14,4 @@ format:
     toc: true
     
 editor: visual
-#Adding a blog to your existing Quarto website (samanthacsik.github.io)
 ---
-
-Here are the books I published, or the special issue of academic journals I co-edited:

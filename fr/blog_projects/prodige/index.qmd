@@ -1,50 +1,83 @@
 ---
 title: "PRODIGE"
-description: "Projet de Recherche sur les Orchestres, les DIscriminations et le GEnre -> ANR project"
+description: "Projet de Recherche sur les Orchestres, les DIscriminations et le GEnre"
 date: 01-01-2023
 
-categories: [Recherche (ANR)] # self-defined categories
+categories: [Projet de recherche] # self-defined categories
+
+lang: fr
 
 image: photo.jfif
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false 
 ---
 
-PRODIGE, Projet de Recherche sur les Orchestres, les discriminations et le Genre, ANR funding, AAPG 2017 (Comité Inégalités, discriminations, migrations, radicalisation), 2018-2022. The funding amounts by the ANR are 325 404 €.
+PRODIGE (*Projet de Recherche sur les Orchestres, les discriminations et le Genre*) est un projet soutenu par l'Agence Nationale de la Recherche, AAPG 2017 (Comité Inégalités, discriminations, migrations, radicalisation), 2018-2022. Le financement de l'ANR s'élève à 325 404 €.
 
-### Previous research
+Il s'agit de mesurer les biais à l'oeuvre durant les procédures de recrutements et d'évaluer l'efficacité des auditions à l'aveugle pour lutter contre le discriminations. Cette anayse est appliquée au cas du recrutement des musiciens et musiciennes dans les orchestres permanents en France.
 
-[*Écouter sans voir: L'impact du paravent sur le recrutement des musicien-ne-s des orchestres de Paris et d'Île-de-France*, Janvier 2015, Recherche réalisée avec le soutien de ARDIS, Alliance sur les Recherche sur les Discriminations, Région Île-de-France](ardis.pdf)
+Cette recherche fait écho au célèbre article de Claudia Goldin et Cecilia Rouse -\> ["Orchestrating Impartiality: The Impact of "Blind" Auditions on Female Musicians", *American Economic Review,* Vol. 90, n°4, pp.715-741, 2000.](https://www.aeaweb.org/articles?id=10.1257/aer.90.4.715)
 
-#### Abstract
+En 2014-2015, un projet de recherche exploratoire avait reçu le soutien de l'ARDIS, dans le cadre du Domaine d\'intérêt majeur « Genre, inégalités, discriminations », de la Région Ile-de-France, via l'ARDIS.
 
-Les auditions « à l'aveugle » sont-elles possibles de bout en bout des procédures de recrutements des musicien-ne-s dans les orchestres professionnels ? Le « paravent » est-il un outil de lutte contre les discriminations sociales, sexuées ou ethniques, et son utilisation a-t-elle permis de diversifier les profils des personnes recrutées? L'aide au financement de la recherche par l'ARDIS, financée par la Région Île-de-France dans le cadre du Domaine d'intérêt majeur « Genre, inégalités, discriminations », a permis de mener une recherche exploratoire sur ce thème. Celle-ci combine approches sociologique et économique des discriminations, elle vise à montrer l'impact de l'instauration de procédures « à l'aveugle » lors des recrutements des musicien-ne-s dans les orchestres et à décrypter les discours et perceptions autour de la mobilisation éventuelle du « paravent ». Une base de données a été construite à partir des informations collectées auprès de cinq orchestres permanents d'Île-de-France (panel Ardis-Orchestres ci-après) participant à l'étude de décembre 2013 à septembre 2014. Il s'agit de l'Ensemble intercontemporain, de l'Orchestre de chambre de Paris, de l'Orchestre national d'Île-de-France, ainsi que les deux orchestres de Radio France : l'Orchestre national de France et l'Orchestre philharmonique de Radio France. Nous remercions les équipes de ces orchestres qui nous ont aidées à réaliser ce travail. La base de données a permis de conduire une analyse statistique exploratoire à partir d'une série de concours de recrutement entre 2000 et 2014. L'analyse qualitative s'appuie sur des données de type ethnographique et des données issues d'entretiens menés avec des responsables et des administratifs des orchestres. Cette synthèse présente les premiers résultats de cette recherche au croisement entre les travaux sur les musicien-ne-s professionnel-le-s et sur les procédures d'embauche antidiscriminatoire.
+### ARDIS 2015
 
-### PRODIGE Research
+#### Equipe de recherche
 
-#### Abstract
+-   Reguina Hatzipetrou, OFCE Sciences Po & Sorbonne Université
 
-This research aims at measuring discriminations in hiring process and at evaluating the efficiency of blind auditions to tackle discriminations. It analyses the dynamic of gender inequalities by drawing on the case study of Orchestras and musical performance.
+-   Chiara Noe, OFCE Sciences Po
 
-#### Team
+-   Hélène Périvier, OFCE Sciences Po
 
-OFCE team :
+-   [Hyacinthe Ravet, Sorbonne Université](https://www.iremus.cnrs.fr/fr/membres-permanents/hyacinthe-ravet)
 
-###### Audrey Etienne, Rouen University & OFCE Sciences Po
+#### Résumé
 
-###### Hélène Périvier, OFCE Sciences Po
+Les auditions « à l'aveugle » sont-elles possibles de bout en bout des procédures de recrutements des musicien-ne-s dans les orchestres professionnels ? Le « paravent » est-il un outil de lutte contre les discriminations sociales, sexuées ou ethniques, et son utilisation a-t-elle permis de diversifier les profils des personnes recrutées? L'aide au financement de la recherche par l'ARDIS, financée par la Région Île-de-France dans le cadre du Domaine d'intérêt majeur « Genre, inégalités, discriminations », a permis de mener une recherche exploratoire sur ce thème. Celle-ci combine approches sociologique et économique des discriminations, elle vise à montrer l'impact de l'instauration de procédures « à l'aveugle » lors des recrutements des musicien-ne-s dans les orchestres et à décrypter les discours et perceptions autour de la mobilisation éventuelle du « paravent ». Une base de données a été construite à partir des informations collectées auprès de cinq orchestres permanents d'Île-de-France participant à l'étude de décembre 2013 à septembre 2014 : l'Ensemble intercontemporain, l'Orchestre de chambre de Paris, l'Orchestre national d'Île-de-France, l'Orchestre national de France et l'Orchestre philharmonique de Radio France. Nous remercions les équipes de ces orchestres qui nous ont aidées à réaliser ce travail. La base de données a permis de conduire une analyse statistique exploratoire à partir d'une série de concours de recrutement entre 2000 et 2014. L'analyse qualitative s'appuie sur des données de type ethnographique et des données issues d'entretiens menés avec des responsables et des administratifs des orchestres. Les résultats de cette recherche au croisement entre les travaux sur les musicien-ne-s professionnel-le-s et sur les procédures d'embauche antidiscriminatoires sont diposnibles dans le rapport suivant -\> [*Écouter sans voir: L'impact du paravent sur le recrutement des musicien-ne-s des orchestres de Paris et d'Île-de-France*, Janvier 2015, Recherche réalisée avec le soutien de ARDIS, Alliance sur les Recherche sur les Discriminations, Région Île-de-France](ardis.pdf)
 
-###### Maxime Parodi, OFCE Sciences Po
+### PRODIGE 
 
-IReMus team:
+#### Equipe de recherche
 
-###### [Hyacinthe Ravet, Sorbonne Université](https://www.iremus.cnrs.fr/fr/membres-permanents/hyacinthe-ravet)
+-   Audrey Etienne, Rouen University & OFCE Sciences Po
 
-###### Reguina Hatzipetrou, OFCE Sciences Po & Sorbonne Université
+-   Reguina Hatzipetrou, OFCE Sciences Po & Sorbonne Université
+
+-   Hélène Périvier, OFCE Sciences Po
+
+-   Maxime Parodi, OFCE Sciences Po
+
+-   [Hyacinthe Ravet, Sorbonne Université](https://www.iremus.cnrs.fr/fr/membres-permanents/hyacinthe-ravet)
+
+#### Résumé
+
+Cette recherche se situe au croisement de plusieurs questionnements puisqu\'il s\'agit de mesurer les
+discriminations dans des procédures de sélection et d\'embauche, d\'évaluer les effets voulus et non voulus des recrutements à l\'aveugle et d\'analyser la construction des inégalités de sexe dans le secteur de l\'interprétation musicale. Elle s\'appuie sur deux axes : l\'un quantitatif portant sur la
+mesure de la discrimination et l\'analyse de l\'effet de la procédure de recrutement sur le profil des personnes recrutées et des personnes candidates, et l\'autre portant sur une approche qualitative des procédures de recrutement dans les orchestres, sur les aspects socio-historiques du mode
+de recrutement dans les orchestres et sur l\'égalité professionnelle au sein des orchestres. Quatre sources de données seront constituées : une base de données individuelles issues des concours ; une base de données historiques sur la féminisation des orchestres ; une base de données sur
+la composition des jurys et sur les différentes procédures de concours ; et enfin une source de données qualitatives réalisée à partir d\'archives et d\'entretiens. Le projet est porté par deux équipes permettant de couvrir les compétences nécessaires pour mener à bien le projet : compétences  en
+musicologie et sociologie de la musique, en études de genre, en statistiques et sur l\'analyse des discriminations.
+
+#### La base donnée Ardige (ARDIS + PRODIGE)
+
+Grâce au soutien des 13 orchestres partenaires, nous disposons d\'une base de données exceptionnelle et unique pour analyser l\'évolution des recrutements des musiciennes et musiciens. La base de données CONCOURS comprend 325 concours complets, pour lesquels nous observons 10 200 candidatures de 5 900 individus. Les personnes candidatent en moyenne 1.7 fois. Ces concours s\'échelonnent de 2001 à 2021, ce qui nous donne la possibilité de constater les évolutions sur 20 années de concours.
+
+Les données portent sur la plupart des instruments de l\'orchestre (par nombre décroissant de
+concours : violon, alto, contrebasse, violoncelle, hautbois, cors, trompette, clarinettes, bassons, flûtes,
+trombone, percussions, timbales, piano, tuba, harpe). 60% des concours concernent les cordes, 34% des instruments à vent, 6% des percussions et claviers. La plupart des concours s\'adressent à des
+violonistes avec 82 concours observés (soit un quart des concours observés), suivis des altistes avec 47
+concours (14%), puis des contrebassistes avec 36 concours (soit 11%). 66% des concours concernent des postes de solistes (215 concours), 32% des postes de tuttistes (105 concours) et 2% des concours, soit 5 concours, sont des concours ouverts à la fois pour des postes de tuttistes et des postes de solistes.
+
+On observe 47% de candidatures de femmes. Elles sont particulièrement représentées parmi les
+flûtistes (73%), altistes (65%) et les violonistes (63%), alors que les hommes sont plus nombreux parmi
+les trombonistes (95%), les tubistes (93%) et les cornistes (86%). Sur les 325 concours observés, certains n\'aboutissent pas à un recrutement, quand d\'autres conduisent au recrutement de plusieurs personnes. Au total, 285 personnes ont été recrutées, dont 44% de femmes.
+
+à suivre ...
 
 #### Lettres de PRODIGE
 
-###### [Lettre de PRODIGE n°1](pdf/lettre1.pdf)
+[Lettre de PRODIGE n°1](pdf/lettre1.pdf)
 
-###### [Lettre de PRODIGE n°2](pdf/lettre2.pdf)
+[Lettre de PRODIGE n°2](pdf/lettre2.pdf)
 
-###### [Lettre de PRODIGE n°3](pdf/lettre3.pdf)
+[Lettre de PRODIGE n°3](pdf/lettre3.pdf)

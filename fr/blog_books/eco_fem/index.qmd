@@ -4,15 +4,20 @@ description: "L'économie féministe. Pourquoi l'économie a besoin du féminism
 date: 10-22-2020
 categories: [Livre] # self-defined categories
 
+lang: fr
 image: livre.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-### Conferences autour du livre
+### Conférences autour du livre
 
 [Conférence autour de l'Economie féministe sur la scène du théatre national de Foix, L'estive, en partenariat avec la Maif](https://www.youtube.com/watch?v=TGVJHkM5yk0) (3 novembre 2022)
 
 [Les débats de l'égalité, Worl Equality Lab, PSE, L'économie féministe](http://prod.inequalitylab.world/fr/event/leconomie-feministe-15-decembre-2020/) (15 décembre 2022)
+
+### Traduction en Brésilien
+
+![](/images/EF_bresil.jpg){fig-align="center" width="155"}
 
 ### Couverture médiatique
 
@@ -50,9 +55,9 @@ La science économique a été pensée par des hommes, pour être au service d'u
 
 L'économie féministe, parce qu'elle renouvelle les thèmes et les approches de la discipline, déploie des savoirs et des outils pour atteindre l'égalité des sexes.
 
-### Content
+### Table des matières
 
-Préface, par **Thomas Piketty**
+Préface, par Thomas Piketty
 
 Introduction. Je suis une économiste féministe
 

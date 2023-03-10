@@ -3,185 +3,183 @@ title: "media"
 editor: visual
 ---
 
-Media coverage by topics since 2018:
+This page garthers the media coverage of my research (mostly in French) by topics since 2018 :
 
-### L'économie féministe
+### Feminist economics / L'économie féministe
 
-**France Culture** \| Hélène Périvier, sur [la théorie économique et le féminisme](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/science-genree-science-biaisee-5874064 "la théorie économique et le féminisme - nouvelle fenêtre") (mai 2022)
+**France Culture** \| [la théorie économique et le féminisme](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/science-genree-science-biaisee-5874064 "la théorie économique et le féminisme - nouvelle fenêtre") (mai 2022)
 
-**France Culture** \| Hélène Périvier,[La grande table, l'économie féministe](https://youtu.be/jV-o5m-Z5QI "l'économie féministe - nouvelle fenêtre") (juin 2021)
+**France Culture** \| [La grande table, l'économie féministe](https://youtu.be/jV-o5m-Z5QI "l'économie féministe - nouvelle fenêtre") (juin 2021)
 
-[![](images/paste-B7B74069.png "La grande table"){fig-align="center" width="199"}](https://youtu.be/jV-o5m-Z5QI)
+**Libération** \| [les sciences économiques et la place des femmes dans la société](https://www.liberation.fr/plus/du-role-economique-des-femmes-dans-la-societe-20210528_F4GDWJFBA5C5DKGD3PJ6W6TXTU/ "les sciences économiques et la place des femmes dans la société - nouvelle fenêtre") (mai 2021)
 
-**Libération** \| Hélène Périvier, sur [les sciences économiques et la place des femmes dans la société](https://www.liberation.fr/plus/du-role-economique-des-femmes-dans-la-societe-20210528_F4GDWJFBA5C5DKGD3PJ6W6TXTU/ "les sciences économiques et la place des femmes dans la société - nouvelle fenêtre") (mai 2021)
+**France Inter** \| [L'économie féministe](https://www.franceinter.fr/emissions/une-semaine-en-france/une-semaine-en-france-12-mars-2021 "l'économie féministe - nouvelle fenêtre") (mars 2021)
 
-**France Inter** \| Hélène Périvier, sur [l'économie féministe](https://www.franceinter.fr/emissions/une-semaine-en-france/une-semaine-en-france-12-mars-2021 "l'économie féministe - nouvelle fenêtre") (mars 2021)
+**Le Monde** \| [L'économie féministe](https://www.lemonde.fr/emploi/article/2021/02/03/l-economie-feministe-relire-l-economie-sans-biais-sociaux_6068579_1698637.html "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (février 2021)
 
-**Le Monde** \|Hélène Périvier, sur [son dernier ouvrage : L'économie féministe](https://www.lemonde.fr/emploi/article/2021/02/03/l-economie-feministe-relire-l-economie-sans-biais-sociaux_6068579_1698637.html "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (février 2021)
+**Le Devoir** \| [L'économie féministe](https://media1.ledevoir.com/economie/594309/l-economie-en-quete-de-diversite "l'économie féministe - nouvelle fenêtre") (janvier 2021)
 
-**Le Devoir** \| Hélène Périvier, sur [l'économie féministe](https://media1.ledevoir.com/economie/594309/l-economie-en-quete-de-diversite "l'économie féministe - nouvelle fenêtre") (janvier 2021)
+**Challenges** \| [L'économie féministe](https://www.challenges.fr/femmes/helene-perivier-ofce-dans-leconomie-de-marche-il-y-a-une-dimension-emancipatrice-pour-les-femmes_747344 "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (janvier 2021)
 
-**Challenges** \| Hélène Périvier, sur [son dernier ouvrage : L'économie féministe](https://www.challenges.fr/femmes/helene-perivier-ofce-dans-leconomie-de-marche-il-y-a-une-dimension-emancipatrice-pour-les-femmes_747344 "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (janvier 2021)
+**France 24** \| [L'économie féministe](https://www.france24.com/fr/%C3%A9missions/l-entretien/20210118-le-f%C3%A9minisme-peut-apporter-beaucoup-%C3%A0-l-%C3%A9conomie-selon-l-%C3%A9conomiste-h%C3%A9l%C3%A8ne-p%C3%A9rivier?ref=tw_i "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (janvier 2021)
 
-**France 24** \| Hélène Périvier, sur [son dernier ouvrage : L'économie féministe](https://www.france24.com/fr/%C3%A9missions/l-entretien/20210118-le-f%C3%A9minisme-peut-apporter-beaucoup-%C3%A0-l-%C3%A9conomie-selon-l-%C3%A9conomiste-h%C3%A9l%C3%A8ne-p%C3%A9rivier?ref=tw_i "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (janvier 2021)
+**Radio Canada** \| [L'économie féministe](https://ici.radio-canada.ca/premiere/emissions/le-15-18/segments/entrevue/338934/economie-feministe-helene-perivier-inegalite-femmes-hommes "L'économie féministe - nouvelle fenêtre") (janvier 2021)
 
-**Radio Canada** \| Hélène Périvier, sur [L'économie féministe](https://ici.radio-canada.ca/premiere/emissions/le-15-18/segments/entrevue/338934/economie-feministe-helene-perivier-inegalite-femmes-hommes "L'économie féministe - nouvelle fenêtre") (janvier 2021)
+**France Inter** \|[ L'économie féministe](https://www.franceinter.fr/emissions/l-invite-du-week-end/l-invite-du-week-end-20-decembre-2020 "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (janvier 2021)
 
-**France Inter** \| Hélène Périvier, sur [son dernier ouvrage : L'économie féministe](https://www.franceinter.fr/emissions/l-invite-du-week-end/l-invite-du-week-end-20-decembre-2020 "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (janvier 2021)
+**Alternatives Économiques** \| [L'économie féministe](https://www.alternatives-economiques.fr/helene-perivier-fondements-de-letat-social-genres/00094343 "L'économie féministe - nouvelle fenêtre") (octobre 2020)
 
-**Alternatives Économiques** \| Hélène Périvier, sur [L'économie féministe](https://www.alternatives-economiques.fr/helene-perivier-fondements-de-letat-social-genres/00094343 "L'économie féministe - nouvelle fenêtre") (octobre 2020)
-
-**France Culture** \| Hélène Périvier, sur [L'économie féministe](https://www.franceculture.fr/emissions/la-bibliotheque-ideale-de-leco/bibliotheque-de-leco-du-lundi-26-octobre-2020 "L'économie féministe - nouvelle fenêtre") (octobre 2020)
+**France Culture** \| [L'économie féministe](https://www.franceculture.fr/emissions/la-bibliotheque-ideale-de-leco/bibliotheque-de-leco-du-lundi-26-octobre-2020 "L'économie féministe - nouvelle fenêtre") (octobre 2020)
 
 ### Parental leave & paternity leave
 
-**France 24** \| Hélène Périvier, sur [le congé de paternité](https://www.france24.com/fr/%C3%A9missions/le-gros-mot-de-l-%C3%A9co/20211208-cong%C3%A9-paternit%C3%A9-pour-que-maman-travaille "le congé de paternité - nouvelle fenêtre") (décembre 2021)
+**France 24** \| [le congé de paternité](https://www.france24.com/fr/%C3%A9missions/le-gros-mot-de-l-%C3%A9co/20211208-cong%C3%A9-paternit%C3%A9-pour-que-maman-travaille "le congé de paternité - nouvelle fenêtre") (décembre 2021)
 
-**France Info** \| Hélène Périvier, sur [l'allongement du congé de paternité](https://www.francetvinfo.fr/economie/emploi/carriere/vie-professionnelle/emploi-des-femmes/l-allongement-du-conge-paternite-ne-suffira-pas-pour-faire-reculer-les-inegalites-professionnelles-estime-l-economiste-helene-perivier_4686123.html "l'allongement du congé de paternité - nouvelle fenêtre") (juillet 2021)
+**France Info** \| [l'allongement du congé de paternité](https://www.francetvinfo.fr/economie/emploi/carriere/vie-professionnelle/emploi-des-femmes/l-allongement-du-conge-paternite-ne-suffira-pas-pour-faire-reculer-les-inegalites-professionnelles-estime-l-economiste-helene-perivier_4686123.html "l'allongement du congé de paternité - nouvelle fenêtre") (juillet 2021)
 
-**Le Figaro** \| Hélène Périvier, sur [l'allongement du congé de paternité](https://madame.lefigaro.fr/societe/allongement-du-conge-paternite-un-petit-pas-vers-legalite-hommes-300621-197195 "l'allongement du congé de paternité - nouvelle fenêtre") (juillet 2021)
+**Le Figaro** \| [l'allongement du congé de paternité](https://madame.lefigaro.fr/societe/allongement-du-conge-paternite-un-petit-pas-vers-legalite-hommes-300621-197195 "l'allongement du congé de paternité - nouvelle fenêtre") (juillet 2021)
 
-**France 24** \| Hélène Périvier, sur [l'allongement du congé de paternité](https://www.france24.com/fr/france/20210629-allongement-du-cong%C3%A9-paternit%C3%A9-quel-impact-sur-l-%C3%A9galit%C3%A9-hommes-femmes "l'allongement du congé de paternité - nouvelle fenêtre") (juin 2021)
+**France 24** \| [l'allongement du congé de paternité](https://www.france24.com/fr/france/20210629-allongement-du-cong%C3%A9-paternit%C3%A9-quel-impact-sur-l-%C3%A9galit%C3%A9-hommes-femmes "l'allongement du congé de paternité - nouvelle fenêtre") (juin 2021)
 
-**France Inter** \| Hélène Périvier, sur [le congé parental](https://www.franceinter.fr/emissions/interception/un-conge-paternite-plus-long-un-progres-bien-timide "le congé parental - nouvelle fenêtre") (juin 2021)
+**France Inter** \| [le congé parental](https://www.franceinter.fr/emissions/interception/un-conge-paternite-plus-long-un-progres-bien-timide "le congé parental - nouvelle fenêtre") (juin 2021)
 
-**Madmoizelle** \| Hélène Périvier, sur [l'allongement du congé de maternité](https://www.madmoizelle.com/le-debat-feministe-du-moment-faut-il-allonger-le-conge-maternite-1127060 "l'allongement du congé de maternité - nouvelle fenêtre") (mai 2021)
+**Madmoizelle** \| [l'allongement du congé de maternité](https://www.madmoizelle.com/le-debat-feministe-du-moment-faut-il-allonger-le-conge-maternite-1127060 "l'allongement du congé de maternité - nouvelle fenêtre") (mai 2021)
 
-**Challenges** \| Hélène Périvier, sur [le partage du congé parental](https://www.challenges.fr/societe/le-conge-parental-toujours-largement-boude-par-les-peres-constate-une-etude_759296 "le partage du congé parental - nouvelle fenêtre") (avril 2021)
+**Challenges** \| [le partage du congé parental](https://www.challenges.fr/societe/le-conge-parental-toujours-largement-boude-par-les-peres-constate-une-etude_759296 "le partage du congé parental - nouvelle fenêtre") (avril 2021)
 
-**Le Chantier Radio** \| Hélène Périvier, sur [le partage du congé parental](https://lechantier.radio/infos/reforme-du-conge-parental-un-echec-relatif "le partage du congé parental - nouvelle fenêtre") (avril 2021)
+**Le Chantier Radio** \| [le partage du congé parental](https://lechantier.radio/infos/reforme-du-conge-parental-un-echec-relatif "le partage du congé parental - nouvelle fenêtre") (avril 2021)
 
-**L'Humanité** \| Hélène Périvier, sur [le partage du congé parental](https://www.humanite.fr/conge-parental-pourquoi-les-peres-ne-lutilisent-pas-703234 "le partage du congé parental - nouvelle fenêtre") (avril 2021)
+**L'Humanité** \| [le partage du congé parental](https://www.humanite.fr/conge-parental-pourquoi-les-peres-ne-lutilisent-pas-703234 "le partage du congé parental - nouvelle fenêtre") (avril 2021)
 
-**Le Monde** \| Hélène Périvier, sur [le partage du congé parental](https://www.lemonde.fr/societe/article/2021/04/07/moins-de-1-des-peres-prennent-un-conge-parental-malgre-une-reforme-en-2015_6075929_3224.html "le partage du congé parental - nouvelle fenêtre") (avril 2021)
+**Le Monde** \| [le partage du congé parental](https://www.lemonde.fr/societe/article/2021/04/07/moins-de-1-des-peres-prennent-un-conge-parental-malgre-une-reforme-en-2015_6075929_3224.html "le partage du congé parental - nouvelle fenêtre") (avril 2021)
 
-**LCI** \| Hélène Périvier, sur [le recours des pères au congé parental](https://www.lci.fr/societe/le-conge-parental-toujours-largement-boude-par-les-peres-2182948.html "le recours des pères au congé parental - nouvelle fenêtre") (avril 2021)
+**LCI** \| [le recours des pères au congé parental](https://www.lci.fr/societe/le-conge-parental-toujours-largement-boude-par-les-peres-2182948.html "le recours des pères au congé parental - nouvelle fenêtre") (avril 2021)
 
-**20 minutes** \| Hélène Périvier, sur [le recours des pères au congé parental](https://www.20minutes.fr/societe/3016675-20210408-conge-parental-certains-peres-disent-dispositif-affaire-femmes "le recours des pères au congé parental - nouvelle fenêtre") (avril 2021)
+**20 minutes** \| [le recours des pères au congé parental](https://www.20minutes.fr/societe/3016675-20210408-conge-parental-certains-peres-disent-dispositif-affaire-femmes "le recours des pères au congé parental - nouvelle fenêtre") (avril 2021)
 
-**L'Obs** \| Hélène Périvier, sur [le recours des pères au congé parental](https://www.nouvelobs.com/societe/20210409.OBS42486/une-affaire-de-femmes-et-d-argent-pourquoi-les-peres-ne-prennent-toujours-pas-de-conge-parental.html "le recours des pères au congé parental - nouvelle fenêtre") (avril 2021)
+**L'Obs** \| [le recours des pères au congé parental](https://www.nouvelobs.com/societe/20210409.OBS42486/une-affaire-de-femmes-et-d-argent-pourquoi-les-peres-ne-prennent-toujours-pas-de-conge-parental.html "le recours des pères au congé parental - nouvelle fenêtre") (avril 2021)
 
-**Le Parisien** \| Hélène Périvier, sur [le recours des pères au congé parental](https://www.leparisien.fr/economie/le-conge-parental-toujours-largement-boude-par-les-peres-07-04-2021-LFAMHFJJ6JBAVIQQWGVYWYAUFU.php "le recours des pères au congé parental - nouvelle fenêtre") (avril 2021)
+**Le Parisien** \| [le recours des pères au congé parental](https://www.leparisien.fr/economie/le-conge-parental-toujours-largement-boude-par-les-peres-07-04-2021-LFAMHFJJ6JBAVIQQWGVYWYAUFU.php "le recours des pères au congé parental - nouvelle fenêtre") (avril 2021)
 
-**Nouvelles Écoutes** \| Hélène Périvier, sur [l'allongement du congé de paternité en France](https://open.spotify.com/episode/5zlDxhJkNPnlJH2CSdUEhq?si=GIIxSTcDRbOD1iKUUrZvnA&nd=1 "l'allongement du congé de paternité en France - nouvelle fenêtre") (mars 2021)
+**Nouvelles Écoutes** \| [l'allongement du congé de paternité en France](https://open.spotify.com/episode/5zlDxhJkNPnlJH2CSdUEhq?si=GIIxSTcDRbOD1iKUUrZvnA&nd=1 "l'allongement du congé de paternité en France - nouvelle fenêtre") (mars 2021)
 
-**Moustique** \| Hélène Périvier, sur [le congé de paternité et l'accueil des jeunes enfants](https://www.moustique.be/27774/promotions-les-femmes-toujours-desavantagees-et-une-realite-difficile-changer "le congé de paternité et l'accueil des jeunes enfants - nouvelle fenêtre") (janvier 2021)
+**Moustique** \| [le congé de paternité et l'accueil des jeunes enfants](https://www.moustique.be/27774/promotions-les-femmes-toujours-desavantagees-et-une-realite-difficile-changer "le congé de paternité et l'accueil des jeunes enfants - nouvelle fenêtre") (janvier 2021)
 
 **France Inter** \| Hélène Périvier, sur [le congé de paternité](https://www.franceinter.fr/emissions/le-telephone-sonne/le-telephone-sonne-06-janvier-2021 "le congé de paternité - nouvelle fenêtre") (janvier 2021)
 
-**Podcast Les Couilles sur la Table** \| Hélène Périvier, sur [le congé de paternité](https://www.binge.audio/podcast/les-couilles-sur-la-table/conge-paternite-le-miracle "le congé de paternité - nouvelle fenêtre") (novembre 2020)
+**Podcast Les Couilles sur la Table** \| [le congé de paternité](https://www.binge.audio/podcast/les-couilles-sur-la-table/conge-paternite-le-miracle "le congé de paternité - nouvelle fenêtre") (novembre 2020)
 
-**Alternatives Économiques** \| Hélène Périvier, sur [le congé parental en France](https://www.alternatives-economiques.fr/repenser-conge-parental-france-une-perspective-feministe/00094395 "le congé parental en France - nouvelle fenêtre") (novembre 2020)
+**Alternatives Économiques** \| [le congé parental en France](https://www.alternatives-economiques.fr/repenser-conge-parental-france-une-perspective-feministe/00094395 "le congé parental en France - nouvelle fenêtre") (novembre 2020)
 
-**France Culture** \| Hélène Périvier, sur [l'impact de l'allongement du congé paternité sur l'égalité femmes-hommes](https://www.franceculture.fr/emissions/la-question-du-jour/quel-impact-lallongement-du-conge-paternite-peut-il-avoir-sur-legalite-hommes-femmes "l'impact de l’allongement du congé paternité sur l’égalité femmes-hommes - nouvelle fenêtre") (septembre 2020)
+**France Culture** \| [l'impact de l'allongement du congé paternité sur l'égalité femmes-hommes](https://www.franceculture.fr/emissions/la-question-du-jour/quel-impact-lallongement-du-conge-paternite-peut-il-avoir-sur-legalite-hommes-femmes "l'impact de l’allongement du congé paternité sur l’égalité femmes-hommes - nouvelle fenêtre") (septembre 2020)
 
-**Financial Times** \| Hélène Périvier, on [paternity leave reforms in France (EN)](https://www.ft.com/content/36efc7ea-9deb-489a-ac82-97138b7b34f5 "paternity leave reforms in France (EN) - nouvelle fenêtre") (septembre 2020)
+**Financial Times** \| [paternity leave reforms in France (EN)](https://www.ft.com/content/36efc7ea-9deb-489a-ac82-97138b7b34f5 "paternity leave reforms in France (EN) - nouvelle fenêtre") (septembre 2020)
 
-**Le Monde** \| Hélène Périvier, sur [l'allongement du congé de paternité et la politique familiale française](https://www.lemonde.fr/societe/article/2020/09/23/le-conge-paternite-ne-va-pas-changer-fondamentalement-la-question-des-inegalites-professionnelles-hommes-femmes_6053346_3224.html "l'allongement du congé de paternité et la politique familiale française - nouvelle fenêtre") (septembre 2020)
+**Le Monde** \| [l'allongement du congé de paternité et la politique familiale française](https://www.lemonde.fr/societe/article/2020/09/23/le-conge-paternite-ne-va-pas-changer-fondamentalement-la-question-des-inegalites-professionnelles-hommes-femmes_6053346_3224.html "l'allongement du congé de paternité et la politique familiale française - nouvelle fenêtre") (septembre 2020)
 
-**France Culture** \| Hélène Périvier, sur [l'allongement du congé de paternité](https://www.franceculture.fr/emissions/journal-de-12h30/journal-de-12h30-du-mercredi-23-septembre-2020 "l'allongement du congé de paternité - nouvelle fenêtre") (septembre 2020)
+**France Culture** \| [l'allongement du congé de paternité](https://www.franceculture.fr/emissions/journal-de-12h30/journal-de-12h30-du-mercredi-23-septembre-2020 "l'allongement du congé de paternité - nouvelle fenêtre") (septembre 2020)
 
-**Le Monde** \| Hélène Périvier, sur [le congé de paternité](https://www.lemonde.fr/societe/article/2020/09/22/la-duree-du-conge-paternite-en-france-va-etre-doublee_6053210_3224.html "le congé de paternité - nouvelle fenêtre") (septembre 2020)
+**Le Monde** \| [le congé de paternité](https://www.lemonde.fr/societe/article/2020/09/22/la-duree-du-conge-paternite-en-france-va-etre-doublee_6053210_3224.html "le congé de paternité - nouvelle fenêtre") (septembre 2020)
 
-**La Croix** \| Hélène Périvier, sur [le congé de paternité](https://www.la-croix.com/Debats/Jusquou-faut-prolonger-conges-parentaux-2020-09-09-1201113113 "le congé de paternité - nouvelle fenêtre") (septembre 2020)
+**La Croix** \| [le congé de paternité](https://www.la-croix.com/Debats/Jusquou-faut-prolonger-conges-parentaux-2020-09-09-1201113113 "le congé de paternité - nouvelle fenêtre") (septembre 2020)
 
-**Le Figaro** \| Hélène Périvier, sur [le congé de paternité](https://www.lefigaro.fr/social/adrien-taquet-reflechit-a-rendre-obligatoire-le-conge-paternite-20200731 "le congé de paternité - nouvelle fenêtre") (août 2020)
+**Le Figaro** \| [le congé de paternité](https://www.lefigaro.fr/social/adrien-taquet-reflechit-a-rendre-obligatoire-le-conge-paternite-20200731 "le congé de paternité - nouvelle fenêtre") (août 2020)
 
-**France 2** \| Hélène Périvier, sur [l'égalité dans la famille](https://www.francetvinfo.fr/economie/emploi/metiers/droit-et-justice/il-y-a-cinquante-cinq-ans-les-femmes-accedaient-a-l-independance_4044121.html "l'égalité dans la famille - nouvelle fenêtre") (juillet 2020)
+**France 2** \| [l'égalité dans la famille](https://www.francetvinfo.fr/economie/emploi/metiers/droit-et-justice/il-y-a-cinquante-cinq-ans-les-femmes-accedaient-a-l-independance_4044121.html "l'égalité dans la famille - nouvelle fenêtre") (juillet 2020)
 
-**France Culture** \| Hélène Périvier, [sur la maternité](https://www.franceculture.fr/emissions/cultures-monde/genre-les-arenes-de-linegalite-travail-la-maternite-eternel-obstacle "sur la maternité - nouvelle fenêtre") (mars 2020)
+**France Culture** \| [sur la maternité](https://www.franceculture.fr/emissions/cultures-monde/genre-les-arenes-de-linegalite-travail-la-maternite-eternel-obstacle "sur la maternité - nouvelle fenêtre") (mars 2020)
 
-**Slate** \| Hélène Périvier, sur [le congé de paternité et le quotient conjugal](http://www.slate.fr/story/184356/egalite-femmes-hommes-allongement-conge-paternite-obligatoire-rapport-igas-reticence-gouvernement "le congé de paternité et le quotient conjugal - nouvelle fenêtre") (novembre 2019)
+**Slate** \| [le congé de paternité et le quotient conjugal](http://www.slate.fr/story/184356/egalite-femmes-hommes-allongement-conge-paternite-obligatoire-rapport-igas-reticence-gouvernement "le congé de paternité et le quotient conjugal - nouvelle fenêtre") (novembre 2019)
 
-**RMC** \|Hélène Périvier, ["En France,98% des allocataires du congé parental sont des femmes"](https://rmc.bfmtv.com/mediaplayer/video/conge-parental-de-deux-mois-pour-chaque-parent-en-france-98percent-des-allocataires-de-ce-conge-sont-des-femmes-1152609.html#t=5s ""En France, 98% des allocataires du congé parental sont des femmes" - nouvelle fenêtre") (avril 2019)
+**RMC** \| ["En France,98% des allocataires du congé parental sont des femmes"](https://rmc.bfmtv.com/mediaplayer/video/conge-parental-de-deux-mois-pour-chaque-parent-en-france-98percent-des-allocataires-de-ce-conge-sont-des-femmes-1152609.html#t=5s ""En France, 98% des allocataires du congé parental sont des femmes" - nouvelle fenêtre") (avril 2019)
 
 **L'Usine Digitale** *\|* [Réduire les inégalités entre les hommes et les femmes avec Hélène Périvier ](https://www.usine-digitale.fr/article/podcast-femme-et-innovation-reduire-les-inegalites-entre-les-hommes-et-les-femmes-avec-helene.N813140 "Réduire les inégalités entre les hommes et les femmes avec Hélène Périvier - nouvelle fenêtre")(mars 2019)
 
-**Le Monde** \| Hélène Périvier, sur [les congés parentaux](https://www.lemonde.fr/m-perso/article/2019/01/26/conge-parental-ou-sont-les-hommes_5414804_4497916.html?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1548517789 "les congés parentaux - nouvelle fenêtre") (janvier 2019)
+**Le Monde** \| [les congés parentaux](https://www.lemonde.fr/m-perso/article/2019/01/26/conge-parental-ou-sont-les-hommes_5414804_4497916.html?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1548517789 "les congés parentaux - nouvelle fenêtre") (janvier 2019)
 
 **France Culture** \| Hélène Périvier et Réjane Sénac, "[Congé paternité : libérez les papas](https://www.franceculture.fr/emissions/les-nouvelles-de-leco/les-nouvelles-de-leco-du-lundi-29-octobre-2018 "Congé paternité : libérez les papas - nouvelle fenêtre")" (octobre 2018) 
 
-**France Culture** \| Hélène Périvier, sur [l'allongement du congé paternité](https://www.franceculture.fr/emissions/la-question-du-jour/egalite-des-sexes-que-pourrait-changer-lallongement-du-conge-paternite "l’allongement du congé paternité - nouvelle fenêtre") (septembre 2018)
+**France Culture** \| [l'allongement du congé paternité](https://www.franceculture.fr/emissions/la-question-du-jour/egalite-des-sexes-que-pourrait-changer-lallongement-du-conge-paternite "l’allongement du congé paternité - nouvelle fenêtre") (septembre 2018)
 
-**Europe 1** \| Hélène Périvier, sur [le congé parental](https://twitter.com/Europe1/status/1039904174672998400 "le congé parental - nouvelle fenêtre") (septembre 2018)
+**Europe 1** \|  [le congé parental](https://twitter.com/Europe1/status/1039904174672998400 "le congé parental - nouvelle fenêtre") (septembre 2018)
 
-**Marianne** \| Hélène Périvier, [Congé parental : nos politiques publiques font qu'à la fin, "c'est toujours madame qui s'y colle"](https://www.marianne.net/societe/conge-parental-nos-politiques-publiques-font-qu-la-fin-c-est-toujours-madame-qui-s-y-colle) (mai 2018)
+**Marianne** \| [Congé parental : nos politiques publiques font qu'à la fin, "c'est toujours madame qui s'y colle"](https://www.marianne.net/societe/conge-parental-nos-politiques-publiques-font-qu-la-fin-c-est-toujours-madame-qui-s-y-colle) (mai 2018)
 
-**France Inter** \| Hélène Périvier, [Allongement du congé paternité : comment ! Les pères ne sont pas des mères comme les autres ?](https://www.franceinter.fr/emissions/le-telephone-sonne/le-telephone-sonne-29-janvier-2018) (janvier 2018)
+**France Inter** \| [Allongement du congé paternité : comment ! Les pères ne sont pas des mères comme les autres ?](https://www.franceinter.fr/emissions/le-telephone-sonne/le-telephone-sonne-29-janvier-2018) (janvier 2018)
 
 ### Gender inequalities in the labour market
 
-**Usbek & Rica** \| Hélène Périvier, sur [la maternité et les carrières professionnelles des femmes](https://usbeketrica.com/fr/article/maternite-et-droits-sociaux-le-cout-de-l-ignorance "la maternité et les carrières professionnelles des femmes - nouvelle fenêtre") (mars 2022)
+**Usbek & Rica** \| [la maternité et les carrières professionnelles des femmes](https://usbeketrica.com/fr/article/maternite-et-droits-sociaux-le-cout-de-l-ignorance "la maternité et les carrières professionnelles des femmes - nouvelle fenêtre") (mars 2022)
 
-**France Culture** \| Hélène Périvier, sur [la maternité et l'emploi des femmes](https://www.franceculture.fr/emissions/la-question-du-jour/quelles-sont-les-incidences-d-une-grossesse-sur-l-emploi-des-femmes "la maternité et l'emploi des femmes - nouvelle fenêtre") (mars 2022)
+**France Culture** \| [la maternité et l'emploi des femmes](https://www.franceculture.fr/emissions/la-question-du-jour/quelles-sont-les-incidences-d-une-grossesse-sur-l-emploi-des-femmes "la maternité et l'emploi des femmes - nouvelle fenêtre") (mars 2022)
 
-**France Culture** \| Hélène Périvier, sur [la notion de privilège et les inégalités femmes-hommes](https://www.franceculture.fr/emissions/entendez-vous-l-eco/privilege-nom-masculin "la notion de privilège et les inégalités femmes-hommes - nouvelle fenêtre") (janvier 2022)
+**France Culture** \| [la notion de privilège et les inégalités femmes-hommes](https://www.franceculture.fr/emissions/entendez-vous-l-eco/privilege-nom-masculin "la notion de privilège et les inégalités femmes-hommes - nouvelle fenêtre") (janvier 2022)
 
-**RFI** \| Hélène Périvier, sur [les femmes et la crise économique](https://www.rfi.fr/fr/podcasts/7-milliards-de-voisins/20210504-les-femmes-face-%C3%A0-la-crise-mondiale "les femmes et la crise économique - nouvelle fenêtre") (mai 2021)
+**RFI** \| [les femmes et la crise économique](https://www.rfi.fr/fr/podcasts/7-milliards-de-voisins/20210504-les-femmes-face-%C3%A0-la-crise-mondiale "les femmes et la crise économique - nouvelle fenêtre") (mai 2021)
 
-**Le Monde** \| Hélène Périvier, sur [le recours au chômage partiel pendant le premier confinement](https://www.lemonde.fr/emploi/article/2021/02/24/pouquoi-l-index-2021-de-l-egalite-sera-biaise-par-le-chomage-partiel_6071011_1698637.html "le recours au chômage partiel pendant le premier confinement - nouvelle fenêtre") (février 2021)
+**Le Monde** \| [le recours au chômage partiel pendant le premier confinement](https://www.lemonde.fr/emploi/article/2021/02/24/pouquoi-l-index-2021-de-l-egalite-sera-biaise-par-le-chomage-partiel_6071011_1698637.html "le recours au chômage partiel pendant le premier confinement - nouvelle fenêtre") (février 2021)
 
-**Le Monde** \| Hélène Périvier, sur [la crise du Covid-19 et les inégalités femmes-hommes](https://www.lemonde.fr/emploi/article/2020/11/04/comment-la-crise-due-au-covid-19-risque-de-creuser-les-inegalites-de-genre_6058439_1698637.html "la crise du Covid-19 et les inégalités femmes-hommes - nouvelle fenêtre") (novembre 2020)
+**Le Monde** \| [la crise du Covid-19 et les inégalités femmes-hommes](https://www.lemonde.fr/emploi/article/2020/11/04/comment-la-crise-due-au-covid-19-risque-de-creuser-les-inegalites-de-genre_6058439_1698637.html "la crise du Covid-19 et les inégalités femmes-hommes - nouvelle fenêtre") (novembre 2020)
 
-**France 2** \| Hélène Périvier, sur [l'égalité dans la famille](https://www.francetvinfo.fr/economie/emploi/metiers/droit-et-justice/il-y-a-cinquante-cinq-ans-les-femmes-accedaient-a-l-independance_4044121.html "l'égalité dans la famille - nouvelle fenêtre") (juillet 2020)
+**France 2** \| [l'égalité dans la famille](https://www.francetvinfo.fr/economie/emploi/metiers/droit-et-justice/il-y-a-cinquante-cinq-ans-les-femmes-accedaient-a-l-independance_4044121.html "l'égalité dans la famille - nouvelle fenêtre") (juillet 2020)
 
-**Les Échos** \| Hélène Périvier, sur [le plafond de verre](https://business.lesechos.fr/entrepreneurs/toujours-plus-haut/coaching/0603381649561-helene-perivier-le-plafond-de-verre-est-un-phenomene-multidimensionnel-et-systemique-338626.php "le plafond de verre - nouvelle fenêtre") (juin 2020)
+**Les Échos** \| [le plafond de verre](https://business.lesechos.fr/entrepreneurs/toujours-plus-haut/coaching/0603381649561-helene-perivier-le-plafond-de-verre-est-un-phenomene-multidimensionnel-et-systemique-338626.php "le plafond de verre - nouvelle fenêtre") (juin 2020)
 
-**Les Fameuses** \| Hélène Périvier, sur [ce que l'épidémie mondiale de Covid-19 révèle des inégalités femmes-hommes sur le marché du travail et au sein du couple](https://www.lesfameuses.com/la-rhetorique-de-la-performance-economique-des-femmes-produit-un-sexisme-bienveillant-helene-perivier/ "ce que l’épidémie mondiale de Covid-19 révèle des inégalités femmes-hommes sur le marché du travail et au sein du couple - nouvelle fenêtre") (mai 2020)
+**Les Fameuses** \| [ce que l'épidémie mondiale de Covid-19 révèle des inégalités femmes-hommes sur le marché du travail et au sein du couple](https://www.lesfameuses.com/la-rhetorique-de-la-performance-economique-des-femmes-produit-un-sexisme-bienveillant-helene-perivier/ "ce que l’épidémie mondiale de Covid-19 révèle des inégalités femmes-hommes sur le marché du travail et au sein du couple - nouvelle fenêtre") (mai 2020)
 
-**France Culture** \|Hélène Périvier, sur [la crise sanitaire, économique et sociale du Covid-19](https://www.franceculture.fr/emissions/entendez-vous-leco/sortie-de-crise-confinement-le-creusement-des-inegalites "la crise sanitaire, économique et sociale du Covid-19 - nouvelle fenêtre") (mai 2020)
+**France Culture** \| [la crise sanitaire, économique et sociale du Covid-19](https://www.franceculture.fr/emissions/entendez-vous-leco/sortie-de-crise-confinement-le-creusement-des-inegalites "la crise sanitaire, économique et sociale du Covid-19 - nouvelle fenêtre") (mai 2020)
 
-**France Culture** \| Hélène Périvier, sur [les inégalités de sexe et la crise du Covid-19](https://www.franceculture.fr/emissions/le-temps-du-debat/inegalites-femmes-hommes-y-a-t-il-une-lecture-de-genre-de-la-crise "les inégalités de sexe et la crise du Covid-19 - nouvelle fenêtre") (avril 2020)
+**France Culture** \| [les inégalités de sexe et la crise du Covid-19](https://www.franceculture.fr/emissions/le-temps-du-debat/inegalites-femmes-hommes-y-a-t-il-une-lecture-de-genre-de-la-crise "les inégalités de sexe et la crise du Covid-19 - nouvelle fenêtre") (avril 2020)
 
-**Le Monde** \| Hélène Périvier, sur [la revalorisation des emplois et carrières à prédominance féminine](https://www.lemonde.fr/idees/article/2020/04/18/covid-19-il-faut-revaloriser-les-emplois-et-carrieres-a-predominance-feminine_6036994_3232.html "la revalorisation des emplois et carrières à prédominance féminine - nouvelle fenêtre") (avril 2020)
+**Le Monde** \| [la revalorisation des emplois et carrières à prédominance féminine](https://www.lemonde.fr/idees/article/2020/04/18/covid-19-il-faut-revaloriser-les-emplois-et-carrieres-a-predominance-feminine_6036994_3232.html "la revalorisation des emplois et carrières à prédominance féminine - nouvelle fenêtre") (avril 2020)
 
-**France Culture** \| Hélène Périvier, [sur la maternité](https://www.franceculture.fr/emissions/cultures-monde/genre-les-arenes-de-linegalite-travail-la-maternite-eternel-obstacle "sur la maternité - nouvelle fenêtre") (mars 2020)
+**France Culture** \| [la maternité](https://www.franceculture.fr/emissions/cultures-monde/genre-les-arenes-de-linegalite-travail-la-maternite-eternel-obstacle "sur la maternité - nouvelle fenêtre") (mars 2020)
 
-**France Info** \| Hélène Périvier, sur [le projet de loi pour l'émancipation économique des femmes](https://soundcloud.com/user-444778857-382712958/franceinfo-interview-dhelene-perivier-sur-lemancipation-economique-des-femmes/s-lnMjk "le projet de loi pour l'émancipation économique des femmes - nouvelle fenêtre") (août 2019)
+**France Info** \| [le projet de loi pour l'émancipation économique des femmes](https://soundcloud.com/user-444778857-382712958/franceinfo-interview-dhelene-perivier-sur-lemancipation-economique-des-femmes/s-lnMjk "le projet de loi pour l'émancipation économique des femmes - nouvelle fenêtre") (août 2019)
 
-**France Culture** \| Hélène Périvier, ["Éducation, formation, bien-être : l'autre révolution du travail"](https://www.franceculture.fr/emissions/matieres-a-penser/le-travail-au-xxie-siecle-miroir-des-societes-futures-44-education-formation-bien-etre-lautre ""Éducation, formation, bien-être : l'autre révolution du travail" - nouvelle fenêtre") (avril 2019)
+**France Culture** \| ["Éducation, formation, bien-être : l'autre révolution du travail"](https://www.franceculture.fr/emissions/matieres-a-penser/le-travail-au-xxie-siecle-miroir-des-societes-futures-44-education-formation-bien-etre-lautre ""Éducation, formation, bien-être : l'autre révolution du travail" - nouvelle fenêtre") (avril 2019)
 
-**Arte** \| Hélène Périvier sur [les inégalités en France](https://www.arte.tv/fr/videos/081632-156-A/28-minutes/ "les inégalités en France - nouvelle fenêtre") (avril 2019)
+**Arte** \| [les inégalités en France](https://www.arte.tv/fr/videos/081632-156-A/28-minutes/ "les inégalités en France - nouvelle fenêtre") (avril 2019)
 
-**Nouvelles Écoutes - Splash** \| Hélène Périvier, [sur les inégalités salariales](https://soundcloud.com/nouvelles-ecoutes/splah-32-pourquoi-paye-t-on-les-femmes-moins-que-les-hommes "sur les inégalités salariales - nouvelle fenêtre") (mars 2019)
+**Nouvelles Écoutes - Splash** \| [sur les inégalités salariales](https://soundcloud.com/nouvelles-ecoutes/splah-32-pourquoi-paye-t-on-les-femmes-moins-que-les-hommes "sur les inégalités salariales - nouvelle fenêtre") (mars 2019)
 
 **L'Usine Digitale** *\|* [Réduire les inégalités entre les hommes et les femmes avec Hélène Périvier ](https://www.usine-digitale.fr/article/podcast-femme-et-innovation-reduire-les-inegalites-entre-les-hommes-et-les-femmes-avec-helene.N813140 "Réduire les inégalités entre les hommes et les femmes avec Hélène Périvier - nouvelle fenêtre")(mars 2019)
 
-**The Wall Street Journal** \| Hélène Périvier, sur [les inégalités salariales (EN)](https://www.wsj.com/articles/france-prepares-to-get-tough-on-firms-that-pay-women-less-1542542400?mod=e2tw) (novembre 2018)
+**The Wall Street Journal** \| [les inégalités salariales (EN)](https://www.wsj.com/articles/france-prepares-to-get-tough-on-firms-that-pay-women-less-1542542400?mod=e2tw) (novembre 2018)
 
-**Europe 1** \| Hélène Périvier, sur [les inégalités salariales](http://www.europe1.fr/societe/6novembre15h35-les-inegalites-salariales-restent-encore-tres-importantes-3794978 "les inégalités salariales - nouvelle fenêtre") (novembre 2018)
+**Europe 1** \| [les inégalités salariales](http://www.europe1.fr/societe/6novembre15h35-les-inegalites-salariales-restent-encore-tres-importantes-3794978 "les inégalités salariales - nouvelle fenêtre") (novembre 2018)
 
  
 
 ### Taxation and marital status
 
-**France Culture** \| Hélène Périvier, sur [le système d'imposition lié au statut du couple](https://www.franceculture.fr/emissions/la-question-du-jour/couple-et-argent-pourquoi-la-proposition-de-reforme-du-quotient-conjugal-fait-elle-debat "le système d'imposition lié au statut du couple - nouvelle fenêtre") (avril 2022)
+**France Culture** \|  [le système d'imposition lié au statut du couple](https://www.franceculture.fr/emissions/la-question-du-jour/couple-et-argent-pourquoi-la-proposition-de-reforme-du-quotient-conjugal-fait-elle-debat "le système d'imposition lié au statut du couple - nouvelle fenêtre") (avril 2022)
 
-**Les Nouvelles News** \| Hélène Périvier, sur \[le système d'imposition des couples\](https://www.lesnouvellesnews.fr/non-paiement-des-pensions-alimentaires-et-si-limpot-etait-problematique/ " le système d'imposition des couples - nouvelle fenêtre) (janvier 2021)
+**Les Nouvelles News** \| [le système d'imposition des couples](https://www.lesnouvellesnews.fr/non-paiement-des-pensions-alimentaires-et-si-limpot-etait-problematique/ " le système d'imposition des couples - nouvelle fenêtre) (janvier 2021)
 
-**Alternatives Économiques** \| Hélène Périvier, sur le [quotient conjugal](https://www.alternatives-economiques.fr/allongement-conge-paternite-larbre-cache-foret/00094168 "quotient conjugal - nouvelle fenêtre") (octobre 2020)
+**Alternatives Économiques** \| le [quotient conjugal](https://www.alternatives-economiques.fr/allongement-conge-paternite-larbre-cache-foret/00094168 "quotient conjugal - nouvelle fenêtre") (octobre 2020)
 
-**Slate** \| Hélène Périvier, sur [le congé de paternité et le quotient conjugal](http://www.slate.fr/story/184356/egalite-femmes-hommes-allongement-conge-paternite-obligatoire-rapport-igas-reticence-gouvernement "le congé de paternité et le quotient conjugal - nouvelle fenêtre") (novembre 2019)
+**Slate** \| [le congé de paternité et le quotient conjugal](http://www.slate.fr/story/184356/egalite-femmes-hommes-allongement-conge-paternite-obligatoire-rapport-igas-reticence-gouvernement "le congé de paternité et le quotient conjugal - nouvelle fenêtre") (novembre 2019)
 
-**L'Opinion** \| Hélène Périvier, [sur les effets pervers du système d'imposition des couples](https://www.lopinion.fr/edition/economie/quotient-conjugal-effets-pervers-systeme-d-imposition-couples-180182 "sur les effets pervers du système d'imposition des couples - nouvelle fenêtre") (mars 2019)
+**L'Opinion** \|[ les effets pervers du système d'imposition des couples](https://www.lopinion.fr/edition/economie/quotient-conjugal-effets-pervers-systeme-d-imposition-couples-180182 "sur les effets pervers du système d'imposition des couples - nouvelle fenêtre") (mars 2019)
 
-### Poverty of lone mothers
+### Poverty of single mothers
 
-**BFM TV** \| Hélène Périvier, sur [le niveau de vie des mères isolées ou séparées](https://www.bfmtv.com/replay-emissions/polonews/l-appel-a-l-aide-des-mamans-solos-14-09_VN-202109140496.html "le niveau de vie des mères isolées ou séparées - nouvelle fenêtre") (septembre 2021)
+**BFM TV** \|  [le niveau de vie des mères isolées ou séparées](https://www.bfmtv.com/replay-emissions/polonews/l-appel-a-l-aide-des-mamans-solos-14-09_VN-202109140496.html "le niveau de vie des mères isolées ou séparées - nouvelle fenêtre") (septembre 2021)
 
-**France Culture** \| Hélène Périvier, sur [la pauvreté et les familles monoparentales](https://www.franceculture.fr/emissions/entendez-vous-leco/leconomie-au-chevet-des-plus-pauvres-23-entendez-vous-leco-emission-du-mercredi-25-novembre-2020 "la pauvreté et les familles monoparentales - nouvelle fenêtre") (novembre 2020)
+**France Culture** \| [la pauvreté et les familles monoparentales](https://www.franceculture.fr/emissions/entendez-vous-leco/leconomie-au-chevet-des-plus-pauvres-23-entendez-vous-leco-emission-du-mercredi-25-novembre-2020 "la pauvreté et les familles monoparentales - nouvelle fenêtre") (novembre 2020)
 
-**Alternatives Économiques** \| Hélène Périvier, sur [le recouvrement des pensions alimentaires impayées](https://www.alternatives-economiques.fr/pensions-alimentaires-lenfer-pave-de-bonnes-intentions/00091916 "le recouvrement des pensions alimentaires impayées - nouvelle fenêtre") (août 2020)
+**Alternatives Économiques** \| [le recouvrement des pensions alimentaires impayées](https://www.alternatives-economiques.fr/pensions-alimentaires-lenfer-pave-de-bonnes-intentions/00091916 "le recouvrement des pensions alimentaires impayées - nouvelle fenêtre") (août 2020)
 
-**France Inter** \| Hélène Périvier, [Comment assurer le versement des pensions alimentaires ?](https://www.franceinter.fr/emissions/le-telephone-sonne/le-telephone-sonne-03-mai-2019 "Comment assurer le versement des pensions alimentaires ? - nouvelle fenêtre") (mai 2019)
+**France Inter** \| [Comment assurer le versement des pensions alimentaires ?](https://www.franceinter.fr/emissions/le-telephone-sonne/le-telephone-sonne-03-mai-2019 "Comment assurer le versement des pensions alimentaires ? - nouvelle fenêtre") (mai 2019)
 
 ### Others topics
 
-**France Culture** \| Hélène Périvier, sur [ses recommendations lectures pour l'été](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/des-livres-d-eco-pour-les-vacances-8739630 "ses recommendations lectures pour l'été - nouvelle fenêtre") (juillet 2022)
+**France Culture** \| [ses recommendations lectures pour l'été](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/des-livres-d-eco-pour-les-vacances-8739630 "ses recommendations lectures pour l'été - nouvelle fenêtre") (juillet 2022)
 
-**L'Express** \| Hélène Périvier, sur [les 10 ans du Programme de recherche et d'enseignement des savoirs sur le genre de Sciences Po](https://www.lexpress.fr/actualite/il-ne-faut-pas-justifier-la-quete-d-egalite-par-la-performance-economique_2116362.html "les 10 ans du Programme de recherche et d'enseignement des savoirs sur le genre de Sciences Po - nouvelle fenêtre") (janvier 2020)
+**L'Express** \| [les 10 ans du Programme de recherche et d'enseignement des savoirs sur le genre de Sciences Po](https://www.lexpress.fr/actualite/il-ne-faut-pas-justifier-la-quete-d-egalite-par-la-performance-economique_2116362.html "les 10 ans du Programme de recherche et d'enseignement des savoirs sur le genre de Sciences Po - nouvelle fenêtre") (janvier 2020)
 
-**University World News** \| Hélène Périvier : ["Embedding a gender perspective across the Sciences Po curriculum" (EN)](https://www.universityworldnews.com/post.php?story=20190218133404241 ""Embedding a gender perspective across the Sciences Po curriculum" (EN) - nouvelle fenêtre") (février 2019)
+**University World News** \| ["Embedding a gender perspective across the Sciences Po curriculum" (EN)](https://www.universityworldnews.com/post.php?story=20190218133404241 ""Embedding a gender perspective across the Sciences Po curriculum" (EN) - nouvelle fenêtre") (février 2019)
 
  
 

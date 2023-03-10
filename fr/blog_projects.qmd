@@ -1,5 +1,5 @@
 ---
-title: "Recherche"
+title: "Recherches"
 listing:
   contents: blog_projects
   sort: "date desc"
@@ -13,8 +13,8 @@ format:
     css: styles.css
     toc: true
     
+lang: fr   
 editor: visual
-#Adding a blog to your existing Quarto website (samanthacsik.github.io)
 ---
 
-Ici la description des projets de recherche les importants dans lesquels je suis impliquée :
+Voici les principaux projets de recherche sur lesquels je travaille actuellement

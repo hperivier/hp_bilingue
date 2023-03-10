@@ -1,8 +1,7 @@
 project:
   type: website
-  title: "english"
   output-dir: ../ressources/en
-  
+    
 website:
   navbar:
     background: secondary
@@ -10,17 +9,29 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - bio.qmd
-      - publications.qmd
-      - blog_books.qmd
-      - blog_projects.qmd
-      - blog_teaching.qmd
-      - media.qmd
-      - blog_review.qmd
-
+      - href: bio.qmd
+        text: Bio
+      - href: publications.qmd
+        text: Publications
+      - href: blog_books.qmd
+        text: Books
+      - href: blog_projects.qmd
+        text: Research
+      - href: blog_teaching.qmd
+        text: Teaching
+      - href: media.qmd
+        text: Media
+      - href: blog_review.qmd
+        text: Reviews
     right:
-      - href: ../
-        text: fr
+      - href: ../../
+        text: FR
+        icon: globe2
+        
+  page-footer: 
+    background: light
+    left: 
+      - "Quarto & Github, Hélène Périvier, Copyright 2023."
         
 lang: en
 
@@ -33,3 +44,4 @@ format:
     toc: true
     
 editor: visual
+

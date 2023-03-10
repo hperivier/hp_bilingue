@@ -1,21 +1,24 @@
 ---
 title: "Les communs au prisme du genre"
 description: "Analyse bibliométrique de la littérature croisant genre et communs"
-date: 01-01-2023
+date: 01-12-2022
 
 categories: [Projet de recherche] # self-defined categories
 
+lang: fr
 image: communs2.jfif
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false 
 ---
 
 Recherche réalisée pour l'Agence Française de Développement (AFD)
 
-### Abstract
+Une première version du rapport est disponible ici -\>[*Analyse bibliométrique de la littérature croisant genre et communs*](Rapport_AFD_2022.pdf)
 
-L'objet de ce rapport est de rendre compte de la diversité de la littérature croisant genre et communs afin de dégager des pistes de recherche porteuses de renouvellement. Il s'inscrit dans la continuité d'une première étude commissionnée par l'AFD à l'OFCE en 2021, étude consacrée au croisement des enjeux genre et climat dans l'action des principaux acteurs du développement international (Forest et Foreste 2021). Ces travaux poursuivent un objectif de décloisonnement des savoirs afin de contribuer au renouvellement des référentiels de l'action de l'AFD. L'étude "genre et climat" s'appuyait sur un corpus de textes produits par diverses catégories d'organisations, le présent rapport repose sur une analyse bibliométrique de la littérature académique articulant la perspective de genre avec celle des communs. Il ne s'agit pas de rapporter l'entièreté des apports théoriques et empiriques de ces deux champs, mais de proposer une grille de lecture du croisement heuristique entre genre et communs pour en faciliter la compréhension et l'appropriation par différentes catégories d'acteurs (académiques, praticiens). L'analyse repose sur une revue de la littérature aussi exhaustive que possible, qui a donné lieu à la constitution d'une base de données, Genre&Com. Celle-ci permet de repérer certaines caractéristiques des différentes approches mobilisées à l'intersection entre ces deux domaines que sont les communs et le genre. Afin de mieux saisir la spécificité de ce double champ, nous mobilisons les données issues d'une autre analyse bibliométrique portant sur les communs réalisée à l'occasion du 30ème anniversaire du livre Governing the Commons d'Elinor Ostrom et publiée dans l'International Journal of the Commons en 2020 (Laerhoven, Schoon, et Villamayor-Tomas 2020). Dans un premier temps, nous décrivons brièvement les champs de recherche des communs et du genre en montrant les différentes façons d'articuler les deux. Nous proposons une grille d'analyse de ce double champ. Puis, nous présentons la méthodologie et les données mobilisées. Enfin, nous cartographions la littérature genre et communs en appliquant la grille développée dans la première partie. En guise de conclusion, nous proposons des pistes de recherche futures.
+### Résumé
 
-### Content
+L'objet de ce rapport est de rendre compte de la diversité de la littérature croisant genre et communs afin de dégager des pistes de recherche porteuses de renouvellement. Il s'inscrit dans la continuité d'une première étude commissionnée par l'AFD à l'OFCE en 2021, étude consacrée au croisement des enjeux genre et climat dans l'action des principaux acteurs du développement international (Forest et Foreste 2021). Ces travaux poursuivent un objectif de décloisonnement des savoirs afin de contribuer au renouvellement des référentiels de l'action de l'AFD. L'étude "genre et climat" s'appuyait sur un corpus de textes produits par diverses catégories d'organisations, le présent rapport repose sur une analyse bibliométrique de la littérature académique articulant la perspective de genre avec celle des communs. Il ne s'agit pas de rapporter l'entièreté des apports théoriques et empiriques de ces deux champs, mais de proposer une grille de lecture du croisement heuristique entre genre et communs pour en faciliter la compréhension et l'appropriation par différentes catégories d'acteurs (académiques, praticiens). L'analyse repose sur une revue de la littérature aussi exhaustive que possible, qui a donné lieu à la constitution d'une base de données, Genre&Com. Celle-ci permet de repérer certaines caractéristiques des différentes approches mobilisées à l'intersection entre ces deux domaines que sont les communs et le genre. Afin de mieux saisir la spécificité de ce double champ, nous mobilisons les données issues d'une autre analyse bibliométrique portant sur les communs réalisée à l'occasion du 30ème anniversaire du livre Governing the Commons d'Elinor Ostrom et publiée dans l*'International Journal of the Commons* en 2020 par [Laerhoven, Schoon, et Villamayor-Tomas](https://www.thecommonsjournal.org/article/10.5334/ijc.1030/). Les auteurs nous ont donné accès à leur base de données, qui est utilisées comme une point de comparaison dnas l'analyse. Dans un premier temps, nous décrivons brièvement les champs de recherche des communs et du genre en montrant les différentes façons d'articuler les deux. Nous proposons une grille d'analyse de ce double champ. Puis, nous présentons la méthodologie et les données mobilisées. Enfin, nous cartographions la littérature genre et communs en appliquant la grille développée dans la première partie. En guise de conclusion, nous proposons des pistes de recherche futures.
+
+### Table des matières
 
 #### Introduction
 

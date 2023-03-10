@@ -2,7 +2,10 @@
 title: "Biological Gender Differences, Absenteeism and the Earning Gap"
 description: "Mon analyse de l'article de Ichino & Moretti (AER Applied, 2009)..."
 date: 09/01/2012
-categories: [article] # self-defined categories
+categories: [Article] # self-defined categories
+
+lang: fr
+
 image: image.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 editor: 
@@ -15,6 +18,9 @@ Differences, Absenteeism, and the Earnings
 Gap.](https://www.aeaweb.org/articles?id=10.1257/app.1.1.183)" *American
 Economic Journal: Applied Economics*, 1 (1): 183-218.DOI:
 10.1257/app.1.1.183
+
+Recension publiée dans la revue [*Travail, genre et sociétés*, n°21,
+2012](file:///G:/Mon%20Drive/Mes%20Documents/CV,%20RA%20et%20Bio/CV/CV/-%09http:/www.cairn.info/revue-travail-genre-et-societes-2009-1-page-189.htm).
 
 La recherche en sciences humaines et sociales n'est toujours pas
 épargnée par ce que l'on nomme le sexisme ordinaire. Idées-reçues,
@@ -172,6 +178,3 @@ déterminisme biologisant, digne du pire eugénisme du
 [xix]{.smallcaps}^e^ siècle, qui visait à chercher des justifications
 « scientifiques » de l'infériorité d'un groupe humain par rapport à un
 autre.
-
-Review published in [*Travail, genre et sociétés*, n°21,
-2012](file:///G:/Mon%20Drive/Mes%20Documents/CV,%20RA%20et%20Bio/CV/CV/-%09http:/www.cairn.info/revue-travail-genre-et-societes-2009-1-page-189.htm).

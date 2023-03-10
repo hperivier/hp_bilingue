@@ -3,42 +3,38 @@ title: "Bio"
 editor: visual
 ---
 
-[Complete CV](pdf/CV2023EN.pdf)
+Through my career, I have met great people whose support, encouragement, inspiration, collaborations have led me in my projects - \> thank you Jacques, Dave, Jean-Paul, Danièle, Françoise, Gérard, Michel, Geneviève, Charlène, Violette, Dominique, Julie, Rebecca, Maxime, another Maxime, Réjane, Muriel, Guillaume, my colleagues from the OFCE, Sciences Po, PRESAGE... and especially thank you Xavier!
 
-### Education
+[Full CV](pdf/CV_2023_EN.pdf)
 
-##### Accreditation to supervise research (HDR) in Economics, University Paris Nanterre, 2018.
+### My scientific background
 
-###### Synthesis of research -\> [*De Monsieur Gagnepain À Madame Gagnemiettes: la métamorphose incomplète de l'État social français*](pdf/hdr.pdf)
+I started studying economics at the University of Poitiers, my hometown. I then did my bachelor's and master's degrees at Paris Dauphine University, to finish in D.E.A. at Paris 1 La Sorbonne University.
 
-###### HDR advisor: Dominique Meurs, University Paris Nanterre
+Thanks to a research grant, I began my PhD in 1997 under the supervision of [Jacques Le Cacheux](https://tree.univ-pau.fr/fr/organisation/membres/cv-lecacheu-fr.html). The aim was to analyse the effects of social benefits on labour supply by combining a theoretical approach based on the neo-classical model with an empirical approach on the Minimum Income (*Revenu Minimum d'Insertion, RMI*) in France. During my PhD, I was a visiting scholar in the Department of Economics at the University of Berkeley under the supervision of [David Card](https://davidcard.berkeley.edu/). On his advice, I used a diff and diff method to evaluate the effects of *RMI* on the labour supply behaviour of beneficiaries. At this stage my work did not include any explicit gender perspective, even if the issues of labour supply within couples were addressed. I defended my thesis in March 2001.
 
-##### Ph.D. in economics, University [P]{.smallcaps}aris 1-Panthéon-Sorbonne, First class honor, 2001.
+In September 2001, I was recruited in the [OFCE](https://www.ofce.sciences-po.fr/en/) by Jean-Paul Fitoussi on the proposal of Jacques Le Cacheux, to work on a European project led by Danièle Meulders, the [MOCHO](https://cordis.europa.eu/project/id/HPSE-CT-2001-00096) project. The aim was to compare family policies in Europe with regard to their ability to enable women with children to pursue their career. This project paved the way for me to take a gender perspective in social sciences. And since then this question has irrigated my research. The many discussions I had with the philosopher [Geneviève Fraisse](https://www.ehess.fr/fr/personne/genevi%C3%A8ve-fraisse) have nourished my reflections on equality and on the thought of feminisms.
 
-###### Title of the thesis -\> *Transferts redistributifs non-contributifs et offre de travail : une mise en perspective franco-américaine*
+In 2018, I obtained the *accreditation to supervise research* *(HDR)* with the support of [Dominique Meurs](https://www.ined.fr/fr/recherche/chercheurs/Meurs+Dominique), you can read the summary of my work here (in French) -\> [*De Monsieur Gagnepain à Madame Gagnemiettes: la métamorphose incomplète de l'État social français*](pdf/hdr.pdf). In the prolegomena of this report, I sought to understand why feminist economics has been institutionalized as a branch of the discipline when this is not the case within the other social sciences. What specificity of economics has led female researchers to put forward a feminist approach into their discipline? To answer this, I became interested in the history of economic thought and feminist critic of science from an epistemological perspective. At the request of Julie Gazier, director of Sciences Po Press, I have gathered this analysis in a book, *L'économie féministe,* published in October 2020, with a preface by Thomas Piketty. The book has just been translated into Brazilian.
 
-###### Supervisor: Jacques Le Cacheux, University of Pau et des Pays de l'Adour
+Today my research work is diverse but all have a link with inequalities, gender, discrimination -\> a page of this website is dedicated to some of them.
 
-###### Rapporteurs : François Bourguignon & Marc Fleurbaey
+### My academic activities
 
-##### D.E.A*.*, *Public Economics*, University [P]{.smallcaps}aris 1-Panthéon-Sorbonne, 1997.
+In 2010, [Françoise Milewski](https://www.sciencespo.fr/programme-presage/fr/content/francoise-milewski-ofce.html) and I developed at Sciences Po a transversal program in gender studies, the Research and Teaching Program of the SAvoirs sur le GEnre, [PRESAGE](https://www.sciencespo.fr/programme-presage/en.html). This singular program irrigates all Sciences Po activities. It is hosted in the OFCE.
 
-##### M.S. in Economics, University [P]{.smallcaps}aris IX-Dauphine, 1995.
+Today, I am the director of this program with the support of its executive secretary, Violette Toye, and the steering committee composed of Françoise Milewski, who also chairs the scientific council, the political scientist [Réjane Sénac](https://www.sciencespo.fr/programme-presage/fr/content/rejane-senac-cevipof.html), the historian [Elissa Maïlander](https://www.sciencespo.fr/programme-presage/fr/content/elissa-mailaender-chsp.html), the sociologist [Marta Dominguez,](https://www.sciencespo.fr/programme-presage/fr/content/marta-dominguez-folgueras-osc.html) the political scientist [Maxime Forest](https://www.sciencespo.fr/programme-presage/fr/content/maxime-forest-cevipof-ofce.html), the political scientist/ international relations [Hélène Le Bail](https://www.sciencespo.fr/programme-presage/fr/content/helene-le-bail-ceri.html).
 
-##### A.A. in Economics, University of Poitiers, 1993.
+The program conducts research in gender studies at Sciences Po crossing all disciplines. It boosts the educational offer by guaranteeing the quality of the courses. To enhance the teaching followed by students during their curicula, we deliver certifications both at [the Bachelor](https://www.sciencespo.fr/programme-presage/en/content/certification-gender-and-equality.html) and [master l](https://www.sciencespo.fr/programme-presage/en/content/advanced-certification-gender-studies.html)evels. The Sciences Po degree is then accompanied by a certification in gender studies that validates the acquisition of solid knowledge in this field. Finally, the program fosters collaborations with Sciences Po's partners, in particular *Université Paris Ci*té: as such, I am a member of the steering committee of [*La Cité du Genre*](https://citedugenre.fr/fr/), *Université Paris Cité*.
 
-### Visiting
+In the dynamics of PRESAGE, the Presses de Sciences Po have opened a [publication field dedicated to gender studies](https://www.pressesdesciencespo.fr/fr/catalog/?cat_id=494), that I co-directed with [Janine Mossuz-Lavau](https://www.sciencespo.fr/programme-presage/fr/content/janine-mossuz-lavau-cevipof.html) until 2020, today with Réjane Sénac and [Rebecca Rogers](https://www.cerlis.eu/team-view/rogers-rebecca/). We have published numerous books from various disciplinary backgrounds.
 
-##### **Visiting lecturer** at Columbia University, SIPA, Gender and Public Policy program, April 2015
+In June 2022, I was promoted to the level of [Officer in the National Order of Merit](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045940273?init=true&page=1&query=officier+ordre+du+m%C3%A9rite+2022&searchField=ALL&tab_selection=all) by the Ministry of Research. This price rewards the collective work accomplished to promote gender studies in research and higher education.
 
-##### **Visiting scholar**, Berkeley University, California, Labor Center, French American Foundation fellowship, 1999.
+### Presidency of the *High Family Council*
 
-###### Sponsoring Professor: David Card, University of California, Berkeley
+Since April 2023, I have had the honor of chairing the Family Council within the [HCFEA](https://www.hcfea.fr/), back to my first research topics on social and family policies and for which the gender perspective is key.
 
-### Distinction
+The Council's mission is to stimulate public debate and provide public authorities with forward-looking and cross-cutting expertise on issues related to the family. The Council is composed of 74 members, including 13 members representing the State and social security funds, 14 members representing the family movement, 7 members representing associations or bodies contributing to policies in favour of vulnerable families and persons with disabilities, 16 members representing insured persons and employers and 18 qualified persons.
 
-##### Nomination to the [*Ordre national du mérite au grade d'officier*](https://www.legifrance.gouv.fr/download/pdf?id=X0QfZD-fjFwioCVXeXUoODg8dfuYLobMvhwak3XtkyQ=) by the French Ministry of Research, June 2022.
-
- 
-
- 
+In 2023, the Council will work on issues of purchasing power of families in times of inflation, with a specific focus on food. On this precise point, it will be necessary to adopt a more structural approach (access, quality and sustainability). The Council publishes many rich and well-documented reports that I advise you to consult on the [Council's website](https://www.hcfea.fr/spip.php?rubrique11).

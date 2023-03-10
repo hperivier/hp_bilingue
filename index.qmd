@@ -13,7 +13,7 @@ project:
   
 about:
   template: trestles
-  image: HP6.jpg
+  image: HP2.jpg
   image-width: 10em
   image-shape: rounded
   links:
@@ -27,71 +27,38 @@ about:
       text: Github
       href: https://github.com/hperivier
 
+lang: fr
 editor: visual
 ---
 
+### Bienvenue sur mon site
+
+Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php) Sciences Po Paris. Mes travaux portent sur l'évaluation des politiques familiales, sociales et fiscales, ainsi que sur l'analyse des inégalités femmes-hommes sur le marché du travail, dans la famille et dans l'enseignement supérieur. Je m'intéresse également à l'histoire de la pensée économique dans une perspective féministe.
+
+Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo.fr/programme-presage/fr.html) de Sciences Po. Depuis avril 2023, je suis présidente du Conseil de la famille au sein du [Haut Conseil de la famille de l'enfance et de l'âge, HCFEA](https://www.hcfea.fr/), dont la mission est d'animer le débat public sur les politiques publiques en direction des familles.
+
+### à venir
+
+merci à l'équipe des [journées doctorales d'Augustin Cournot](https://acdd.sciencesconf.org/) de m'inviter comme conférencière d'honneur le 4 mai 2023 à Strasbourg pour présenter l'économie féministe ...
+
+### nouveau
+
 <div>
-
-Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php), [Sciences Po Paris](http://www.sciencespo.fr/). Je dirige le programme de recherche et d'enseignement des savoirs sur le genre de Sciences Po, [PRESAGE](https://www.sciencespo.fr/programme-presage/en.html).
-
-Je suis membre du [HCFEA](https://www.hcfea.fr/) en tant que personnalité qualifiée.
-
-Je co-dirige le « Domaine Genre **»** des [Presses de Sciences Po](http://www.pressesdesciencespo.fr/)
-
-Je suis membre du comité de direction de [La Cité du Genre](https://citedugenre.fr/fr/), Université Paris Cité.
-
-Mes recherches portent sur l'économie féministe avec un intérêt particulier pour l'évaluation des politiques publiques (familiales, sociales et fiscales) dans une perspective de genre. Je travaille également sur la mesure des discriminations et l'analyse des inégalités femmes-hommes sur le marché du travail, dans la famille et dans l'enseignement supérieur.
-
-### Nouveau!
 
 ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, Maxime Parodi, Hélène Périvier et Fabrice Larat, 2022
 
--\> à écouter l'épisode du podcast Genre etc. consacré à la présentation de cette recherche
+-\> à écouter l'épisode du [podcast Genre etc.](https://podcast.ausha.co/sciencespo-presage-genre-etc/les-femmes-dans-le-concours-d-entree-a-l-ecole-nationale-d-administration) consacré à la présentation de cette recherche
 
-[![](images/paste-53904418.png){fig-align="center" width="321"}](https://podcast.ausha.co/sciencespo-presage-genre-etc/les-femmes-dans-le-concours-d-entree-a-l-ecole-nationale-d-administration)
+["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](pdf/info_sociales.pdf), Hélène Périvier et Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82
 
-["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](info_soc.pdf), avec Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82
-
-![](images/paste-4ABFB0E7.png){fig-align="center" width="126"}
+![](images/paste-4ABFB0E7.png){fig-align="center" width="100"}
 
 Ravie d'avoir été interviewée dans le tout premier numéro de la revue Eigensinn -\> [« Il faut trouver une nouvelle articulation entre le marché, la famille et l'État social », entretien autour de L'Économie féministe (2020)](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire)
 
-[![](images/paste-149EAE4E.png){fig-align="center" width="135"}](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire)
-
-### Mon dernier livre
-
-![](images/SCPO_PERIV_2020_01_L204.jpg){fig-align="center" width="155"}
+![](images/paste-149EAE4E.png){fig-align="center" width="100"}
 
 </div>
 
-::: {.content-visible when-profile="english"}
-I am a researcher in economics in the [OFCE](http://www.ofce.sciences-po.fr/index.php) at [Sciences Po Paris](http://www.sciencespo.fr/). I am the director of the Academic and Research Program on Gender Studies of Sciences Po, [PRESAGE](https://www.sciencespo.fr/programme-presage/en.html).
+### mon dernier livre publié au Brésil
 
-I am expert member in the [HCFEA](https://www.hcfea.fr/), high council for families.
-
-I am co-editor of the « Domaine Genre **»** at the [Presses de Sciences Po](http://www.pressesdesciencespo.fr/)
-
-Member of the executive committee of [La Cité du Genre](https://citedugenre.fr/fr/), Université Paris Cité.
-
-My research focuses on gender economics, with a specific interest in evaluations of social and family policies, on gender inequalities and discriminations in the labour market, in higher education and within family.
-
-### New!
-
-["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Papers OFCE* n° 15/2022, Maxime Parodi, Hélène Périvier et Fabrice Larat, 2022
-
-Regarding this research, listen to the lastest episode of Genre etc. , the podcast of PRESAGE
-
-![](images/paste-53904418.png){fig-align="center" width="321"}
-
-["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](info_soc.pdf), with Muriel Pucci, Informations sociales, n°207, 2022/3, pp. 74-82
-
-![](images/paste-4ABFB0E7.png){fig-align="center" width="126"}
-
-Interview in the first issue of Eigensinn -\> [« Il faut trouver une nouvelle articulation entre le marché, la famille et l'État social », entretien autour de L'Économie féministe (2020)](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire)
-
-![](images/paste-149EAE4E.png){fig-align="center" width="135"}
-
-### Lastest book
-
-![](images/SCPO_PERIV_2020_01_L204.jpg){fig-align="center" width="155"}
-:::
+![](/images/double_couv.jpg){fig-align="center" width="300"}

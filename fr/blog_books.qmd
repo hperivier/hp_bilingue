@@ -1,5 +1,5 @@
 ---
-title: "livres & n°spéciaux"
+title: "Livres & n°spéciaux"
 listing:
   contents: blog_books
   sort: "date desc"
@@ -12,9 +12,8 @@ format:
     theme: lux
     css: styles.css
     toc: true
+
+lang: fr
     
 editor: visual
-#Adding a blog to your existing Quarto website (samanthacsik.github.io)
 ---
-
-Ici le descriptif des livres que j'ai écrit ou co-écrit ainsi que les numéros spéciaux de la Revue de l'OFCE que j'ai codirigé:

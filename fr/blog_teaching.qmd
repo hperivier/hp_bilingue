@@ -12,14 +12,12 @@ format:
     theme: lux
     css: styles.css
     toc: true
-    
+
+lang: fr   
+
 editor: visual
 ---
 
-#### Enseignements pour l'année universitaire 2022-2023 à Sciences Po, Paris campus
+#### Année universitaire 2022-2023 à Sciences Po, campus de Paris
 
-Les images illustrant chaque cours ont été dessinées par Kaća Bradonjić durant des conférences scientifiques auxquelles elle a assité.
-
-pour en voir d'autres -\> [Projections -- Kaća Bradonjić (kacabradonjic.com)](http://kacabradonjic.com/projections/)
-
-L'illustration associée au cours "L'économie au défi du genre" a été dessinée pendant une conférence durant laquelle je présentais l'article [« Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard »](pdf/pegard.pdf) au Wellesley college en 2017. Je suis très fière que mon propos ait inspiré Kaća, merci à elle!
+Les images illustrant chaque cours ont été dessinées par Kaća Bradonjić durant des conférences scientifiques auxquelles elle a assité, pour en voir d'autres -\> [Projections -- Kaća Bradonjić (kacabradonjic.com)](http://kacabradonjic.com/projections/) L'illustration associée au cours "L'économie au défi du genre" a été dessinée pendant une conférence durant laquelle je présentais l'article [« Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard »](pdf/pegard.pdf) au Wellesley college en 2017-\> merci Kaća!
