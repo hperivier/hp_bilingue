@@ -24,7 +24,7 @@ website:
       - href: fr/blog_teaching.qmd
         text: Enseignements
       - href: fr/media.qmd
-        text: Média
+        text: Médias
       - href: fr/blog_review.qmd
         text: Recensions
     right:

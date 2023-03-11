@@ -20,7 +20,7 @@ website:
       - href: blog_teaching.qmd
         text: Teaching
       - href: media.qmd
-        text: Media
+        text: Medias
       - href: blog_review.qmd
         text: Reviews
     right:
