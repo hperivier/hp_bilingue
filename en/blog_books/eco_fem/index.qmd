@@ -2,10 +2,10 @@
 title: " "
 description: "L'économie féministe. Pourquoi l'économie a besoin du féminisme et vice versa, Presses de Sciences Po, 2020. ISBN: 139782724626759"
 date: 10-22-2020
-categories: [books] # self-defined categories
+categories: [books] 
 
 image: livre.jpeg
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false 
 ---
 
 ### Abstract
@@ -14,7 +14,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 Economics was conceived by men, to be at the service of a society led by men. It is also the least feminized social science: women represent barely a quarter of economists. "I am a feminist economist," says Hélène Périvier. By lifting the veil on the apparent neutrality of the concepts and analyses of this discipline, she reveals the springs of a social organization resulting from the patriarchal model, centered on the male breadwinner and female housewife model became the female crumbswinner. Feminist economics, because it renews the themes and approaches of the discipline, deploys knowledge and tools to achieve gender equality.
 
-### **Translated in brazilian**
+### **Published in Brazil**
 
 ![![](https://hperivier.github.io/hp_bilingue/images/EF_bresil.jpg){width="150"}](){fig-align="center"}
 

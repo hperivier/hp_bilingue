@@ -15,35 +15,35 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 [Les débats de l'égalité, Worl Equality Lab, PSE, L'économie féministe](http://prod.inequalitylab.world/fr/event/leconomie-feministe-15-decembre-2020/) (15 décembre 2022)
 
-### Traduction en Brésilien
+### Publication au Brésil
 
 ![](/images/EF_bresil.jpg){fig-align="center" width="155"}
 
 ### Couverture médiatique
 
-**France Culture** \| Hélène Périvier, sur [la théorie économique et le féminisme](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/science-genree-science-biaisee-5874064 "la théorie économique et le féminisme - nouvelle fenêtre") (Mai 2022)
+**France Culture** \| [La théorie économique et le féminisme](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/science-genree-science-biaisee-5874064 "la théorie économique et le féminisme - nouvelle fenêtre") (Mai 2022)
 
-**France Culture** \| Hélène Périvier, sur [l'économie féministe](https://www.franceculture.fr/emissions/la-grande-table-idees/en-economie-les-femmes-comptent-aussi "l'économie féministe - nouvelle fenêtre") (Juin 2021)
+**France Culture** \| [L'économie féministe](https://www.franceculture.fr/emissions/la-grande-table-idees/en-economie-les-femmes-comptent-aussi "l'économie féministe - nouvelle fenêtre") (Juin 2021)
 
-**Libération** \| Hélène Périvier, sur [les sciences économiques et la place des femmes dans la société](https://www.liberation.fr/plus/du-role-economique-des-femmes-dans-la-societe-20210528_F4GDWJFBA5C5DKGD3PJ6W6TXTU/ "les sciences économiques et la place des femmes dans la société - nouvelle fenêtre") (Mai 2021)
+**Libération** \| [Les sciences économiques et la place des femmes dans la société](https://www.liberation.fr/plus/du-role-economique-des-femmes-dans-la-societe-20210528_F4GDWJFBA5C5DKGD3PJ6W6TXTU/ "les sciences économiques et la place des femmes dans la société - nouvelle fenêtre") (Mai 2021)
 
-**France Inter** \| Hélène Périvier, sur [l'économie féministe](https://www.franceinter.fr/emissions/une-semaine-en-france/une-semaine-en-france-12-mars-2021 "l'économie féministe - nouvelle fenêtre") (Mars 2021)
+**France Inter** \| [l'économie féministe](https://www.franceinter.fr/emissions/une-semaine-en-france/une-semaine-en-france-12-mars-2021 "l'économie féministe - nouvelle fenêtre") (Mars 2021)
 
-**Le Monde** \|Hélène Périvier, sur [son dernier ouvrage : L'économie féministe](https://www.lemonde.fr/emploi/article/2021/02/03/l-economie-feministe-relire-l-economie-sans-biais-sociaux_6068579_1698637.html "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (February 2021)
+**Le Monde** \| [L'économie féministe](https://www.lemonde.fr/emploi/article/2021/02/03/l-economie-feministe-relire-l-economie-sans-biais-sociaux_6068579_1698637.html "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (February 2021)
 
-**Le Devoir** \|Hélène Périvier, sur [l'économie féministe](https://media1.ledevoir.com/economie/594309/l-economie-en-quete-de-diversite "l'économie féministe - nouvelle fenêtre") (Janvier 2021)
+**Le Devoir** \| [L'économie féministe](https://media1.ledevoir.com/economie/594309/l-economie-en-quete-de-diversite "l'économie féministe - nouvelle fenêtre") (Janvier 2021)
 
-**Challenges** \| Hélène Périvier, sur [son dernier ouvrage : L'économie féministe](https://www.challenges.fr/femmes/helene-perivier-ofce-dans-leconomie-de-marche-il-y-a-une-dimension-emancipatrice-pour-les-femmes_747344 "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (Janvier 2021)
+**Challenges** \| [ L'économie féministe](https://www.challenges.fr/femmes/helene-perivier-ofce-dans-leconomie-de-marche-il-y-a-une-dimension-emancipatrice-pour-les-femmes_747344 "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (Janvier 2021)
 
-**France 24** \|Hélène Périvier, sur [son dernier ouvrage : L'économie féministe](https://www.france24.com/fr/%C3%A9missions/l-entretien/20210118-le-f%C3%A9minisme-peut-apporter-beaucoup-%C3%A0-l-%C3%A9conomie-selon-l-%C3%A9conomiste-h%C3%A9l%C3%A8ne-p%C3%A9rivier?ref=tw_i "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (Janvier 2021)
+**France 24** \| [L'économie féministe](https://www.france24.com/fr/%C3%A9missions/l-entretien/20210118-le-f%C3%A9minisme-peut-apporter-beaucoup-%C3%A0-l-%C3%A9conomie-selon-l-%C3%A9conomiste-h%C3%A9l%C3%A8ne-p%C3%A9rivier?ref=tw_i "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (Janvier 2021)
 
-**Radio Canada** \| Hélène Périvier, sur [L'économie féministe](https://ici.radio-canada.ca/premiere/emissions/le-15-18/segments/entrevue/338934/economie-feministe-helene-perivier-inegalite-femmes-hommes "L'économie féministe - nouvelle fenêtre") (Janvier 2021)
+**Radio Canada** \| [L'économie féministe](https://ici.radio-canada.ca/premiere/emissions/le-15-18/segments/entrevue/338934/economie-feministe-helene-perivier-inegalite-femmes-hommes "L'économie féministe - nouvelle fenêtre") (Janvier 2021)
 
-**France Inter** \| Hélène Périvier, sur [son dernier ouvrage : L'économie féministe](https://www.franceinter.fr/emissions/l-invite-du-week-end/l-invite-du-week-end-20-decembre-2020 "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (Janvier 2021)
+**France Inter** \| [L'économie féministe](https://www.franceinter.fr/emissions/l-invite-du-week-end/l-invite-du-week-end-20-decembre-2020 "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (Janvier 2021)
 
-**Alternatives Économiques** \| Hélène Périvier, sur [L'économie féministe](https://www.alternatives-economiques.fr/helene-perivier-fondements-de-letat-social-genres/00094343 "L'économie féministe - nouvelle fenêtre") (Octobre 2020)
+**Alternatives Économiques** \| [L'économie féministe](https://www.alternatives-economiques.fr/helene-perivier-fondements-de-letat-social-genres/00094343 "L'économie féministe - nouvelle fenêtre") (Octobre 2020)
 
-**France Culture** \| Hélène Périvier, sur [L'économie féministe](https://www.franceculture.fr/emissions/la-bibliotheque-ideale-de-leco/bibliotheque-de-leco-du-lundi-26-octobre-2020 "L'économie féministe - nouvelle fenêtre") (Octobre 2020)
+**France Culture** \| [L'économie féministe](https://www.franceculture.fr/emissions/la-bibliotheque-ideale-de-leco/bibliotheque-de-leco-du-lundi-26-octobre-2020 "L'économie féministe - nouvelle fenêtre") (Octobre 2020)
 
 ### Résumé
 
