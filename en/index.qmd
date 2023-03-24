@@ -13,7 +13,7 @@ project:
   
 about:
   template: trestles
-  image: HP2.jpg
+  image: HP50_1.jpg
   image-width: 10em
   image-shape: rounded
   links:
@@ -40,11 +40,15 @@ I am the director and the co-founder of the gender studies program of Sciences P
 
 ### forthcoming
 
-Thanks to the team of the [Augustin Cournot Doctoral Days](https://acdd.sciencesconf.org/) for inviting me as a keynote speaker May the 4th (be with you) 2023 at Strasbourg to present my work on Feminist economics ...
+I will be keynote speaker at the next The [Augustin Cournot Doctoral Days](https://acdd.sciencesconf.org/) in May the 4th (be with you) 2023 at Strasbourg to present my work on Feminist economic
+
+Thanks to [Bazar do Tempo](https://bazardotempo.com.br/) for publishing my book *A Economia Feminista* in Brazil. I will discuss it with the political scientist Débora Thomé[in a live stream March the 16th 2023](https://www.youtube.com/watch?v=XfWymYwPUMU)
+
+![](images/tempo1.jpg){fig-align="center" width="200"}
 
 ### new
 
-**-\> Les Matins de France Culture** \| [Inégalités femmes-hommes](https://www.radiofrance.fr/franceculture/podcasts/l-invite-e-des-matins/retraites-pouvoir-d-achat-inflation-les-femmes-grandes-perdantes-4298508) (mars 2023)
+-\> March 9, 2023, I was invited at [Les Matins de France Culture](https://www.radiofrance.fr/franceculture/podcasts/l-invite-e-des-matins/retraites-pouvoir-d-achat-inflation-les-femmes-grandes-perdantes-4298508) to talk about gender inequalities in France, thanks to the team!
 
 ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, Maxime Parodi, Hélène Périvier and Fabrice Larat, 2022
 

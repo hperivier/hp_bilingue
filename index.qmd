@@ -13,7 +13,7 @@ project:
   
 about:
   template: trestles
-  image: HP2.jpg
+  image: HP50_1.jpg
   image-width: 10em
   image-shape: rounded
   links:
@@ -45,20 +45,24 @@ merci à l'équipe des [journées doctorales d'Augustin Cournot](https://acdd.sc
 
 ### nouveau
 
-**Les Matins de France Culture** \| [Inégalités femmes-hommes](https://www.radiofrance.fr/franceculture/podcasts/l-invite-e-des-matins/retraites-pouvoir-d-achat-inflation-les-femmes-grandes-perdantes-4298508) (mars 2023)
+-   Le 16 mars 2023, j'ai discuté avec la politiste Débora Thomé de la réception de mon livre au Brésil grâce aux éditions [Bazar do Tempo](https://bazardotempo.com.br/), *A Economia Feminista* in Brazil l'échange est disponible [ici](https://www.youtube.com/watch?v=XfWymYwPUMU)
 
-["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, Maxime Parodi, Hélène Périvier et Fabrice Larat, 2022
+![](images/tempo1.jpg){fig-align="center" width="200"}
+
+-   le 9 mars 2023, j'étais l'invitée des [Matins de France Culture](https://www.radiofrance.fr/franceculture/podcasts/l-invite-e-des-matins/retraites-pouvoir-d-achat-inflation-les-femmes-grandes-perdantes-4298508) pour parler "Retraites, pouvoir d'achat, inflation... Les femmes grandes perdantes ?" , merci à toute l'équipe
+
+-   ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, Maxime Parodi, Hélène Périvier et Fabrice Larat, 2022
 
 -\> à écouter l'épisode du [podcast Genre etc.](https://podcast.ausha.co/sciencespo-presage-genre-etc/les-femmes-dans-le-concours-d-entree-a-l-ecole-nationale-d-administration) consacré à la présentation de cette recherche
 
-["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](pdf/info_sociales.pdf), Hélène Périvier et Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82
+-   ["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](pdf/info_sociales.pdf), Hélène Périvier et Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82
 
 ![](images/paste-4ABFB0E7.png){fig-align="center" width="100"}
 
-Ravie d'avoir été interviewée dans le tout premier numéro de la revue Eigensinn -\> [« Il faut trouver une nouvelle articulation entre le marché, la famille et l'État social », entretien autour de L'Économie féministe (2020)](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire)
+-   Ravie d'avoir été interviewée dans le tout premier numéro de la revue Eigensinn -\> [« Il faut trouver une nouvelle articulation entre le marché, la famille et l'État social », entretien autour de L'Économie féministe (2020)](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire)
 
 ![](images/paste-149EAE4E.png){fig-align="center" width="100"}
 
-### mon dernier livre 
+### mon dernier livre
 
 ![](/images/double_couv.jpg){fig-align="center" width="300"}
