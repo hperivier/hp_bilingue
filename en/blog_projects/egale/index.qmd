@@ -1,6 +1,6 @@
 ---
 title: "EGALE"
-description: "Gender inequality in higher education : the case of the ENA contest"
+description: "Gender inequality in higher education : the case of the competitive examination of the French National School of Administration "
 date: 01-01-2023
 
 categories: [Research] 
@@ -11,7 +11,9 @@ draft: false
 
 The EGALE project is the result of an institutional collaboration between ENA and Sciences Po (OFCE) to build a database for longitudinal study and new research perspectives on inequalities in access to *grandes écoles* and the constitution of elites.
 
-ENA -\> *Ecole Nationale d'Administration.* Since 2022, the ENA has became the INSP -\> *Institut National du Service Public*
+ENA -\> *Ecole Nationale d'Administration* (the French National School of Administration selects and trains high civil servants and senior French officials after the master level). Since 2022, the ENA has became the INSP -\> *Institut National du Service Public*
+
+The EGALE project has been supported by supported by the French Agency for Research, PRODIGE, AAPG 2017 ![](images/ANR-logo-2021-complet.jpg){width="100" height="26"}
 
 ### Research team
 
@@ -55,7 +57,7 @@ In addition to the choice of specialties, the grades obtained, we have relativel
 
 The matching was made from names, first names and date of birth taking into account possible discrepancies between the two sources. In addition to these data, there are those of a survey carried out among people who join the ENA, which makes it possible to retrospectively complete the profile of candidates if necessary and to have information on their grades during their schooling at the ENA, their internships, their rank and their exit body.
 
-Finally, we distinguish between individuals and applications insofar as the same individual can appear several times in the Sciences Po database if he or she has completed several years of preparation within the PCA. It is also necessary to distinguish between individuals and candidates insofar as the same individual can apply several times to the ENA. Until 2022, the number of applications for the external competition was limited to 3 for the same competition (and 5 for all procedures combined) provided that they actually took the tests. The EGALE database thus contains multiple entries: it makes it possible to be interested in applications to the ENA, or the preparations of PCA students, or to follow the course of the same individual with, possibly, his multiple preparations and applications for the ENA competition. We begin by comparing the results of all candidates with those obtained by students who have passed Sciences Po, distinguishing between the performances of women and men.
+Finally, we distinguish between individuals and applications insofar as the same individual can appear several times in the Sciences Po database if he or she has completed several years of preparation within the PCA. It is also necessary to distinguish between individuals and candidates insofar as the same individual can apply several times to the ENA. Until 2022, the number of applications for the external competition was limited to 3 for the same competition (and 5 for all procedures combined) provided that they actually took the tests. The EGALE database thus contains multiple entries: it makes it possible to be interested in applications to the ENA, or the preparations of PCA students, or to follow the course of the same individual with, possibly, his multiple preparations and applications for the ENA examination. We begin by comparing the results of all candidates with those obtained by students who have passed Sciences Po, distinguishing between the performances of women and men.
 
 ### Capstone project with Sciences Po students
 

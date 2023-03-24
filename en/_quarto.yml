@@ -31,7 +31,7 @@ website:
   page-footer: 
     background: light
     left: 
-      - "Quarto & Github, Hélène Périvier, Copyright 2023."
+      - "Copyright 2023, Hélène Périvier, Quarto & Github."
         
 lang: en
 

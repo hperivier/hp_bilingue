@@ -15,6 +15,8 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 [Les débats de l'égalité, Worl Equality Lab, PSE, L'économie féministe](http://prod.inequalitylab.world/fr/event/leconomie-feministe-15-decembre-2020/) (15 décembre 2022)
 
+[Discussion avec la politiste Débora Thomé autour de la réception de mon livre au Brésil, *A Economia Feminista* in Brazil](https://www.youtube.com/watch?v=XfWymYwPUMU) (16 mars 2023)
+
 ### Publication au Brésil
 
 ![](/images/EF_bresil.jpg){fig-align="center" width="155"}
@@ -33,7 +35,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 **Le Devoir** \| [L'économie féministe](https://media1.ledevoir.com/economie/594309/l-economie-en-quete-de-diversite "l'économie féministe - nouvelle fenêtre") (Janvier 2021)
 
-**Challenges** \| [ L'économie féministe](https://www.challenges.fr/femmes/helene-perivier-ofce-dans-leconomie-de-marche-il-y-a-une-dimension-emancipatrice-pour-les-femmes_747344 "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (Janvier 2021)
+**Challenges** \| [L'économie féministe](https://www.challenges.fr/femmes/helene-perivier-ofce-dans-leconomie-de-marche-il-y-a-une-dimension-emancipatrice-pour-les-femmes_747344 "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (Janvier 2021)
 
 **France 24** \| [L'économie féministe](https://www.france24.com/fr/%C3%A9missions/l-entretien/20210118-le-f%C3%A9minisme-peut-apporter-beaucoup-%C3%A0-l-%C3%A9conomie-selon-l-%C3%A9conomiste-h%C3%A9l%C3%A8ne-p%C3%A9rivier?ref=tw_i "son dernier ouvrage : L'économie féministe - nouvelle fenêtre") (Janvier 2021)
 

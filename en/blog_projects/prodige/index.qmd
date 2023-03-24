@@ -5,7 +5,7 @@ date: 01-01-2023
 
 categories: [Research] # self-defined categories
 
-image: photo.jfif
+image: photo.jpg
 draft: false 
 ---
 
@@ -33,7 +33,7 @@ Are "blind" auditions possible to implement during the all process of recruitmen
 
 ### PRODIGE
 
-#### Research Team 
+#### Research Team
 
 -   Audrey Etienne, Université de Rouen & OFCE Sciences Po
 
