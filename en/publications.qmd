@@ -25,7 +25,7 @@ editor: visual
 
 [« Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard »](pdf/pegard.pdf), with Rebecca Rogers, *French Politics, Cultures and Societies*, Vol. 37, n°3, 2019. doi:10.3167/fpcs.2019.370301
 
-[« Equivalence scales challenged by new family configurations »](pdf/revue_eco.pdf), with Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018.
+[« Equivalence scales challenged by new family configurations »](pdf/revue_ecoFR.pdf), with Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018.
 
 [«Recession, Austerity and Gender: A Comparison of Eight European Labour Markets»](pdf/ilr.pdf), *International Labour Review*, Vol. 157, n°1, 2018.
 
