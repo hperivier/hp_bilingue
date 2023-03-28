@@ -1,6 +1,6 @@
 ---
 title: "Hélène Périvier"
-subtitle: "OFCE Sciences Po Paris <br> 10 place de Catalogne 75014 Paris <br> {{< fa phone >}} +33 1 44 18 54 92"
+subtitle: "OFCE Sciences Po <br> 10 place de Catalogne 75014 Paris <br> {{< fa phone >}} +33 1 44 18 54 92"
 project:
   type: website
 
@@ -33,7 +33,7 @@ editor: visual
 
 ### Bienvenue sur mon site
 
-Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php) Sciences Po Paris.
+Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php) [Sciences Po](https://www.sciencespo.fr/fr/).
 
 Mes travaux portent sur l'évaluation des politiques familiales, sociales et fiscales, ainsi que sur l'analyse des inégalités femmes-hommes sur le marché du travail, dans la famille et dans l'enseignement supérieur. Je m'intéresse également à l'histoire de la pensée économique dans une perspective féministe.
 
@@ -45,9 +45,11 @@ merci à l'équipe des [journées doctorales d'Augustin Cournot](https://acdd.sc
 
 ### nouveau
 
+-    Interview dans le journal brésilien *Valor Econômico* sur l'économie féministe
+
 -   Le 16 mars 2023, j'ai participé à une discussion organisée par les éditions [Bazar do Tempo](https://bazardotempo.com.br/){style="font-size: 11pt;"} avec la politiste Débora Thomé autour de la réception de mon livre au Brésil, *A Economia Feminista* in Brazil, l'évènement est disponible [ici](https://www.youtube.com/watch?v=XfWymYwPUMU).
 
-![](images/tempo1.jpg){fig-align="center" width="150"}
+![](images/tempo1.jpg){fig-align="center" width="100"}
 
 -   le 9 mars 2023, j'étais l'invitée des [Matins de France Culture](https://www.radiofrance.fr/franceculture/podcasts/l-invite-e-des-matins/retraites-pouvoir-d-achat-inflation-les-femmes-grandes-perdantes-4298508) pour parler "Retraites, pouvoir d'achat, inflation... Les femmes grandes perdantes ?" , merci à toute l'équipe
 

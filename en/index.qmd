@@ -1,6 +1,6 @@
 ---
 title: "Hélène Périvier"
-subtitle: "OFCE Sciences Po Paris <br> 10 place de Catalogne 75014 Paris <br> {{< fa phone >}} +33 1 44 18 54 92"
+subtitle: "OFCE Sciences Po <br> 10 place de Catalogne 75014 Paris <br> {{< fa phone >}} +33 1 44 18 54 92"
 project:
   type: website
 
@@ -32,7 +32,7 @@ editor: visual
 
 ### Welcome to my website
 
-I am a researcher in economics in the [OFCE](https://www.ofce.sciences-po.fr/en/) at [Sciences Po Paris](https://www.sciencespo.fr/en/).
+I am a researcher in economics in the [OFCE](https://www.ofce.sciences-po.fr/en/) at [Sciences Po](https://www.sciencespo.fr/en/).
 
 My research focuses on evaluation of family, social and tax policies, and on the analysis of gender inequalities in the labour market, in the family and in higher education. I am also interested in the history of economic thought with a feminist perspective.
 
@@ -56,7 +56,7 @@ I will be keynote speaker at the next The [Augustin Cournot Doctoral Days](https
 
 -   ["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](pdf/info_sociales.pdf), Hélène Périvier et Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82
 
-![](images/paste-4ABFB0E7.png){fig-align="center" width="100"}
+    ![](images/paste-4ABFB0E7.png){fig-align="center" width="100"}
 
 -   Interview in the first issue of Eigensinn -\> [« Il faut trouver une nouvelle articulation entre le marché, la famille et l'État social », entretien autour de L'Économie féministe (2020)](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire)
 
