@@ -9,11 +9,11 @@ image: ena.jfif
 draft: false 
 ---
 
-The EGALE project is the result of an institutional collaboration between ENA and Sciences Po (OFCE) to build a database for longitudinal study and new research perspectives on inequalities in access to *grandes écoles* and the constitution of elites.
+The EGALE project is the result of an institutional collaboration between ENA and Sciences Po (OFCE) to build a database for longitudinal study and new research perspectives on inequalities in access to *grandes écoles* and the constitution of elites. The EGALE project has been supported by the French Agency for Research, ANR, PRODIGE, AAPG 2017
+
+![](ANR-logo-2021-complet.jpg){width="150" height="38"}
 
 ENA -\> *Ecole Nationale d'Administration* (the French National School of Administration selects and trains high civil servants and senior French officials after the master level). Since 2022, the ENA has became the INSP -\> *Institut National du Service Public*
-
-The EGALE project has been supported by supported by the French Agency for Research, PRODIGE, AAPG 2017 ![](images/ANR-logo-2021-complet.jpg){width="100" height="26"}
 
 ### Research team
 

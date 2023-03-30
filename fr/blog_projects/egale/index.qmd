@@ -11,7 +11,9 @@ image: ena.jfif
 draft: false 
 ---
 
-Le projet EGALE, *Etude sur le Genre et Analyse Longitudinale des Entrées à l'ENA*, est le fruit d'une collaboration institutionnelle entre l'ENA et Sciences Po (OFCE) en vue de constituer une base de données permettant une étude longitudinale et ouvrant de nouvelles perspectives de recherche sur les inégalités dans l'accès aux grandes écoles et à la constitution des élites.
+Le projet EGALE, *Etude sur le Genre et Analyse Longitudinale des Entrées à l'ENA*, est le fruit d'une collaboration institutionnelle entre l'ENA et Sciences Po (OFCE) en vue de constituer une base de données permettant une étude longitudinale et ouvrant de nouvelles perspectives de recherche sur les inégalités dans l'accès aux grandes écoles et à la constitution des élites. Le projet EGALE a bénéficié du soutien de l'ANR, PRODIGE, AAPG 2017
+
+![](ANR-logo-2021-complet.jpg){width="150" height="38"}
 
 ENA -\> Ecole Nationale d'Administration. Depuis 2022, l'ENA est devenue l'INSP -\> l'Institut National du Service Public.
 
