@@ -5,7 +5,7 @@ editor: visual
 lang: fr
 ---
 
-Mon parcours professionnel est jalonné de rencontres avec des personnes formidables dont le soutien, les encouragements, l'inspiration, les collaborations m'ont portée dans mes projets -\> merci Jacques, Dave, Jean-Paul, Danièle, Françoise, Gérard, Michel, Geneviève, Charlène, Violette, Dominique, Julie, Rebecca, Maxime, un autre Maxime, Réjane, Muriel, Guillaume, mes collègues de l'OFCE, de Sciences Po, de PRESAGE...
+Mon parcours professionnel est jalonné de rencontres avec des personnes formidables dont le soutien, les encouragements, l'inspiration, les collaborations m'ont portée dans mes projets -\> merci Jacques, Dave, Jean-Paul, Danièle, Françoise, Gérard, Michel, Geneviève, Charlène, Violette, Dominique, Julie, Rebecca, Maxime, un autre Maxime, Réjane, Muriel, Guillaume, Pierre, mes collègues de l'OFCE, de Sciences Po, de PRESAGE...
 
 et évidemment et surtout merci Xavier !
 
