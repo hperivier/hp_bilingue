@@ -11,6 +11,8 @@ editor: visual
 
 "[Can the parental leave be shared?](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2021-06.pdf)", with Grégory Verdugo*, Working Paper OFCE*, n° 06/2021, 2021.
 
+"[Does Earmarked Parental Leave attract Fathers?](pdf/Cnaf_ILRR_V2.pdf)", with Grégory Verdugo, revision requested by *the Industrial and Labor Relations Review*
+
 ### Refereed journals
 
 ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), with Rebecca Rogers, *Œconomia*, Vol.12, n°3, 2022.
