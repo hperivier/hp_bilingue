@@ -33,14 +33,13 @@ lang: fr
 
 ["Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard](pdf/pegard.pdf)", avec Rebecca Rogers, *French Politics, Cultures and Societies*, Vol. 37, n°3. 2019. doi:10.3167/fpcs.2019.370301
 
-["Les échelles d'équivalence à l'épreuve des nouvelles configurations familiales ](pdf/revue_ecoFR.pdf)", avec Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018.
+["Les échelles d'équivalence à l'épreuve des nouvelles configurations familiales](pdf/revue_ecoFR.pdf)", avec Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018.
 
 ["Recession, Austerity and Gender: A Comparison of Eight European Labour Markets", *International Labour Review*,](pdf/ilr.pdf) Vol. 157, n°1, 2018.
 
 ["The new Spirit of neo-liberalism: Equality and economic prosperity](#0)", avec Réjane Sénac, *International Social Science Journal*, 223-224, 2017. [https://doi.org/10.1111/issj.12131](#0){.uri}
 
-["La pauvreté au prisme du genre"](pdf/communication.pdf), *Communications,* EHESS/CNRS-Centre Edgar Morin, n°98, 2016. doi:10.3917/commu.098.0159
-["Une lecture genrée de la Sécurité sociale : 70 ans après, quel bilan pour l'égalité des femmes et des hommes ?](http://www.cairn.info/revue-informations-sociales-2015-3.htm)", *Informations sociales*, n°189, 2015
+["La pauvreté au prisme du genre"](pdf/communication.pdf), *Communications,* EHESS/CNRS-Centre Edgar Morin, n°98, 2016. doi:10.3917/commu.098.0159 ["Une lecture genrée de la Sécurité sociale : 70 ans après, quel bilan pour l'égalité des femmes et des hommes ?](http://www.cairn.info/revue-informations-sociales-2015-3.htm)", *Informations sociales*, n°189, 2015
 
 ["L'allocation de parent isolé a-t-elle favorisé l'inactivité des femmes ?",](http://www.insee.fr/fr/ffc/docs_ffc/ES429G%20.pdf) avec Yves de Curraize, *Economie et Statistique*, n°429-430, 2009.
 
@@ -64,7 +63,7 @@ lang: fr
 
 [" La stratégie de l'union européenne pour promouvoir l'égalité professionnelle est-elle efficace ?](ofce2018.pdf) ", avec Grégory Verdugo, *Revue de l'OFCE*, n°158, 2018.
 
-["Men and women during the economic crisis: Employment trends in eight European countries ](http://www.ofce.sciences-po.fr/pdf/revue/3-133.pdf)", *Revue de l 'OFCE,* n° 133, 2014.
+["Men and women during the economic crisis: Employment trends in eight European countries](http://www.ofce.sciences-po.fr/pdf/revue/3-133.pdf)", *Revue de l 'OFCE,* n° 133, 2014.
 
 [" La logique sexuée de la réciprocité dans l'assistance ",](http://www.ofce.sciences-po.fr/pdf/revue/12-114.pdf) *Revue de l'OFCE,* N°114, 2010.
 
@@ -154,7 +153,7 @@ lang: fr
 
 ### Rapports
 
-[*Analyse bibliométrique de la* ](Rapport_AFD_VF.pdf)[*littérature croisant genre et commun*](afd.pdf)[*s*](Rapport_AFD_VF.pdf), Papier de recherche, AFD, n°281, juin 2023.
+[*Analyse bibliométrique de la*](Rapport_AFD_VF.pdf)[*littérature croisant genre et commun*](afd.pdf)[*s*](Rapport_AFD_VF.pdf), Papier de recherche, AFD, n°281, juin 2023.
 
 [*Etude sur la situation économique et sociale des parents isolés. Niveau de vie, marché du travail et politiques publiques*](https://www.ofce.sciences-po.fr/pdf-articles/actu/helene.pdf), Rapport pour le SDFE, OFCE, 2021.
 

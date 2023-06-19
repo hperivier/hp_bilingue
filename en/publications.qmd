@@ -29,9 +29,9 @@ editor: visual
 
 [" Why women choose at-home abortion via teleconsultation in France: drivers of telemedicine abortion during and beyond the COVID-19 pandemic](https://srh.bmj.com/content/early/2021/07/28/bmjsrh-2021-201176) ", with Hazal Atay, Kristina Gemzell-Danielsson, Jean Guilleminot, Danielle Hassoun, Judith Hottois, Rebecca Gomperts, Emmanuelle Levrier, *BMJ sexual and Reproductive Health*, Vol. 47, n°4, 2021. <http://dx.doi.org/10.1136/bmjsrh-2021-201176>
 
-[" Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard ](pdf/pegard.pdf)", with Rebecca Rogers, *French Politics, Cultures and Societies*, Vol. 37, n°3, 2019. doi:10.3167/fpcs.2019.370301
+[" Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard](pdf/pegard.pdf)", with Rebecca Rogers, *French Politics, Cultures and Societies*, Vol. 37, n°3, 2019. doi:10.3167/fpcs.2019.370301
 
-[" Equivalence scales challenged by new family configurations ](pdf/revue_ecoFR.pdf)", with Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018.
+[" Equivalence scales challenged by new family configurations](pdf/revue_ecoFR.pdf)", with Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018.
 
 ["Recession, Austerity and Gender: A Comparison of Eight European Labour Markets](pdf/ilr.pdf)", *International Labour Review*, Vol. 157, n°1, 2018.
 
@@ -63,7 +63,7 @@ editor: visual
 
 [" La stratégie de l'union européenne pour promouvoir l'égalité professionnelle est-elle efficace ?](ofce2018.pdf) ", with Grégory Verdugo, *Revue de l'OFCE*, n°158, 2018.
 
-["Men and women during the economic crisis: Employment trends in eight European countries ](http://www.ofce.sciences-po.fr/pdf/revue/3-133.pdf)", *Revue de l 'OFCE,* n° 133, 2014.
+["Men and women during the economic crisis: Employment trends in eight European countries](http://www.ofce.sciences-po.fr/pdf/revue/3-133.pdf)", *Revue de l 'OFCE,* n° 133, 2014.
 
 [" La logique sexuée de la réciprocité dans l'assistance ",](http://www.ofce.sciences-po.fr/pdf/revue/12-114.pdf) *Revue de l'OFCE,* N°114, 2010.
 
