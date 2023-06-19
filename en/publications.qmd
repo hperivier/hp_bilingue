@@ -13,6 +13,8 @@ editor: visual
 
 ["Measuring the Child Penalty Early in a Career: The Case of Young Adults in France",](https://www.iza.org/publications/dp/14763/measuring-the-child-penalty-early-in-a-career-the-case-of-young-adults-in-france) with [Stephen Bazen](https://www.iza.org/person/1677) and Xavier Joutard, *Discussion Paper IZA*, N° 14763, 2021*.*
 
+"[Can the parental leave be shared?](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2021-06.pdf)", with Grégory Verdugo*, Working Paper OFCE*, n° 06/2021, 2021.
+
 ### Refereed journals
 
 ["Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/ilrr.pdf), with Grégory Verdugo, *Industrial & Labor Relations Review*, accepted, June 2023.
