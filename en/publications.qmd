@@ -3,11 +3,9 @@ title: "Publications"
 editor: visual
 ---
 
-### Latest publication
+### Working papers 
 
 "[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)", *Papier de recherche*, AFD, n°281, juin 2023. ISSN : 2492 - 2846
-
-### Working papers submitted
 
 ["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/iza_cp.pdf), with Grégory Verdugo*, Discussion Paper Series,* N° 16244, 2023.
 

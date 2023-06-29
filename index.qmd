@@ -41,9 +41,9 @@ Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo
 
 ### nouveau
 
--   vient de paraître -\> a discussion paper IZA, N°16244, ["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/iaz_cp.pdf) coécrit avec Grégory Verdugo.
+-   vient de paraître -\> a discussion paper IZA, N°16244, ["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](fr/pdf/iza_cp.pdf) coécrit avec Grégory Verdugo.
 
--   le 14 juin 2023 -\> présentation de nos travaux sur les entrées à l'ENA au [colloque de l'AFSE](https://www.sciencespo.fr/department-economics/en/news/2023-afse-annual-congress-june-14-16.html) , projet de recherche EGALE -\> "[From Sciences Po to the ENA, the Narrow Path to the Top of the Public Service: Crossing Gender and Social Background](pdf/slides_egale23.pdf)".
+-   le 14 juin 2023 -\> présentation de nos travaux sur les entrées à l'ENA au [colloque de l'AFSE](https://www.sciencespo.fr/department-economics/en/news/2023-afse-annual-congress-june-14-16.html) , projet de recherche EGALE -\> "[From Sciences Po to the ENA, the Narrow Path to the Top of the Public Service: Crossing Gender and Social Background](fr/pdf/slides_egale23.pdf)".
 
 -   vient de sortir un *Papier de recherche AFD* n°281, "[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)" -\> merci à Stéphanie Leyronas et Serge Rabier de m'avoir proposé de réaliser cette recherche.
 
@@ -55,7 +55,7 @@ Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo
 
     ![](images/affiches.jpg){width="500"}
 
--   interview dans le journal brésilien [*Valor Econômico* sur mon livre *L'économie féministe*](pdf/valor.pdf) par la journaliste Laura Greenhalgh
+-   interview dans le journal brésilien [*Valor Econômico* sur mon livre *L'économie féministe*](fr/pdf/valor.pdf) par la journaliste Laura Greenhalgh
 
 -   le 16 mars 2023, j'ai participé à une discussion organisée par les éditions [Bazar do Tempo](https://bazardotempo.com.br/){style="font-size: 11pt;"} avec la politiste Débora Thomé autour de la réception de mon livre au Brésil, *A Economia Feminista* in Brazil, l'évènement est disponible [ici](https://www.youtube.com/watch?v=XfWymYwPUMU).
 
@@ -63,11 +63,9 @@ Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo
 
 -   le 9 mars 2023, j'étais l'invitée des [Matins de France Culture](https://www.radiofrance.fr/franceculture/podcasts/l-invite-e-des-matins/retraites-pouvoir-d-achat-inflation-les-femmes-grandes-perdantes-4298508) pour parler "Retraites, pouvoir d'achat, inflation... Les femmes grandes perdantes ?", merci à toute l'équipe!
 
--   ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, Maxime Parodi, Hélène Périvier et Fabrice Larat, 2022
+-   [Podcast Genre etc.](https://podcast.ausha.co/sciencespo-presage-genre-etc/les-femmes-dans-le-concours-d-entree-a-l-ecole-nationale-d-administration) consacré à la présentation au projet de recherche EGALE -\> ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) avec Maxime Parodi, Hélène Périvier et Fabrice Larat.
 
--\> à écouter l'épisode du [podcast Genre etc.](https://podcast.ausha.co/sciencespo-presage-genre-etc/les-femmes-dans-le-concours-d-entree-a-l-ecole-nationale-d-administration) consacré à la présentation de cette recherche
-
--   ["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](pdf/info_sociales.pdf), Hélène Périvier et Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82
+-   ["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](fr/pdf/info_sociales.pdf), Hélène Périvier et Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82
 
 ![](images/paste-4ABFB0E7.png){fig-align="center" width="100"}
 

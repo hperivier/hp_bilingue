@@ -5,13 +5,11 @@ editor: visual
 lang: fr
 ---
 
-### Denière publication
+### Working papers 
+
+["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/iza_cp.pdf), avec Grégory Verdugo*, Discussion Paper Series,* N° 16244, 2023.
 
 "[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)", *Papier de recherche*, AFD, n°281, juin 2023. ISSN : 2492 - 2846
-
-### Working papers soumis
-
-["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/iaz_cp.pdf), avec Grégory Verdugo*, Discussion Paper Series,* N° 16244, 2023.
 
 ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, avec Maxime Parodi et Fabrice Larat, 2022.
 
@@ -19,7 +17,7 @@ lang: fr
 
 ### Revues à comité de lecture
 
-["Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](https://hperivier.github.io/hp_bilingue/ressources/en/pdf/ilrr.pdf), avec Grégory Verdugo, *Industrial & Labor Relations Review*, accepté, juin 2023.
+["Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/ilr.pdf), avec Grégory Verdugo, *Industrial & Labor Relations Review*, accepté, juin 2023.
 
 ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), avec Rebecca Rogers, *Œconomia*, Vol.12, n°3, 2022.
 
