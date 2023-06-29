@@ -19,7 +19,7 @@ lang: fr
 
 ### Revues à comité de lecture
 
-[\"Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France\"](https://hperivier.github.io/hp_bilingue/ressources/en/pdf/ilrr.pdf), avec Grégory Verdugo, *Industrial & Labor Relations Review*, accepté, juin 2023.
+["Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](https://hperivier.github.io/hp_bilingue/ressources/en/pdf/ilrr.pdf), avec Grégory Verdugo, *Industrial & Labor Relations Review*, accepté, juin 2023.
 
 ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), avec Rebecca Rogers, *Œconomia*, Vol.12, n°3, 2022.
 

@@ -13,7 +13,7 @@ draft: false
 
 Le projet EGALE, *Etude sur le Genre et Analyse Longitudinale des Entrées à l'ENA*, est le fruit d'une collaboration institutionnelle entre l'ENA et Sciences Po (OFCE) en vue de constituer une base de données permettant une étude longitudinale et ouvrant de nouvelles perspectives de recherche sur les inégalités dans l'accès aux grandes écoles et à la constitution des élites. Le projet EGALE a bénéficié du soutien de l'ANR, PRODIGE, AAPG 2017
 
-ENA -\> Ecole Nationale d'Administration. Depuis 2022, l'ENA est devenue l'INSP -\> l'Institut National du Service Public.
+ENA -\> Ecole Nationale d'Administration, depuis 2022, l'ENA est devenue l'INSP -\> l'Institut National du Service Public.
 
 ### Equipe
 
@@ -24,6 +24,8 @@ ENA -\> Ecole Nationale d'Administration. Depuis 2022, l'ENA est devenue l'INSP 
 -   Hélène Périvier, OFCE Sciences Po
 
 ### Premiers résultats
+
+Présentation de nos travaux au colloque de l'AFSE 2023 -\> "[From Sciences Po to the ENA, the Narrow Path to the Top of the Public Service: Crossing Gender and Social Background](pdf/slides_egale23.pdf)"
 
 ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Papers OFCE* n° 15/2022, Maxime Parodi, Hélène Périvier et Fabrice Larat, 2022
 
