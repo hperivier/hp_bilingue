@@ -33,7 +33,7 @@ editor: visual
 
 ### Bienvenue sur mon site
 
-Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php) [Sciences Po](https://www.sciencespo.fr/fr/).
+Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php), [Sciences Po](https://www.sciencespo.fr/fr/) Paris.
 
 Mes travaux portent sur l'évaluation des politiques familiales, sociales et fiscales, ainsi que sur l'analyse des inégalités femmes-hommes sur le marché du travail, dans la famille et dans l'enseignement supérieur. Je m'intéresse également à l'histoire de la pensée économique dans une perspective féministe.
 
@@ -41,23 +41,21 @@ Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo
 
 ### nouveau
 
--   vient de paraître en document de travail IZA -\> ["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/iaz_cp.pdf) coécrit avec Grégory Verdugo
+-   vient de paraître -\> a discussion paper IZA, N°16244, ["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/iaz_cp.pdf) coécrit avec Grégory Verdugo
 
--   *Entendez-vous l'éco?* sur France Culture -\> émission du 1er mai 2023, [Épisode 1/3 : Julie-Victoire Daubié : l'émancipation par l'école.](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/julie-victoire-daubie-l-emancipation-par-l-ecole-6369764) *-\>* Rebecca Rogers et moi y présentons nos travaux sur les femmes économistes françaises du 19e ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), *Œconomia*, Vol.12, n°3, 2022.
-
--   Vient de sortir un *Papier de recherche AFD* n°281, "[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)" -\> merci à Stéphanie Leyronas et Serge Rabier de m'avoir proposé de réaliser cette recherche
+-   vient de sortir un *Papier de recherche AFD* n°281, "[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)" -\> merci à Stéphanie Leyronas et Serge Rabier de m'avoir proposé de réaliser cette recherche
 
     ![](images/afd.PNG){width="150"}
 
--   Entendez-vous l'éco? émission du 1er mai 2023, [Épisode 1/3 : Julie-Victoire Daubié : l'émancipation par l'école.](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/julie-victoire-daubie-l-emancipation-par-l-ecole-6369764) *-\>* Rebecca Rogers et moi y présentons nos travaux sur les femmes économistes françaises du 19e ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), *Œconomia*, Vol.12, n°3, 2022.
+-   *Entendez-vous l'éco?* sur France Culture -\> émission du 1er mai 2023, [Épisode 1/3 : Julie-Victoire Daubié : l'émancipation par l'école.](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/julie-victoire-daubie-l-emancipation-par-l-ecole-6369764) *-\>* Rebecca Rogers et moi y présentons nos travaux sur les femmes économistes françaises du 19e ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), *Œconomia*, Vol.12, n°3, 2022.
 
 -   dans les rues de Nantes, une affiche faisant référence au modèle de *Madame Gagnemiettes* (lui même faisant écho au fameux modèle de Monsieur Gagnepain), modèle que je décris dans mes travaux, et notamment dans le chapitre 5 de l'*Economie féministe* -\> merci à cette ou cet artiste pour la circulation des idées!
 
     ![](images/affiches.jpg){width="500"}
 
--   Interview dans le journal brésilien [*Valor Econômico* sur mon livre *L'économie féministe*](pdf/valor.pdf) par la journaliste Laura Greenhalgh
+-   interview dans le journal brésilien [*Valor Econômico* sur mon livre *L'économie féministe*](pdf/valor.pdf) par la journaliste Laura Greenhalgh
 
--   Le 16 mars 2023, j'ai participé à une discussion organisée par les éditions [Bazar do Tempo](https://bazardotempo.com.br/){style="font-size: 11pt;"} avec la politiste Débora Thomé autour de la réception de mon livre au Brésil, *A Economia Feminista* in Brazil, l'évènement est disponible [ici](https://www.youtube.com/watch?v=XfWymYwPUMU).
+-   le 16 mars 2023, j'ai participé à une discussion organisée par les éditions [Bazar do Tempo](https://bazardotempo.com.br/){style="font-size: 11pt;"} avec la politiste Débora Thomé autour de la réception de mon livre au Brésil, *A Economia Feminista* in Brazil, l'évènement est disponible [ici](https://www.youtube.com/watch?v=XfWymYwPUMU).
 
 ![](images/tempo1.jpg){fig-align="center" width="100"}
 
