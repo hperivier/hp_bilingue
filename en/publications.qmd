@@ -3,6 +3,10 @@ title: "Publications"
 editor: visual
 ---
 
+### Latest publication
+
+"[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)", *Papier de recherche*, AFD, n°281, juin 2023. ISSN : 2492 - 2846
+
 ### Working papers submitted
 
 ["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/iza_cp.pdf), with Grégory Verdugo*, Discussion Paper Series,* N° 16244, 2023.
@@ -12,6 +16,8 @@ editor: visual
 ["Measuring the Child Penalty Early in a Career: The Case of Young Adults in France",](https://www.iza.org/publications/dp/14763/measuring-the-child-penalty-early-in-a-career-the-case-of-young-adults-in-france) with [Stephen Bazen](https://www.iza.org/person/1677) and Xavier Joutard, *Discussion Paper IZA*, N° 14763, 2021*.*
 
 ### Refereed journals
+
+["Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/ilrr.pdf), with Grégory Verdugo, *Industrial & Labor Relations Review*, accepted, June 2023.
 
 ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), with Rebecca Rogers, *Œconomia*, Vol.12, n°3, 2022.
 
@@ -23,9 +29,9 @@ editor: visual
 
 ["Why women choose at-home abortion via teleconsultation in France: drivers of telemedicine abortion during and beyond the COVID-19 pandemic](https://srh.bmj.com/content/early/2021/07/28/bmjsrh-2021-201176)", with Hazal Atay, Kristina Gemzell-Danielsson,Jean Guilleminot,Danielle Hassoun, Judith Hottois, Rebecca Gomperts,Emmanuelle Levrier, *BMJ sexual and Reproductive Health*, Vol. 47, n°4, 2021. <http://dx.doi.org/10.1136/bmjsrh-2021-201176>
 
-["Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard ](pdf/pegard.pdf)", with Rebecca Rogers, *French Politics, Cultures and Societies*, Vol. 37, n°3, 2019. doi:10.3167/fpcs.2019.370301
+["Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard](pdf/pegard.pdf)", with Rebecca Rogers, *French Politics, Cultures and Societies*, Vol. 37, n°3, 2019. doi:10.3167/fpcs.2019.370301
 
-[" Equivalence scales challenged by new family configurations ](pdf/revue_ecoFR.pdf)", with Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018.
+[" Equivalence scales challenged by new family configurations](pdf/revue_ecoFR.pdf)", with Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018.
 
 ["Recession, Austerity and Gender: A Comparison of Eight European Labour Markets](pdf/ilr.pdf)", *International Labour Review*, Vol. 157, n°1, 2018.
 
@@ -57,7 +63,7 @@ editor: visual
 
 ["La stratégie de l'union européenne pour promouvoir l'égalité professionnelle est-elle efficace ?](ofce2018.pdf)", with Grégory Verdugo, *Revue de l'OFCE*, n°158, 2018.
 
-["Men and women during the economic crisis: Employment trends in eight European countries ](http://www.ofce.sciences-po.fr/pdf/revue/3-133.pdf)", *Revue de l 'OFCE,* n° 133, 2014.
+["Men and women during the economic crisis: Employment trends in eight European countries](http://www.ofce.sciences-po.fr/pdf/revue/3-133.pdf)", *Revue de l 'OFCE,* n° 133, 2014.
 
 ["La logique sexuée de la réciprocité dans l'assistance",](http://www.ofce.sciences-po.fr/pdf/revue/12-114.pdf) *Revue de l'OFCE,* N°114, 2010.
 

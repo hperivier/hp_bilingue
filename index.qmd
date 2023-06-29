@@ -45,9 +45,15 @@ Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo
 
 -   *Entendez-vous l'éco?* sur France Culture -\> émission du 1er mai 2023, [Épisode 1/3 : Julie-Victoire Daubié : l'émancipation par l'école.](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/julie-victoire-daubie-l-emancipation-par-l-ecole-6369764) *-\>* Rebecca Rogers et moi y présentons nos travaux sur les femmes économistes françaises du 19e ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), *Œconomia*, Vol.12, n°3, 2022.
 
--   dans les rues de Nantes, une affiche faisant référence au modèle de *Madame Gagnemiettes* (lui même faisant écho au fameux modèle de Monsieur Gagnepain), modèle que je décris dans mes travaux, et notamment dans le chapitre 5 de l'*Economie féministe* -\> merci à l'artiste pour la circulation des idées!
+-   Vient de sortir un *Papier de recherche AFD* n°281, "[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)" -\> merci à Stéphanie Leyronas et Serge Rabier de m'avoir proposé de réaliser cette recherche
 
-    ![](images/gagnemiettes.jpg){width="500"}
+    ![](images/afd.PNG){width="150"}
+
+-   Entendez-vous l'éco? émission du 1er mai 2023, [Épisode 1/3 : Julie-Victoire Daubié : l'émancipation par l'école.](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/julie-victoire-daubie-l-emancipation-par-l-ecole-6369764) *-\>* Rebecca Rogers et moi y présentons nos travaux sur les femmes économistes françaises du 19e ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), *Œconomia*, Vol.12, n°3, 2022.
+
+-   dans les rues de Nantes, une affiche faisant référence au modèle de *Madame Gagnemiettes* (lui même faisant écho au fameux modèle de Monsieur Gagnepain), modèle que je décris dans mes travaux, et notamment dans le chapitre 5 de l'*Economie féministe* -\> merci à cette ou cet artiste pour la circulation des idées!
+
+    ![](images/affiches.jpg){width="500"}
 
 -   Interview dans le journal brésilien [*Valor Econômico* sur mon livre *L'économie féministe*](pdf/valor.pdf) par la journaliste Laura Greenhalgh
 
@@ -65,10 +71,12 @@ Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo
 
 ![](images/paste-4ABFB0E7.png){fig-align="center" width="100"}
 
--   Ravie d'avoir été interviewée dans le tout premier numéro de la revue Eigensinn -\> [« Il faut trouver une nouvelle articulation entre le marché, la famille et l'État social », entretien autour de L'Économie féministe (2020)](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire)
+-   Ravie d'avoir été interviewée dans le tout premier numéro de la revue Eigensinn -\> [" Il faut trouver une nouvelle articulation entre le marché, la famille et l'État social", entretien autour de L'Économie féministe (2020)](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire)
 
 ![](images/paste-149EAE4E.png){fig-align="center" width="100"}
 
 ### mon dernier livre
 
 ![](/images/double_couv.jpg){fig-align="center" width="300"}
+
+merci à l'équipe des [journées doctorales d'Augustin Cournot](https://acdd.sciencesconf.org/) de m'avoir invitée comme conférencière d'honneur le 4 mai 2023 à Strasbourg pour parler de *L'économie féministe*.

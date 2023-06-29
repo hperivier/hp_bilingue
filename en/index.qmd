@@ -44,6 +44,18 @@ I am the director and the co-founder of the gender studies program of Sciences P
 
 -   *Entendez-vous l'éco?*, France Culture,May 1,2023, [Épisode 1/3 : Julie-Victoire Daubié : l'émancipation par l'école.](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/julie-victoire-daubie-l-emancipation-par-l-ecole-6369764) *-\>* Rebecca Rogers and I present our research on women in the history of thought in economics in France ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), *Œconomia*, Vol.12, n°3, 2022.
 
+-   Just released -\> *Papier de recherche AFD* n°281, "[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)" -\> Thanks to Stéphanie Leyronas & Serge Rabier for having suggesting me to work on this topic
+
+    ![](images/afd.PNG){width="150"}
+
+-   Entendez-vous l'éco? May 1,2023, [Épisode 1/3 : Julie-Victoire Daubié : l'émancipation par l'école.](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/julie-victoire-daubie-l-emancipation-par-l-ecole-6369764) *-\>* Rebecca Rogers and I present our research on women in the history of thought in economics in France ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), *Œconomia*, Vol.12, n°3, 2022.
+
+-   In the streets of Nantes (FR), this poster displays the female crumbswinner model (that echos to the male breadwinner model), concept that I develop in my research, in particular in the Chapter 5 of my book *L'économie féministe* -\> Thanks to this artist for disseminating ideas!
+
+    ![](images/affiches.jpg){width="500"}
+
+-   Entendez-vous l'éco? May 1,2023, [Épisode 1/3 : Julie-Victoire Daubié : l'émancipation par l'école.](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/julie-victoire-daubie-l-emancipation-par-l-ecole-6369764) *-\>* Rebecca Rogers and I present our research on women in the history of thought in economics in France ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), *Œconomia*, Vol.12, n°3, 2022.
+
 -   In the streets of Nantes (FR), this poster displays the female crumbswinner model (that echos to the male breadwinner model), concept that I develop in my research, in particular in the Chapter 5 of my book *L'économie féministe* -\> Thanks to the artist for disseminating ideas!
 
     ![](/images/gagnemiettes.jpg){width="500"}
@@ -71,3 +83,5 @@ I am the director and the co-founder of the gender studies program of Sciences P
 ### my latest book
 
 ![](/images/double_couv.jpg){fig-align="center" width="300"}
+
+Many thanks to the team of the [Augustin Cournot Doctoral Days](https://acdd.sciencesconf.org/) for having inviting me May the 4th (be with you) 2023 at Strasbourg to present *L'économie féministe*.
