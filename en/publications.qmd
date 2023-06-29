@@ -23,7 +23,7 @@ editor: visual
 
 ["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](http://localhost:4275/info_soc.pdf), with Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp.74-82, 2022.
 
-["Sharing or Not Sharing? Household Division of Labor and Marital Status in France 1985-2009",](pdf/populationEN.pdf) with Lamia Kandil, *Population*, n°1, 2021, doi:10.3917/popu.2101.0155
+["Sharing or Not Sharing? Household Division of Labor and Marital Status in France 1985-2009",](pdf/populationEN.pdf) with Lamia Kandil, *Population*, n°1, 2021. doi:10.3917/popu.2101.0155
 
 "[Taxation of Couples and marital status. Simulation of three Reforms of the Marital Quotient in France](pdf/eco_statEN.pdf)", with Guillaume Allègre and Muriel Pucci, *Economie et Statistique*, preprint 30 mars 2021. doi:10.24187/ecostat.2021.526d.2050
 
