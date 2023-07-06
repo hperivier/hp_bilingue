@@ -5,7 +5,7 @@ editor: visual
 lang: fr
 ---
 
-### Working papers 
+### Working papers
 
 ["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/iza_cp.pdf), avec Grégory Verdugo*, Discussion Paper Series,* N° 16244, 2023.
 

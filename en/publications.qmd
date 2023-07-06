@@ -3,7 +3,7 @@ title: "Publications"
 editor: visual
 ---
 
-### Working papers 
+### Working papers
 
 "[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)", *Papier de recherche*, AFD, n°281, juin 2023. ISSN : 2492 - 2846
 
