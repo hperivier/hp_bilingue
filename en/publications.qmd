@@ -77,7 +77,7 @@ editor: visual
 
 ### Policy Brief & Blog OFCE
 
-["Inégalités des chances a concours externe de l'ENA: le rôle du genre croisé à l'origine sociale](https://www.ofce.sciences-po.fr/blog/inegalites-des-chances-au-concours-externe-de-lenale-role-du-genre-croise-a-lorigine-sociale/)", with Maxime Parodi and Fabrice Larat, January 2023.
+["Inégalités des chances au concours externe de l'ENA: le rôle du genre croisé à l'origine sociale](https://www.ofce.sciences-po.fr/blog/inegalites-des-chances-au-concours-externe-de-lenale-role-du-genre-croise-a-lorigine-sociale/)", with Maxime Parodi and Fabrice Larat, January 2023.
 
 ["L'imposition des couples dans la campagne présidentielle",](https://www.ofce.sciences-po.fr/blog/limposition-des-couples-dans-la-campagne-presidentielle/) with Guillaume Allègre and Muriel Pucci,April 2022.
 
@@ -123,11 +123,11 @@ editor: visual
 
 "Quelles conséquences de la crise sanitaire sur les inégalités entre les sexes en France?", with Anne Boring, Marta Dominguez, Réjane Sénac and Marie Mercat-Bruns, in [Le Monde d'aujourd'hui Les sciences sociales au temps de la Covid, Première édition](http://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100370780#h2tabtableContents), Lazar M, G. Plantin and X. Ragot eds. Presses de Sciences Po, 2020.
 
-"[Repenser le congé parentalen France dans une perspective féministe](https://www.alternatives-economiques.fr/node/94395)", *L'économie politique,* n°88, 11-2020.
+"[Repenser le congé parental en France dans une perspective féministe](https://www.alternatives-economiques.fr/node/94395)", *L'économie politique,* n°88, 11-2020.
 
 "A dynamic toward gender equality? Participation and employment in European Labour markets", with Grégory Verdugo, *in* Creel J., E. Laurent, J. Le Cacheux eds., *Report on the State of European Union*, Vol. 5, *The Euro at 20 and the Futures of Europe*, Palgrave, 2018.
 
-"Les inégalités professionnelles",[in Dictionnaire des inégalités et de la justice sociale, Savidan P., dir.,](https://www.puf.com/content/Dictionnaire_des_in%C3%A9galit%C3%A9s_et_de_la_justice_sociale) Presses Universitaires de France, 2018.
+"Les inégalités professionnelles", [*in Dictionnaire des inégalités et de la justice sociale*, Savidan P., dir.,](https://www.puf.com/content/Dictionnaire_des_in%C3%A9galit%C3%A9s_et_de_la_justice_sociale) Presses Universitaires de France, 2018.
 
 "La réciprocité dans l'aide sociale", [*in Dictionnaire des inégalités et de la justice sociale*, Savidan P., dir.,](https://www.puf.com/content/Dictionnaire_des_in%C3%A9galit%C3%A9s_et_de_la_justice_sociale) Presses Universitaires de France, 2018.
 

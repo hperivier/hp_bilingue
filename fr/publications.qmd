@@ -79,7 +79,7 @@ lang: fr
 
 ### Policy Brief & Blog OFCE
 
-["Inégalités des chances a concours externe de l'ENA : le rôle du genre croisé à l'origine sociale ](https://www.ofce.sciences-po.fr/blog/inegalites-des-chances-au-concours-externe-de-lenale-role-du-genre-croise-a-lorigine-sociale/)", avec Maxime Parodi et Fabrice Larat, janvier 2023.
+["Inégalités des chances au concours externe de l'ENA : le rôle du genre croisé à l'origine sociale ](https://www.ofce.sciences-po.fr/blog/inegalites-des-chances-au-concours-externe-de-lenale-role-du-genre-croise-a-lorigine-sociale/)", avec Maxime Parodi et Fabrice Larat, janvier 2023.
 
 ["L'imposition des couples dans la campagne présidentielle ",](https://www.ofce.sciences-po.fr/blog/limposition-des-couples-dans-la-campagne-presidentielle/) avec Guillaume Allègre et Muriel Pucci, 8 avril 2022.
 
@@ -129,7 +129,7 @@ lang: fr
 
 "A dynamic toward gender equality? Participation and employment in European Labour markets", avec Grégory Verdugo, *in* Creel J., E. Laurent, J. Le Cacheux (dir.), *Report on the State of European Union*, Vol. 5, *The Euro at 20 and the Futures of Europe*, Palgrave, 2018.
 
-"Les inégalités professionnelles",[in *Dictionnaire des inégalités et de la justice sociale*, Savidan P., (dir.),](https://www.puf.com/content/Dictionnaire_des_in%C3%A9galit%C3%A9s_et_de_la_justice_sociale) Presses Universitaires de France, 2018.
+"Les inégalités professionnelles", [*in* *Dictionnaire des inégalités et de la justice sociale*, Savidan P., (dir.),](https://www.puf.com/content/Dictionnaire_des_in%C3%A9galit%C3%A9s_et_de_la_justice_sociale) Presses Universitaires de France, 2018.
 
 "La réciprocité dans l'aide sociale", [*in Dictionnaire des inégalités et de la justice sociale*, Savidan P., (dir.),](https://www.puf.com/content/Dictionnaire_des_in%C3%A9galit%C3%A9s_et_de_la_justice_sociale) Presses Universitaires de France, 2018.
 
