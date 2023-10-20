@@ -33,46 +33,32 @@ editor: visual
 
 ### Bienvenue sur mon site
 
-Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php), [Sciences Po](https://www.sciencespo.fr/fr/) Paris.
+Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php) [Sciences Po](https://www.sciencespo.fr/fr/).
 
 Mes travaux portent sur l'évaluation des politiques familiales, sociales et fiscales, ainsi que sur l'analyse des inégalités femmes-hommes sur le marché du travail, dans la famille et dans l'enseignement supérieur. Je m'intéresse également à l'histoire de la pensée économique dans une perspective féministe.
 
 Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo.fr/programme-presage/fr.html) de Sciences Po. Depuis avril 2023, je suis présidente du Conseil de la famille au sein du [Haut Conseil de la famille de l'enfance et de l'âge, HCFEA](https://www.hcfea.fr/), dont la mission est d'animer le débat public sur les politiques publiques en direction des familles.
 
-### nouveau
+### vient de sortir
 
--   le 29 juillet 2023 -\> [Le magazine du week-end de France Culture: *Quel congé parental pour lutter contre les inégalités de genre?*](https://www.radiofrance.fr/franceculture/podcasts/le-magazine-du-week-end/quel-conge-parental-pour-lutter-contre-les-inegalites-de-genre-au-travail-8502760)
+-   ["Gendering the Commons or Commoning gender studies? A Bibliometric analysis](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-09.pdf)", *Sciences Po OFCE Working Paper* n°09/2023
 
--   vient de paraître -\> ["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](fr/pdf/iza_cp.pdf) coécrit avec Grégory Verdugo, discussion paper IZA, N°16244.
+### dans les médias
 
--   le 14 juin 2023 -\> présentation de nos travaux sur les entrées à l'ENA au [colloque de l'AFSE](https://www.sciencespo.fr/department-economics/en/news/2023-afse-annual-congress-june-14-16.html), projet de recherche EGALE -\> "[From Sciences Po to the ENA, the Narrow Path to the Top of the Public Service: Crossing Gender and Social Background](fr/pdf/slides_egale23.pdf)".
+-   [Un Nobel à soi: Claudia Goldin ou l'économie féministe](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/un-nobel-a-soi-claudia-goldin-ou-l-economie-feministe-4727328) , *Entendez-vous l'éco?,* France Culture, (octobre 2023)
 
--   *Entendez-vous l'éco?* sur France Culture -\> émission du 1er mai 2023, [Épisode 1/3 : Julie-Victoire Daubié : l'émancipation par l'école.](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/julie-victoire-daubie-l-emancipation-par-l-ecole-6369764) *-\>* Rebecca Rogers et moi y présentons nos travaux sur les femmes économistes françaises du 19e ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), *Œconomia*, Vol.12, n°3, 2022.
+    et sur le même thème voir aussi dans *The Conversation* -\> [« Nobel » d\'économie : Claudia Goldin et l\'émancipation des femmes américaines](« Nobel » d’économie : Claudia Goldin et l’émancipation des femmes américaines)
 
--   dans les rues de Nantes, une affiche faisant référence au modèle de *Madame Gagnemiettes* (lui même faisant écho au fameux modèle de Monsieur Gagnepain), modèle que je décris dans mes travaux, et notamment dans le chapitre 5 de l'*Economie féministe* -\> merci à cette ou cet artiste pour la circulation des idées!
+-   Podcast Genre etc. [Faire de la recherche en féministe](https://smartlink.ausha.co/sciencespo-presage-genre-etc/focus-faire-de-la-recherche-en-feministe), un échange avec Geneviève Fraisse, (septembre 2023).
 
-    ![](/images/gagnemiettes.jpg){width="700"}
+-   dans les rues de Nantes, une affiche faisant référence au modèle de *Madame Gagnemiettes* (lui même faisant écho au fameux modèle de Monsieur Gagnepain), modèle que je décris dans mes travaux, et notamment dans le chapitre 5 de l'*Economie féministe* -\> merci à l'artiste pour la circulation des idées!
 
--   interview dans le journal brésilien [*Valor Econômico* sur mon livre *L'économie féministe*](fr/pdf/valor.pdf) par la journaliste Laura Greenhalgh
+    ![](images/gagnemiettes.jpg)
 
--   le 16 mars 2023, j'ai participé à une discussion organisée par les éditions [Bazar do Tempo](https://bazardotempo.com.br/){style="font-size: 11pt;"} avec la politiste Débora Thomé autour de la réception de mon livre au Brésil, *A Economia Feminista* in Brazil, l'évènement est disponible [ici](https://www.youtube.com/watch?v=XfWymYwPUMU).
+-   ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, Maxime Parodi, Hélène Périvier et Fabrice Larat, 2022
 
-![](images/tempo1.jpg){fig-align="center" width="100"}
-
--   le 9 mars 2023, j'étais l'invitée des [Matins de France Culture](https://www.radiofrance.fr/franceculture/podcasts/l-invite-e-des-matins/retraites-pouvoir-d-achat-inflation-les-femmes-grandes-perdantes-4298508) pour parler "Retraites, pouvoir d'achat, inflation... Les femmes grandes perdantes ?", merci à toute l'équipe!
-
--   [Podcast Genre etc.](https://podcast.ausha.co/sciencespo-presage-genre-etc/les-femmes-dans-le-concours-d-entree-a-l-ecole-nationale-d-administration) consacré à la présentation au projet de recherche EGALE -\> ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) avec Maxime Parodi, Hélène Périvier et Fabrice Larat.
-
--   ["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](fr/pdf/info_sociales.pdf), Hélène Périvier et Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82
-
-![](images/paste-4ABFB0E7.png){fig-align="center" width="100"}
-
--   Ravie d'avoir été interviewée dans le tout premier numéro de la revue Eigensinn -\> [" Il faut trouver une nouvelle articulation entre le marché, la famille et l'État social", entretien autour de L'Économie féministe (2020)](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire)
-
-![](images/paste-149EAE4E.png){fig-align="center" width="100"}
+-\> à écouter l'épisode du [podcast Genre etc.](https://podcast.ausha.co/sciencespo-presage-genre-etc/les-femmes-dans-le-concours-d-entree-a-l-ecole-nationale-d-administration) consacré à la présentation de cette recherche
 
 ### mon dernier livre
 
 ![](/images/double_couv.jpg){fig-align="center" width="300"}
-
-merci à l'équipe des [journées doctorales d'Augustin Cournot](https://acdd.sciencesconf.org/) de m'avoir invitée comme conférencière d'honneur le 4 mai 2023 à Strasbourg pour parler de *L'économie féministe*.

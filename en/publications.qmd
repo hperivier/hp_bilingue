@@ -5,9 +5,7 @@ editor: visual
 
 ### Working papers
 
-"[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)", *Papier de recherche*, AFD, n°281, juin 2023. ISSN : 2492 - 2846
-
-["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/iza_cp.pdf), with Grégory Verdugo*, Discussion Paper Series,* N° 16244, 2023.
+["Gendering the Commons or Commoning gender studies? A Bibliometric analysis](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-09.pdf)", *Sciences Po OFCE Working Paper* n°09/2023.
 
 ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, with Maxime Parodi and Fabrice Larat, 2022.
 

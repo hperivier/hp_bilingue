@@ -7,9 +7,7 @@ lang: fr
 
 ### Working papers
 
-["Where Are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/iza_cp.pdf), avec Grégory Verdugo*, Discussion Paper Series,* N° 16244, 2023.
-
-"[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)", *Papier de recherche*, AFD, n°281, juin 2023. ISSN : 2492 - 2846
+["Gendering the Commons or Commoning gender studies? A Bibliometric analysis](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-09.pdf)", *Sciences Po OFCE Working Paper* n°09/2023.
 
 ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, avec Maxime Parodi et Fabrice Larat, 2022.
 
@@ -122,6 +120,10 @@ lang: fr
 ["La garde des jeunes enfants : affaire de femmes ou affaire d'Etat ?"](http://www.ofce.sciences-po.fr/pdf/lettres/228.pdf.), *Lettre de l'OFCE*, n°228, janvier, 2003
 
 ### Autres publications
+
+"[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)", *Papier de recherche*, AFD, n°281, juin 2023. ISSN : 2492 - 2846
+
+["Il faut trouver une nouvelle articulation entre le marché, la famille et l'État social", entretien autour de *L'Économie féministe*, ](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire) Eigensinn , n°01, 2020.
 
 "Quelles conséquences de la crise sanitaire sur les inégalités entre les sexes en France ?", avec Anne Boring, Marta Dominguez, Réjane Sénac et Marie Mercat-Bruns, in [*Le Monde d'aujourd'hui Les sciences sociales au temps de la Covid, Première édition*](http://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100370780#h2tabtableContents), Lazar M, G. Plantin and X. Ragot (dir.) Presses de Sciences Po, 2020.
 
