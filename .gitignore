@@ -5,7 +5,7 @@
 # Session Data files
 .RData
 .RDataTmp
-
+.quarto
 ressources
 
 # User-specific files
@@ -52,3 +52,4 @@ po/*~
 rsconnect/
 
 /.quarto/
+docs
