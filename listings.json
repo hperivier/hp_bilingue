@@ -1,43 +1,23 @@
 [
   {
-    "listing": "/en/blog_books.html",
+    "listing": "/fr/blog_review.html",
     "items": [
-      "/en/blog_books/eco_fem/index.html",
-      "/en/blog_books/pro_soc/index.html",
-      "/en/blog_books/crisis/index.html",
-      "/en/blog_books/discriminations/index.html",
-      "/en/blog_books/deux_age/index.html",
-      "/en/blog_books/inegalités/index.html"
+      "/fr/blog_review/Greed Lust and Gender/index.html",
+      "/fr/blog_review/regles/index.html",
+      "/fr/blog_review/pol_fam/index.html"
     ]
   },
   {
-    "listing": "/en/blog_projects.html",
+    "listing": "/fr/blog_projects.html",
     "items": [
-      "/en/blog_projects/egale/index.html",
-      "/en/blog_projects/parents_isoles/index.html",
-      "/en/blog_projects/prodige/index.html",
-      "/en/blog_projects/commons/index.html",
-      "/en/blog_projects/reset/index.html",
-      "/en/blog_projects/supera/index.html",
-      "/en/blog_projects/egera/index.html",
-      "/en/blog_projects/mocho/index.html"
-    ]
-  },
-  {
-    "listing": "/en/blog_review.html",
-    "items": [
-      "/en/blog_review/Greed Lust and Gender/index.html",
-      "/en/blog_review/regles/index.html",
-      "/en/blog_review/pol_fam/index.html"
-    ]
-  },
-  {
-    "listing": "/en/blog_teaching.html",
-    "items": [
-      "/en/blog_teaching/Gender societies and economics/index.html",
-      "/en/blog_teaching/Certificat/index.html",
-      "/en/blog_teaching/Case study/index.html",
-      "/en/blog_teaching/Economie genre/index.html"
+      "/fr/blog_projects/commons/index.html",
+      "/fr/blog_projects/egale/index.html",
+      "/fr/blog_projects/parents_isoles/index.html",
+      "/fr/blog_projects/prodige/index.html",
+      "/fr/blog_projects/reset/index.html",
+      "/fr/blog_projects/supera/index.html",
+      "/fr/blog_projects/egera/index.html",
+      "/fr/blog_projects/mocho/index.html"
     ]
   },
   {
@@ -49,27 +29,6 @@
       "/fr/blog_books/discriminations/index.html",
       "/fr/blog_books/deux_age/index.html",
       "/fr/blog_books/inegalités/index.html"
-    ]
-  },
-  {
-    "listing": "/fr/blog_projects.html",
-    "items": [
-      "/fr/blog_projects/egale/index.html",
-      "/fr/blog_projects/parents_isoles/index.html",
-      "/fr/blog_projects/prodige/index.html",
-      "/fr/blog_projects/commons/index.html",
-      "/fr/blog_projects/reset/index.html",
-      "/fr/blog_projects/supera/index.html",
-      "/fr/blog_projects/egera/index.html",
-      "/fr/blog_projects/mocho/index.html"
-    ]
-  },
-  {
-    "listing": "/fr/blog_review.html",
-    "items": [
-      "/fr/blog_review/Greed Lust and Gender/index.html",
-      "/fr/blog_review/regles/index.html",
-      "/fr/blog_review/pol_fam/index.html"
     ]
   },
   {
