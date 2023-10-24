@@ -1,2 +1,2 @@
 #unlink('ressource', recursive = TRUE)
-quarto::quarto_preview("en")
+quarto::quarto_render("en")

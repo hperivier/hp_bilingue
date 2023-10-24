@@ -33,7 +33,7 @@ website:
     left: 
       - "Copyright 2023, Hélène Périvier, Quarto & Github."
         
-lang: en
+lang: en-UK
 
 format:
   html:
