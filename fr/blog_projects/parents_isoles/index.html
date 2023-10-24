@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="../../../fr" xml:lang="../../../fr"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.208">
+<meta name="generator" content="quarto-1.4.358">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2023-01-01">
 <meta name="description" content="Etude sur la situation socio-économique des parents isolés">
 
-<title>- Familles monoparentales</title>
+<title>Familles monoparentales</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,7 +18,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -48,16 +47,23 @@ ul.task-list li input[type="checkbox"] {
   "panel-placement": "end",
   "type": "overlay",
   "limit": 20,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
   }
 }</script>
 
@@ -71,54 +77,55 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/bio.html" rel="" target="">
- <span class="menu-text">Bio</span></a>
+    <a class="nav-link" href="../../../fr/bio.html"> 
+<span class="menu-text">Bio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/publications.html" rel="" target="">
- <span class="menu-text">Publications</span></a>
+    <a class="nav-link" href="../../../fr/publications.html"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/blog_books.html" rel="" target="">
- <span class="menu-text">Livres</span></a>
+    <a class="nav-link" href="../../../fr/blog_books.html"> 
+<span class="menu-text">Ouvrages</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/blog_projects.html" rel="" target="">
- <span class="menu-text">Recherches</span></a>
+    <a class="nav-link" href="../../../fr/blog_projects.html"> 
+<span class="menu-text">Recherches</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/blog_teaching.html" rel="" target="">
- <span class="menu-text">Enseignements</span></a>
+    <a class="nav-link" href="../../../fr/blog_teaching.html"> 
+<span class="menu-text">Enseignements</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/media.html" rel="" target="">
- <span class="menu-text">Média</span></a>
+    <a class="nav-link" href="../../../fr/media.html"> 
+<span class="menu-text">Médias</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/blog_review.html" rel="" target="">
- <span class="menu-text">Recensions</span></a>
+    <a class="nav-link" href="../../../fr/blog_review.html"> 
+<span class="menu-text">Recensions</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../en/" rel="" target="">
- <span class="menu-text">EN</span></a>
+    <a class="nav-link" href="../../../ressources/en"> <i class="bi bi-globe2" role="img">
+</i> 
+<span class="menu-text">EN</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -133,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
         </div>
       </div>
                           <div class="quarto-categories">
-                <div class="quarto-category">Recherche</div>
+                <div class="quarto-category">Projet de recherche</div>
               </div>
                   </div>
   </div>
@@ -143,9 +150,9 @@ ul.task-list li input[type="checkbox"] {
 
       
       <div>
-      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-heading">Date de publication</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">January 1, 2023</p>
+        <p class="date">1 janvier 2023</p>
       </div>
     </div>
     
@@ -158,11 +165,11 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">Sur cette page</h2>
    
   <ul>
-  <li><a href="#previous-research" id="toc-previous-research" class="nav-link active" data-scroll-target="#previous-research">Previous research</a></li>
-  <li><a href="#new-project-research" id="toc-new-project-research" class="nav-link" data-scroll-target="#new-project-research">New project research</a></li>
+  <li><a href="#rapport-ofce-2020" id="toc-rapport-ofce-2020" class="nav-link active" data-scroll-target="#rapport-ofce-2020">Rapport OFCE 2020</a></li>
+  <li><a href="#nouveau-projet-de-recherche" id="toc-nouveau-projet-de-recherche" class="nav-link" data-scroll-target="#nouveau-projet-de-recherche">Nouveau projet de recherche</a></li>
   </ul>
 </nav>
     </div>
@@ -172,39 +179,28 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="previous-research" class="level3">
-<h3 class="anchored" data-anchor-id="previous-research">Previous research</h3>
-<section id="research-project-supported-by-the-service-des-droits-des-femmes-et-de-légalité-entre-les-femmes-et-les-hommes" class="level4">
-<h4 class="anchored" data-anchor-id="research-project-supported-by-the-service-des-droits-des-femmes-et-de-légalité-entre-les-femmes-et-les-hommes">Research project supported by the <em>Service des droits des femmes et de l’égalité entre les femmes et les hommes</em></h4>
-<p>OFCE report -&gt; <a href="rapport_pi.pdf">Etude sur la situation économique et sociale des parents isolés. Niveau de vie, marché du travail et politiques publiques</a></p>
-<section id="abstract" class="level5">
-<h5 class="anchored" data-anchor-id="abstract">Abstract</h5>
-<p>Ce rapport présente une analyse des facteurs de précarité auxquels les parents isolés doivent faire face du fait de leur configuration familiale spécifique. Ces facteurs sont appréhendés sous plusieurs angles : celui de leurs conditions de vie (niveau de vie et logement…), celui de leur caractéristiques individuelles (niveau de diplôme, âge, …) et celui de leur situation sur le marché du travail (participation, chômage, type de contrat, temps de travail, …). Les politiques publiques ciblées, politiques sociales, fiscales mais aussi politiques de l’emploi, permettent de soutenir ces familles. Mais l’interaction entre les différents dispositifs socio-fiscaux peut avoir des conséquences négatives sur la situation des parents isolés (en particulier le traitement des pensions alimentaires dans le système socio-fiscal).</p>
-</section>
-</section>
-<section id="alimony-and-the-french-tax_-benefit-system" class="level4">
-<h4 class="anchored" data-anchor-id="alimony-and-the-french-tax_-benefit-system">Alimony and the French Tax_ benefit system</h4>
-<p>“<a href="https://www.ofce.sciences-po.fr/blog/reduire-significativement-le-taux-de-pauvrete-des-familles-monoparentales/">Réduire significativement le taux de pauvreté des familles monoparentales</a>”, Billets de Blog OFCE, Hélène Périvier et Muriel Pucci, 29 juin 2021.</p>
-</section>
-</section>
-<section id="new-project-research" class="level3">
-<h3 class="anchored" data-anchor-id="new-project-research">New project research</h3>
-<section id="team" class="level4">
-<h4 class="anchored" data-anchor-id="team">Team</h4>
-<section id="hélène-périvier-ofce-sciences-po-paris" class="level6">
-<h6 class="anchored" data-anchor-id="hélène-périvier-ofce-sciences-po-paris">Hélène Périvier, OFCE Sciences Po Paris</h6>
-</section>
-<section id="muriel-pucci-université-pairs-1-ofce-sciences-po-paris" class="level6">
-<h6 class="anchored" data-anchor-id="muriel-pucci-université-pairs-1-ofce-sciences-po-paris">Muriel Pucci, Université Pairs 1, OFCE Sciences Po Paris</h6>
-</section>
-<section id="raul-sampognaro-ofce-sciences-po-paris" class="level6">
-<h6 class="anchored" data-anchor-id="raul-sampognaro-ofce-sciences-po-paris">Raul Sampognaro, OFCE Sciences Po Paris</h6>
-</section>
-</section>
-<section id="objective" class="level4">
-<h4 class="anchored" data-anchor-id="objective">Objective</h4>
-<p>The project aim at producing an analysis of the situation of lone parents in the labour market in France. It will up-date the analysis produce in the previous OFCE report by focusing more precisely on the exposure to unemployment by lone mothers. In particular the first research, we have shown that the probability to participate to the labour market for lone mothers depends on the local level of unemployment : the higher the local unemployment rate is the lower the participation of lone mothers, every thing being equal. This result suggests a specific discouraged worker effect for lone mothers, as show in the following graph :</p>
+<section id="rapport-ofce-2020" class="level3">
+<h3 class="anchored" data-anchor-id="rapport-ofce-2020">Rapport OFCE 2020</h3>
+<p>Une première recherche soutenue par le <em>Service des droits des femmes et de l’égalité entre les femmes et les hommes</em> est détaillée dans un rapport OFCE -&gt; <a href="rapport_pi.pdf"><em>Etude sur la situation économique et sociale des parents isolés. Niveau de vie, marché du travail et politiques publiques</em></a></p>
+<p>Ce rapport présente une analyse des facteurs de précarité auxquels les parents isolés doivent faire face du fait de leur configuration familiale spécifique. Ces facteurs sont appréhendés sous plusieurs angles : celui de leurs conditions de vie (niveau de vie et logement…), celui de leur caractéristiques individuelles (niveau de diplôme, âge, …) et celui de leur situation sur le marché du travail (participation, chômage, type de contrat, temps de travail, …). Les politiques publiques ciblées, politiques sociales, fiscales mais aussi politiques de l’emploi, permettent de soutenir ces familles. Mais l’interaction entre les différents dispositifs socio-fiscaux peut avoir des conséquences négatives sur la situation des parents isolés, en particulier le traitement des pensions alimentaires dans le système socio-fiscal. Cette question est détaillée dans ce Post de Blog OFCE :</p>
+<p>-&gt; “<a href="https://www.ofce.sciences-po.fr/blog/reduire-significativement-le-taux-de-pauvrete-des-familles-monoparentales/">Réduire significativement le taux de pauvreté des familles monoparentales</a>”, Billets de Blog OFCE, Hélène Périvier et Muriel Pucci, 29 juin 2021.</p>
+<p>S’agissant de l’accès au marché du travail, nous montrons que toutes choses égales par ailleurs, en 2018, les mères isolées participent moins au marché du travail que les mères vivant en couple dans les départements où le chômage des femmes est le plus élevé, alors qu’elles participent davantage au marché du travail que les mères vivant en couple dans les départements où le taux de chômage des femmes est faible (graphique ci-dessous). Ce résultat peut s’interpréter comme un chômage découragé : confrontées à un marché du travail qui leur est défavorable, les mères isolées renonceraient à chercher un emploi.</p>
 <p><img src="images/paste-E859D02C.png" class="img-fluid"></p>
+</section>
+<section id="nouveau-projet-de-recherche" class="level3">
+<h3 class="anchored" data-anchor-id="nouveau-projet-de-recherche">Nouveau projet de recherche</h3>
+<section id="equipe" class="level4">
+<h4 class="anchored" data-anchor-id="equipe">Equipe</h4>
+<ul>
+<li><p>Hélène Périvier, OFCE Sciences Po Paris</p></li>
+<li><p>Muriel Pucci, Université Paris 1, OFCE Sciences Po Paris</p></li>
+<li><p>Raul Sampognaro, OFCE Sciences Po Paris</p></li>
+</ul>
+</section>
+<section id="objectif" class="level4">
+<h4 class="anchored" data-anchor-id="objectif">Objectif</h4>
+<p>Cette nouvelle recherche vise à prolonger l’analyse des effets du chômage sur la participation des mères isolées au marché du travail. Il s’agira de mobiliser les dernières enquêtes disponibles et d’affiner l’analyse.</p>
+<p>.</p>
 
 
 </section>
@@ -238,9 +234,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -251,12 +261,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copié");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copié");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -276,10 +286,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -289,8 +298,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -303,6 +321,81 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        for (let i = 0; i < 2; i++) {
+          container.appendChild(note.children[i].cloneNode(true));
+        }
+        return container.innerHTML
+      } else {
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      return note.innerHTML;
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -346,6 +439,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -371,6 +465,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        console.log("RESIZE");
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -431,6 +552,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ Copyright 2023, Hélène Périvier, Quarto &amp; Github.
+  </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
 
 
 

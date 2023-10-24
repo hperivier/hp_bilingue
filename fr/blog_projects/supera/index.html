@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="../../../fr" xml:lang="../../../fr"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.208">
+<meta name="generator" content="quarto-1.4.358">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2019-01-01">
 <meta name="description" content="Supporting the Promotion of Equality in Research and Academia">
 
-<title>- SUPERA</title>
+<title>SUPERA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,7 +18,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -48,16 +47,23 @@ ul.task-list li input[type="checkbox"] {
   "panel-placement": "end",
   "type": "overlay",
   "limit": 20,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
   }
 }</script>
 
@@ -71,54 +77,55 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/bio.html" rel="" target="">
- <span class="menu-text">Bio</span></a>
+    <a class="nav-link" href="../../../fr/bio.html"> 
+<span class="menu-text">Bio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/publications.html" rel="" target="">
- <span class="menu-text">Publications</span></a>
+    <a class="nav-link" href="../../../fr/publications.html"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/blog_books.html" rel="" target="">
- <span class="menu-text">Livres</span></a>
+    <a class="nav-link" href="../../../fr/blog_books.html"> 
+<span class="menu-text">Ouvrages</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/blog_projects.html" rel="" target="">
- <span class="menu-text">Recherches</span></a>
+    <a class="nav-link" href="../../../fr/blog_projects.html"> 
+<span class="menu-text">Recherches</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/blog_teaching.html" rel="" target="">
- <span class="menu-text">Enseignements</span></a>
+    <a class="nav-link" href="../../../fr/blog_teaching.html"> 
+<span class="menu-text">Enseignements</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/media.html" rel="" target="">
- <span class="menu-text">Média</span></a>
+    <a class="nav-link" href="../../../fr/media.html"> 
+<span class="menu-text">Médias</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../fr/blog_review.html" rel="" target="">
- <span class="menu-text">Recensions</span></a>
+    <a class="nav-link" href="../../../fr/blog_review.html"> 
+<span class="menu-text">Recensions</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../en/" rel="" target="">
- <span class="menu-text">EN</span></a>
+    <a class="nav-link" href="../../../ressources/en"> <i class="bi bi-globe2" role="img">
+</i> 
+<span class="menu-text">EN</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -143,9 +150,9 @@ ul.task-list li input[type="checkbox"] {
 
       
       <div>
-      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-heading">Date de publication</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">January 1, 2019</p>
+        <p class="date">1 janvier 2019</p>
       </div>
     </div>
     
@@ -158,10 +165,11 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">Sur cette page</h2>
    
   <ul>
-  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#léquipe-sciences-po" id="toc-léquipe-sciences-po" class="nav-link active" data-scroll-target="#léquipe-sciences-po">L’équipe Sciences Po</a></li>
+  <li><a href="#description" id="toc-description" class="nav-link" data-scroll-target="#description">Description</a></li>
   </ul>
 </nav>
     </div>
@@ -171,19 +179,26 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>SUPERA has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No.&nbsp;787829, coordinated by Universidad Complutense de Madrid (Spain). It gathers <strong>4 universities</strong>, <strong>2 funding organizations</strong> and <strong>2 expert partners</strong> from 6 European countries. Different backgrounds and experiences and a common commitment to pursue meaningful advancements towards gender equality: this is the SUPERA Consortium!</p>
-<p>In SUPERA, Sciences Po leads an impartial monitoring and GEP progress evaluation, developing a methodology for objective monitoring and assessment (WP7) -&gt; Maxime Forest &amp; Hélène Périvier</p>
+<p>SUPERA (2018-2022) a reçu le soutien de l’Union Européenne dans le cadre du programme Horizon 2020 sur la recherche et l’innovation (grant agreement No.&nbsp;787829). Le projet coordonné par l’<em>Universidad Complutense</em> de Madrid (Espagne) rassemble 4 universités, 2 organisations de financement de la recherche et 2 partenaires experts, représentant 6 pays européens. Malgré leurs profils et expériences divers, les institutions partenaires partagent un engagement fort pour mettre en oeuvre des avancées significatives en matière d’égalité.</p>
+<p>Au sein de SUPERA, Sciences Po conduit une évaluation impartiale et bienveillante des <em>Gender Equality Plans</em> (GEP), et developpe une méthodologie pour évaluer de façon robuste et objective les actions mises en oeuvre.</p>
+<section id="léquipe-sciences-po" class="level3">
+<h3 class="anchored" data-anchor-id="léquipe-sciences-po">L’équipe Sciences Po</h3>
+<ul>
+<li><p><a href="https://www.sciencespo.fr/programme-presage/fr/content/maxime-forest-cevipof-ofce.html">Maxime Forest</a>, OFCE Sciences Po, évaluateur principal</p></li>
+<li><p>Hélène Périvier, OFCE Sciences Po</p></li>
+</ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://www.superaproject.eu/"><img src="images/paste-627E9E3F.png" class="img-fluid figure-img" width="424"></a></p>
 </figure>
 </div>
-<section id="abstract" class="level3">
-<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
+</section>
+<section id="description" class="level3">
+<h3 class="anchored" data-anchor-id="description">Description</h3>
 <p>The way <strong>scientific knowledge</strong> is designed, developed and transformed into useful results for society continues to be influenced by the gender inequalities that affect our society as a whole. Gender stereotypes may for instance set a wrong context for analysis, and the male/man gender is too often used as a default mode. When research methods don’t take into due consideration the variables connected to gender, scientific results are impoverished, and a lot of opportunities are missed. The research and higher education sector has peculiarities that require specific actions to overcome this situation, which we have called “<strong>gender gap</strong>”.</p>
 <p>The main goal of the SUPERA project is to implement <strong>six Gender Equality Plans</strong>&nbsp;(GEPs) in 6 organizations from Southern and Central Europe: 4 of them are Research Performing Organizations and 2 are Research Funding Organizations. The scope of a GEP may vary considerably, depending on the type of organization, on the institutional context in which it is implemented, on the main research disciplines addressed and on the type of gender biases and inequalities identified.</p>
 <p>In general, all the Gender Equality Plans will help to articulate a deeper understanding of gender inequalities, stereotypes and biases in research and support the inclusion of a gender perspective in research and academia.</p>
-<p><a href="https://www.superaproject.eu/what/">to learn more about SUPERA</a></p>
+<p><a href="https://www.superaproject.eu/what/">pour en savoir plus sur SUPERA</a></p>
 
 
 </section>
@@ -216,9 +231,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -229,12 +258,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copié");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copié");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -254,10 +283,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -267,8 +295,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -281,6 +318,81 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        for (let i = 0; i < 2; i++) {
+          container.appendChild(note.children[i].cloneNode(true));
+        }
+        return container.innerHTML
+      } else {
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      return note.innerHTML;
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -324,6 +436,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -349,6 +462,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        console.log("RESIZE");
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -409,6 +549,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ Copyright 2023, Hélène Périvier, Quarto &amp; Github.
+  </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
 
 
 
