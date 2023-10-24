@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.4.358">
@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
@@ -39,11 +40,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 20,
   "keyboard-shortcut": [
     "f",
@@ -52,30 +53,96 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
   }
 }</script>
 
 
+<link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../fr/bio.html" aria-current="page"> 
+<span class="menu-text">Bio</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/blog_books.html"> 
+<span class="menu-text">Ouvrages</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/blog_projects.html"> 
+<span class="menu-text">Recherches</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/blog_teaching.html"> 
+<span class="menu-text">Enseignements</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/media.html"> 
+<span class="menu-text">Médias</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/blog_review.html"> 
+<span class="menu-text">Recensions</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../ressources/en"> <i class="bi bi-globe2" role="img">
+</i> 
+<span class="menu-text">EN</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#mon-parcours-scientifique" id="toc-mon-parcours-scientifique" class="nav-link active" data-scroll-target="#mon-parcours-scientifique"><strong>Mon parcours scientifique</strong></a></li>
+  <li><a href="#mes-activités-académiques" id="toc-mes-activités-académiques" class="nav-link" data-scroll-target="#mes-activités-académiques"><strong>Mes activités académiques</strong></a></li>
+  <li><a href="#le-conseil-de-la-famille" id="toc-le-conseil-de-la-famille" class="nav-link" data-scroll-target="#le-conseil-de-la-famille">Le Conseil de la famille</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -97,61 +164,32 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p><a href="pdf/CV2023FR.pdf">CV complet</a></p>
-<section id="education" class="level3">
-<h3 class="anchored" data-anchor-id="education">Education</h3>
-<section id="habilitation-à-diriger-des-recherches-hdr-en-economie-université-paris-nanterre-2018." class="level5">
-<h5 class="anchored" data-anchor-id="habilitation-à-diriger-des-recherches-hdr-en-economie-université-paris-nanterre-2018.">Habilitation à diriger des recherches (HDR) en Economie, Université Paris Nanterre, 2018.</h5>
-<section id="synthèse-des-travaux--de-monsieur-gagnepain-à-madame-gagnemiettes-la-métamorphose-incomplète-de-létat-social-français" class="level6">
-<h6 class="anchored" data-anchor-id="synthèse-des-travaux--de-monsieur-gagnepain-à-madame-gagnemiettes-la-métamorphose-incomplète-de-létat-social-français">Synthèse des travaux-&gt; <a href="pdf/hdr.pdf"><em>De Monsieur Gagnepain À Madame Gagnemiettes:&nbsp;la métamorphose incomplète de l’État social français</em></a></h6>
+<p>Mon parcours professionnel est jalonné de rencontres avec des personnes formidables dont le soutien, les encouragements, l’inspiration, les collaborations m’ont portée dans mes projets -&gt; merci Jacques, Dave, Jean-Paul, Danièle, Françoise, Gérard, Michel, Geneviève, Charlène, Violette, Dominique, Julie, Rebecca, Maxime, un autre Maxime, Réjane, Muriel, Guillaume, Pierre, Grégory, Raul, mes collègues de l’OFCE, de PRESAGE, de Sciences Po…</p>
+<p>et évidemment et surtout merci Xavier !</p>
+<p><a href="pdf/CV_2023_FR.pdf">CV complet</a></p>
+<section id="mon-parcours-scientifique" class="level3">
+<h3 class="anchored" data-anchor-id="mon-parcours-scientifique"><strong>Mon parcours scientifique</strong></h3>
+<p>J’ai commencé mes études de sciences économiques à l’Université de Poitiers. J’ai ensuite effectué ma licence et ma maîtrise à l’Université Paris Dauphine, et poursuivi en D.E.A. à l’Université Paris 1 Panthéon Sorbonne.</p>
+<p>L’obtention de l’allocation de recherche m’a permis de commencer un doctorat en sciences économiques en 1997 sous la direction de <a href="#0">Jacques Le Cacheux</a>. Il s’agissait d’analyser les effets des transferts sociaux sur l’offre de travail en combinant une approche théorique fondée sur le modèle néo-classique à une approche empirique portant sur le Revenu Minimum d’Insertion (RMI) en France. Durant mon doctorat, j’ai effectué un séjour de <em>visiting scholar</em> au département d’économie de l’Université de Berkeley sous la supervision de <a href="#0">David Card</a>. Sur ses conseils, j’ai mobilisé la méthode de double différences pour évaluer les effets du RMI sur le comportement d’offre de travail des allocataires. A ce stade mes travaux ne comportaient aucune perspective de genre explicite, même si les questions d’offre de travail au sein des couples étaient abordées. J’ai soutenu ma thèse en mars 2001.</p>
+<p>En septembre 2001, j’ai été recrutée à l’<a href="http://www.ofce.sciences-po.fr/index.php">OFCE</a> par Jean-Paul Fitoussi sur proposition de Jacques Le Cacheux, pour travailler sur un projet européen piloté par Danièle Meulders, le projet <a href="https://cordis.europa.eu/project/id/HPSE-CT-2001-00096">MOCHO</a>. Il s’agissait de comparer les politiques familiales en Europe au regard de leur capacité à permettre aux femmes ayant des enfants de poursuivre leur carrière. Ce projet m’a ouvert la voie de la perspective de genre en sciences sociales. Depuis cette question a irrigué l’ensemble de mes travaux. Mes échanges réguliers avec la philosophe <a href="https://www.ehess.fr/fr/personne/genevi%C3%A8ve-fraisse">Geneviève Fraisse</a> ont nourri mes réflexions sur l’égalité et sur la pensée des féminismes. En avril 2015, grâce au <a href="https://alliance.columbia.edu/directory/helene-perivier">program Alliance</a>, j’ai effectué un séjour de recherche à l’Université de Columbia au sein de SIPA pour travailler avec <a href="https://www.sipa.columbia.edu/communities-connections/faculty/yasmine-ergas">Yamisne Ergas</a> sur l’égalité des sexes dans une perspective internationnale et pluridisciplinaire.</p>
+<p>En 2018, j’ai obtenu l’habilitation à diriger des recherches avec le soutien de <a href="https://www.ined.fr/fr/recherche/chercheurs/Meurs+Dominique">Dominique Meurs</a>, la synthèse de mes travaux est disponible ici -&gt; <a href="pdf/hdr.pdf"><em>De Monsieur Gagnepain à Madame Gagnemiettes:&nbsp;la métamorphose incomplète de l’État social français</em></a><em>.</em> Dans les prolégomènes de ce rapport, je m’interrogeais sur les raisons de l’institutionalisation de l’économie féministe reconnue comme une branche de l’économie, ce qui n’est pas le cas dans les autres sciences sociales. Quelle spécificité de l’économie a conduit des chercheuses à mettre en avant une approche féministe de leur discipline? Pour y répondre, je me suis intéressée à l’histoire de la pensée économique ainsi qu’à la critique féministe des sciences. A la demande de Julie Gazier, directrice des Presses de Sciences Po, j’ai rassemblé ces réflexions dans un livre, <em>L’économie féministe</em>, publié en octobre 2020, et en 2023 au Brésil.</p>
+<p>Mes travaux actuels portent sur des sujets variés (marché du travail, politiques familiales , éducation, histoire de la pensée…), tous ont un lien avec les inégalités, le genre, les discriminations -&gt; un onglet spécifique de ce site leur est dédié.</p>
 </section>
-<section id="garante-dominique-meurs-université-paris-nanterre" class="level6">
-<h6 class="anchored" data-anchor-id="garante-dominique-meurs-université-paris-nanterre">Garante: Dominique Meurs, Université Paris Nanterre</h6>
+<section id="mes-activités-académiques" class="level3">
+<h3 class="anchored" data-anchor-id="mes-activités-académiques"><strong>Mes activités académiques</strong></h3>
+<p>En 2010, <a href="https://www.sciencespo.fr/programme-presage/fr/content/francoise-milewski-ofce.html">Françoise Milewski</a> et moi avons développé à Sciences Po un programme transversal en études sur le genre, le Programme de Recherche et d’Enseignement des SAvoirs sur le GEnre, <a href="https://www.sciencespo.fr/programme-presage/fr.html">PRESAGE</a>. Ce programme irrigue l’ensemble des activités de Sciences Po, il est herbergé à l’OFCE.</p>
+<p>Aujourd’hui, je dirige ce programme avec l’aide de sa secrétaire générale, Violette Toye, et du comité de direction composé de Françoise Milewski, qui préside aussi le conseil scientifique, de la politiste <a href="https://www.sciencespo.fr/programme-presage/fr/content/rejane-senac-cevipof.html">Réjane Sénac</a>, l’historienne <a href="https://www.sciencespo.fr/programme-presage/fr/content/elissa-mailaender-chsp.html">Elissa Maïlander</a>, la sociologue <a href="https://www.sciencespo.fr/programme-presage/fr/content/marta-dominguez-folgueras-osc.html">Marta Dominguez</a>, le politiste <a href="https://www.sciencespo.fr/programme-presage/fr/content/maxime-forest-cevipof-ofce.html">Maxime Forest</a>, la politiste/relations internationales <a href="https://www.sciencespo.fr/programme-presage/fr/content/helene-le-bail-ceri.html">Hélène Le Bail</a>.</p>
+<p>Le programme anime la recherche en études de genre à Sciences Po de façon transversale à toutes les disciplines. Il étend l’offre pédagogique en garantissant la qualité des cours proposés. Pour valoriser les enseignements suivis par les élèves durant leur cursus d’études supérieures, nous proposons des certifications au niveau du <a href="https://www.sciencespo.fr/programme-presage/fr/content/certification-du-college-universitaire-genre-et-egalite.html">collègue universitaire</a> et à la sortie du <a href="https://www.sciencespo.fr/programme-presage/en/content/advanced-certification-gender-studies.html">master</a>. Le diplôme de Sciences Po est alors assorti d’une <a href="https://www.sciencespo.fr/programme-presage/fr/content/certification-avancee-en-etudes-de-genre.html">certification avancée en études de genre</a> qui valide l’acquisition de connaissances solides dans ce domaine. Enfin le programme permet des collaborations avec les partenaires privilégiés de Sciences Po, en particulier Université Paris Cité : à ce titre, je suis membre du comité de direction de <a href="https://citedugenre.fr/fr/">La Cité du Genre</a>, Université Paris Cité.</p>
+<p>Dans la dynamique de PRESAGE, les Presses de Sciences Po ont ouvert un <a href="https://www.pressesdesciencespo.fr/fr/catalog/?cat_id=494">domaine Genre</a> que j’ai co-dirigé avec <a href="https://www.sciencespo.fr/programme-presage/fr/content/janine-mossuz-lavau-cevipof.html">Janine Mossuz-Lavau</a> jusqu’en 2020 et depuis avec Réjane Sénac et <a href="https://www.cerlis.eu/team-view/rogers-rebecca/">Rebecca Rogers</a>. Nous avons publié de nombreux ouvrages d’horizons disciplinaires variés.</p>
+<p>En juin 2022, j’ai été promue <a href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045940273?init=true&amp;page=1&amp;query=officier+ordre+du+m%C3%A9rite+2022&amp;searchField=ALL&amp;tab_selection=all">au grade d’officier dans l’ordre national du mérite</a> par le Ministère de la recherche. Cette nomination récompense le travail collectif accompli pour promouvoir la perspective de genre au sein de la recherche et de l’enseignement supérieur.</p>
 </section>
-</section>
-<section id="doctorat-en-économie-université-paris-1-panthéon-sorbonne-félicitations-du-jury-à-lunanimité-2001." class="level5">
-<h5 class="anchored" data-anchor-id="doctorat-en-économie-université-paris-1-panthéon-sorbonne-félicitations-du-jury-à-lunanimité-2001.">Doctorat en économie, Université <span class="smallcaps">P</span>aris 1-Panthéon-Sorbonne, félicitations du jury à l’unanimité , 2001.</h5>
-<section id="titre-de-la-thèse---transferts-redistributifs-non-contributifs-et-offre-de-travail-une-mise-en-perspective-franco-américaine" class="level6">
-<h6 class="anchored" data-anchor-id="titre-de-la-thèse---transferts-redistributifs-non-contributifs-et-offre-de-travail-une-mise-en-perspective-franco-américaine">Titre de la thèse -&gt; <em>Transferts redistributifs non-contributifs et offre de travail&nbsp;: une mise en perspective franco-américaine</em></h6>
-</section>
-<section id="directeur-jacques-le-cacheux-université-de-pau-et-des-pays-de-ladour" class="level6">
-<h6 class="anchored" data-anchor-id="directeur-jacques-le-cacheux-université-de-pau-et-des-pays-de-ladour">Directeur: Jacques Le Cacheux, Université de Pau et des Pays de l’Adour</h6>
-</section>
-<section id="rapporteurs-françois-bourguignon-marc-fleurbaey" class="level6">
-<h6 class="anchored" data-anchor-id="rapporteurs-françois-bourguignon-marc-fleurbaey">Rapporteurs : François Bourguignon &amp; Marc Fleurbaey</h6>
-</section>
-</section>
-<section id="d.e.a.-analyse-économique-des-décisions-publiques-université-paris-1-panthéon-sorbonne-1997." class="level5">
-<h5 class="anchored" data-anchor-id="d.e.a.-analyse-économique-des-décisions-publiques-université-paris-1-panthéon-sorbonne-1997.">D.E.A<em>.</em>, <em>Analyse économique des décisions publiques</em>, Université <span class="smallcaps">P</span>aris 1-Panthéon-Sorbonne, 1997.</h5>
-</section>
-<section id="maîtrise-déconomie-université-paris-ix-dauphine-1995." class="level5">
-<h5 class="anchored" data-anchor-id="maîtrise-déconomie-université-paris-ix-dauphine-1995.">Maîtrise d’économie, Université <span class="smallcaps">P</span>aris IX-Dauphine, 1995.</h5>
-</section>
-<section id="deug-déconomie-université-of-poitiers-1993." class="level5">
-<h5 class="anchored" data-anchor-id="deug-déconomie-université-of-poitiers-1993.">DEUG d’économie , Université of Poitiers, 1993.</h5>
-</section>
-</section>
-<section id="visiting" class="level3">
-<h3 class="anchored" data-anchor-id="visiting">Visiting</h3>
-<section id="visiting-lecturer-columbia-university-sipa-gender-and-public-policy-program-april-2015" class="level5">
-<h5 class="anchored" data-anchor-id="visiting-lecturer-columbia-university-sipa-gender-and-public-policy-program-april-2015"><strong>Visiting lecturer</strong>, Columbia University, SIPA, Gender and Public Policy program, April 2015</h5>
-</section>
-<section id="visiting-scholar-berkeley-university-california-labor-center-french-american-foundation-fellowship-1999." class="level5">
-<h5 class="anchored" data-anchor-id="visiting-scholar-berkeley-university-california-labor-center-french-american-foundation-fellowship-1999."><strong>Visiting scholar</strong>, Berkeley University, California, Labor Center, French American Foundation fellowship, 1999.</h5>
-<section id="sponsoring-professor-david-card-university-of-california-berkeley" class="level6">
-<h6 class="anchored" data-anchor-id="sponsoring-professor-david-card-university-of-california-berkeley">Sponsoring Professor: David Card, University of California, Berkeley</h6>
-</section>
-</section>
-</section>
-<section id="distinction" class="level3">
-<h3 class="anchored" data-anchor-id="distinction">Distinction</h3>
-<section id="nomination-à-lordre-national-du-mérite-au-grade-dofficier-par-le-ministère-de-la-recherche-juin-2022." class="level5">
-<h5 class="anchored" data-anchor-id="nomination-à-lordre-national-du-mérite-au-grade-dofficier-par-le-ministère-de-la-recherche-juin-2022.">Nomination à l’<a href="https://www.legifrance.gouv.fr/download/pdf?id=X0QfZD-fjFwioCVXeXUoODg8dfuYLobMvhwak3XtkyQ="><em>Ordre national du mérite au grade d’officier</em></a> par le Ministère de la recherche, juin 2022.</h5>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<section id="le-conseil-de-la-famille" class="level3">
+<h3 class="anchored" data-anchor-id="le-conseil-de-la-famille">Le Conseil de la famille</h3>
+<p>Depuis avril 2023, j’ai l’honneur de présider le Conseil de la famille au sein du <a href="https://www.hcfea.fr/">HCFEA</a>, un retour à mes premiers sujets de recherche sur les politiques sociales et familiales et pour lesquelles la perspective de genre est centrale.</p>
+<p>Le Conseil a pour mission d’animer le débat public et d’apporter aux pouvoirs publics une expertise prospective et transversale sur les questions liées à la famille. Il est composé de 74 membres dont 13 membres représentant l’État et les caisses de sécurité sociale, 14 membres représentant le mouvement familial, 7 membres représentant les associations ou organismes concourant aux politiques en faveur des familles vulnérables et des personnes handicapées, 16 membres représentant les assurés sociaux et les employeurs et 18 personnalités qualifiées.</p>
+<p>En 2023, le Conseil va travailler sur les questions de pouvoir d’achat des familles en période d’inflation, avec un focus spécifique sur l’alimentation. Sur ce point précis il s’agira d’adopter une approche plus structurelle (accès, qualité et soutenabilité). Le Conseil publie de nombreux rapports, riches et bien documentés que je vous conseille de consulter sur le site du <a href="https://www.hcfea.fr/spip.php?rubrique32">Conseil</a>.</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -209,12 +247,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copié");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copié");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -500,6 +538,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ Copyright 2023, Hélène Périvier, Quarto &amp; Github.
+  </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

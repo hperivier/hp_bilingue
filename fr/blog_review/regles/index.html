@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.4.358">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2012-09-01">
 <meta name="description" content="Mon analyse de l’article de Ichino &amp; Moretti (AER Applied, 2009)…">
 
 <title>Biological Gender Differences, Absenteeism and the Earning Gap</title>
@@ -26,6 +25,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
@@ -41,11 +41,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 20,
   "keyboard-shortcut": [
     "f",
@@ -54,25 +54,81 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
   }
 }</script>
 
 
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
-<body class="fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../fr/bio.html"> 
+<span class="menu-text">Bio</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../fr/publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../fr/blog_books.html"> 
+<span class="menu-text">Ouvrages</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../fr/blog_projects.html"> 
+<span class="menu-text">Recherches</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../fr/blog_teaching.html"> 
+<span class="menu-text">Enseignements</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../fr/media.html"> 
+<span class="menu-text">Médias</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../fr/blog_review.html"> 
+<span class="menu-text">Recensions</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../ressources/en"> <i class="bi bi-globe2" role="img">
+</i> 
+<span class="menu-text">EN</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
@@ -84,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
         </div>
       </div>
                           <div class="quarto-categories">
-                <div class="quarto-category">article</div>
+                <div class="quarto-category">Article</div>
               </div>
                   </div>
   </div>
@@ -94,9 +150,9 @@ ul.task-list li input[type="checkbox"] {
 
       
       <div>
-      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-heading">Date de publication</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">September 1, 2012</p>
+        <p class="date">1 septembre 2012</p>
       </div>
     </div>
     
@@ -104,10 +160,12 @@ ul.task-list li input[type="checkbox"] {
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -115,6 +173,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Ichino, Andrea, and Enrico Moretti. 2009. “<a href="https://www.aeaweb.org/articles?id=10.1257/app.1.1.183">Biological Gender Differences, Absenteeism, and the Earnings Gap.</a>” <em>American Economic Journal: Applied Economics</em>, 1 (1): 183-218.DOI: 10.1257/app.1.1.183</p>
+<p>Recension publiée dans la revue <a href="file:///G:/Mon%20Drive/Mes%20Documents/CV,%20RA%20et%20Bio/CV/CV/-%09http:/www.cairn.info/revue-travail-genre-et-societes-2009-1-page-189.htm"><em>Travail, genre et sociétés</em>, n°21, 2012</a>.</p>
 <p>La recherche en sciences humaines et sociales n’est toujours pas épargnée par ce que l’on nomme le sexisme ordinaire. Idées-reçues, stéréotypes et poncifs sont encore présents dans certains travaux. La rubrique <em>Mauvais genre</em>, que nous inaugurons dans ce numéro, a pour but d’épingler ces sophismes, malfaçons et absurdités ainsi que de déconstruire la circularité des raisonnements qui les entoure. Elle s’ouvre avec la critique d’un travail d’économistes, qui, aveuglés par leur volonté de montrer que le cycle menstruel des femmes ne peut en aucun cas être sans effet sur leur productivité, leur temps de travail et donc leur salaire, finissent par tirer des données le résultat qu’ils recherchaient fondamentalement. Si le sujet est d’un intérêt incontestable, la démarche est quant à elle indigne d’une recherche scientifique. Le sexisme ordinaire, dans notre métier, conduit à la faute professionnelle.</p>
 <p>La très sérieuse revue <em>American Economic Journal</em> publie dans son numéro de janvier&nbsp;2009 un article coécrit par deux économistes, Andrea Ichino et Enrico Moretti, intitulé «&nbsp;<em>Biological Gender Differences, Absenteeism and the Earning Gap</em>&nbsp;»  qui nous apprend que les femmes sont moins rémunérées que les hommes en raison de leur cycle menstruel qui perturbe leur vie professionnelle. Cette différence biologique expliquerait 14&nbsp;% de l’écart de salaire entre les sexes&nbsp;; un écart que les auteurs jugent donc incompressible, puisque Dame Nature en serait l’instigatrice. Les deux économistes ne s’arrêtent pas là, et infèrent de leurs résultats qu’il serait contreproductif pour l’emploi des femmes d’obliger les entreprises à réduire cet écart de salaire, en leur faisant supporter le coût de cette «&nbsp;faiblesse féminine&nbsp;». Ce serait donc à la collectivité de décider si elle juge bon de la compenser en subventionnant le salaire des femmes. Comment en sont-ils arrivés à cette conclusion teintée d’un naturalisme archaïque et décalé&nbsp;?</p>
 <p>Les auteurs partent du constat que dans tous les pays développés, les salaires des femmes sont plus faibles que ceux des hommes. Mais les explications usuelles qui tiennent aux partages des rôles et aux «&nbsp;avantages compara-tifs&nbsp;» de chaque sexe ne permettent pas de faire la part des choses entre ce qui relève de la construction sociale et ce qui relève des différences intrinsèques entre les femmes et les hommes. Pour trancher cette question, ils se proposent donc d’utiliser l’absentéisme comme révélateur de l’impact des différences biologiques entre les sexes sur l’emploi. Les statistiques par pays issues des grandes enquêtes nationales indiquent en effet que, partout, le nombre de jours d’absence au travail par an est supérieur pour les femmes, sur une population de célibataires sans enfant. L’écart entre les sexes est d’un peu moins de trois jours pour l’Europe, deux pour les États-Unis et un pour le Canada. Comment expliquer cet écart&nbsp;? Les données issues de ces enquêtes ne leur permettent pas d’aller plus loin. Ils basculent alors sur une base de données individuelles, issue d’une grande banque italienne, qui contient les dates précises et la durée des absences.</p>
@@ -123,7 +182,6 @@ ul.task-list li input[type="checkbox"] {
 <p>À partir de ce résultat et connaissant le salaire journalier moyen des femmes et l’écart avec celui des hommes, les auteurs n’hésitent pas à en déduire que les cycles menstruels expliqueraient directement 4,4&nbsp;% de l’écart de salaire entre les sexes. Mais ce strict coût salarial ne serait que la partie visible de l’iceberg, le coût total serait encore plus important. D’abord parce que l’employeur paie un coût fixe pour un poste de travail, que l’employée soit là ou non&nbsp;; ensuite parce qu’une absence non planifiée est plus coûteuse que le salaire journalier&nbsp;; par ailleurs, les femmes qui viennent quand même travailler durant leurs jours de règles seraient moins productives <strong>(</strong>Note 22). Faut-il ici souligner que les absences des femmes coûtent moins cher que celles des hommes, et suggérer aux auteurs de calculer le coût global en tenant compte de cette différence&nbsp;? Enfin et surtout, cela n’intégrerait pas le signal négatif que des absences envoient à l’employeur. Pour prendre en compte ces aspects, Andrea Ichino et Enrico Moretti utilisent un modèle de discrimination statistique, qui repose sur un mode de fixation des salaires de la part des employeurs aussi irréaliste qu’absurde. Ne pouvant pas mesurer directement la productivité de leurs employés, les employeurs se fonderaient sur leurs caractéristiques observables, comme par exemple leur degré d’absentéisme. Ils seraient cependant conscients qu’une partie des absences des femmes serait liée à leur cycle menstruel et donc ne l’interprèteraient pas directement comme un signal de volonté d’éviction du travail. Malgré tout, ils le répercuteraient sur les salaires de sorte que les cycles menstruels expliqueraient 14&nbsp;% de l’écart de salaire entre les sexes. Ainsi l’information révélée dans la première partie de l’article, à savoir «&nbsp;les femmes ont des absences régulières liées à leur cycle&nbsp;», serait-elle depuis longtemps connue des employeurs et intégrée dans le processus de fixation des salaires.</p>
 <p>À aucun moment, les auteurs ne sont en mesure de valider les relations de cause à effet qui fondent leur raisonnement&nbsp;: les femmes de moins de 45 ans ont des règles cycliques, donc elles ont des absences cycliques au travail et donc elles sont moins payées. Ainsi, c’est parce qu’elles ont des règles cycliques qu’elles seraient moins payées. Les propositions sont exactes mais leur enchaînement est fallacieux&nbsp;: on pourrait tout aussi bien dire, les femmes sont moins bien payées que les hommes, donc elles ont des absences cycliques parce qu’elles sont découragées&nbsp;: il n’y a rien de biologique là-dedans, juste une discrimination salariale envers les femmes qui, par ailleurs, ont leurs règles tous les mois ou presque. Toute autre caractéristique propre aux femmes aurait pu faire l’affaire&nbsp;: les femmes portent des talons aiguilles, elles ont un risque plus grand de se tordre la cheville, les employeurs connaissent ce risque et les paient moins que les hommes en conséquence. D’ailleurs, si cet écart de salaire était bien lié aux rythmes biologiques des femmes, alors il devrait disparaître au moment de la ménopause. Or les auteurs n’ont pas la rigueur, ou l’honnêteté, de pousser leur démonstration jusqu’au bout, puisque leurs estimations n’intègrent que les employés âgés de moins de 45 ans  (Note 27). Nous ne saurons donc pas ce qu’il advient de cet écart spécifique de salaire pour les femmes ménopausées.</p>
 <p>Finalement, les cycles menstruels se traduiraient par un «&nbsp;sur-absentéisme&nbsp;» des femmes relativement aux hommes de 1,5 jour par an, soit 0,7&nbsp;% de leur temps travail, qui engendrerait un écart de salaire entre les sexes de 14&nbsp;%… un effet boule de neige peu crédible. Loin d’une démarche scientifique rigoureuse, cet article repose sur un sexisme plein de compassion pour les femmes tordues de douleur périodiquement. Sa publication révèle la main mise sur la recherche en économie d’un scientisme qui réduit la complexité sociale à un simple déterminisme biologisant, digne du pire eugénisme du <span class="smallcaps">xix</span><sup>e</sup> siècle, qui visait à chercher des justifications «&nbsp;scientifiques&nbsp;» de l’infériorité d’un groupe humain par rapport à un autre.</p>
-<p>Review published in <a href="file:///G:/Mon%20Drive/Mes%20Documents/CV,%20RA%20et%20Bio/CV/CV/-%09http:/www.cairn.info/revue-travail-genre-et-societes-2009-1-page-189.htm"><em>Travail, genre et sociétés</em>, n°21, 2012</a>.</p>
 
 
 
@@ -182,12 +240,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copié");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copié");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -473,6 +531,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ Copyright 2023, Hélène Périvier, Quarto &amp; Github.
+  </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.4.358">
@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Recherche</title>
+<title>Recherches</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
@@ -41,11 +42,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 20,
   "keyboard-shortcut": [
     "f",
@@ -54,16 +55,16 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
   }
 }</script>
 <script>
@@ -99,25 +100,81 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/bio.html"> 
+<span class="menu-text">Bio</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/blog_books.html"> 
+<span class="menu-text">Ouvrages</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../fr/blog_projects.html" aria-current="page"> 
+<span class="menu-text">Recherches</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/blog_teaching.html"> 
+<span class="menu-text">Enseignements</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/media.html"> 
+<span class="menu-text">Médias</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fr/blog_review.html"> 
+<span class="menu-text">Recensions</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../ressources/en"> <i class="bi bi-globe2" role="img">
+</i> 
+<span class="menu-text">EN</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Projet de recherche">Projet de recherche <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Projet européen">Projet européen <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Recherche">Recherche <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Recherche (ANR)">Recherche (ANR) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="projet européen">projet européen <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tous <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Projet de recherche">Projet de recherche <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Projet européen">Projet européen <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Recherche">Recherche <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Recherche (ANR)">Recherche (ANR) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="projet européen">projet européen <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Recherche</h1>
+<h1 class="title">Recherches</h1>
 </div>
 
 
@@ -133,14 +190,14 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Ici la description des projets de recherche les importants dans lesquels je suis impliquée :</p>
+<p>Voici les principaux projets de recherche sur lesquels je travaille actuellement</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-left" data-index="0" data-categories="Projet de recherche" data-listing-date-sort="1672527600000" data-listing-file-modified-sort="1698180619805" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="426">
+<div class="quarto-post image-left" data-index="0" data-categories="Projet de recherche" data-listing-date-sort="1672527600000" data-listing-file-modified-sort="1698181132068" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="426">
 <div class="thumbnail">
 <p><a href="../fr/blog_projects/commons/index.html"></a></p><a href="../fr/blog_projects/commons/index.html">
 <p><img src="../fr/blog_projects/commons/communs2.jfif" class="thumbnail-image"></p>
@@ -169,12 +226,12 @@ Projet de recherche
 <div class="metadata">
 <a href="../fr/blog_projects/commons/index.html">
 <div class="listing-date">
-Jan 1, 2023
+1 janv. 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="1" data-categories="Projet de recherche" data-listing-date-sort="1672527600000" data-listing-file-modified-sort="1698180619813" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1194">
+<div class="quarto-post image-left" data-index="1" data-categories="Projet de recherche" data-listing-date-sort="1672527600000" data-listing-file-modified-sort="1698181132071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1194">
 <div class="thumbnail">
 <p><a href="../fr/blog_projects/egale/index.html"></a></p><a href="../fr/blog_projects/egale/index.html">
 <p><img src="../fr/blog_projects/egale/ena.jfif" class="thumbnail-image"></p>
@@ -203,12 +260,12 @@ Projet de recherche
 <div class="metadata">
 <a href="../fr/blog_projects/egale/index.html">
 <div class="listing-date">
-Jan 1, 2023
+1 janv. 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="2" data-categories="Recherche" data-listing-date-sort="1672527600000" data-listing-file-modified-sort="1698180619839" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
+<div class="quarto-post image-left" data-index="2" data-categories="Recherche" data-listing-date-sort="1672527600000" data-listing-file-modified-sort="1698181132104" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
 <div class="thumbnail">
 <p><a href="../fr/blog_projects/parents_isoles/index.html"></a></p><a href="../fr/blog_projects/parents_isoles/index.html">
 <p><img src="../fr/blog_projects/parents_isoles/photo.jpg" class="thumbnail-image"></p>
@@ -237,12 +294,12 @@ Recherche
 <div class="metadata">
 <a href="../fr/blog_projects/parents_isoles/index.html">
 <div class="listing-date">
-Jan 1, 2023
+1 janv. 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="3" data-categories="Recherche (ANR)" data-listing-date-sort="1672527600000" data-listing-file-modified-sort="1698180619947" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="435">
+<div class="quarto-post image-left" data-index="3" data-categories="Recherche (ANR)" data-listing-date-sort="1672527600000" data-listing-file-modified-sort="1698181132105" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="435">
 <div class="thumbnail">
 <p><a href="../fr/blog_projects/prodige/index.html"></a></p><a href="../fr/blog_projects/prodige/index.html">
 <p><img src="../fr/blog_projects/prodige/photo.jfif" class="thumbnail-image"></p>
@@ -271,12 +328,12 @@ Recherche (ANR)
 <div class="metadata">
 <a href="../fr/blog_projects/prodige/index.html">
 <div class="listing-date">
-Jan 1, 2023
+1 janv. 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="4" data-categories="projet européen" data-listing-date-sort="1577833200000" data-listing-file-modified-sort="1698180619965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="416">
+<div class="quarto-post image-left" data-index="4" data-categories="projet européen" data-listing-date-sort="1577833200000" data-listing-file-modified-sort="1698181132447" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="416">
 <div class="thumbnail">
 <p><a href="../fr/blog_projects/reset/index.html"></a></p><a href="../fr/blog_projects/reset/index.html">
 <p><img src="../fr/blog_projects/reset/reset.jpg" class="thumbnail-image"></p>
@@ -305,12 +362,12 @@ projet européen
 <div class="metadata">
 <a href="../fr/blog_projects/reset/index.html">
 <div class="listing-date">
-Jan 1, 2020
+1 janv. 2020
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="5" data-categories="Projet européen" data-listing-date-sort="1546297200000" data-listing-file-modified-sort="1698180619980" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
+<div class="quarto-post image-left" data-index="5" data-categories="Projet européen" data-listing-date-sort="1546297200000" data-listing-file-modified-sort="1698181132449" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
 <div class="thumbnail">
 <p><a href="../fr/blog_projects/supera/index.html"></a></p><a href="../fr/blog_projects/supera/index.html">
 <p><img src="../fr/blog_projects/supera/supera.jfif" class="thumbnail-image"></p>
@@ -339,12 +396,12 @@ Projet européen
 <div class="metadata">
 <a href="../fr/blog_projects/supera/index.html">
 <div class="listing-date">
-Jan 1, 2019
+1 janv. 2019
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="6" data-categories="Projet européen" data-listing-date-sort="1514761200000" data-listing-file-modified-sort="1698180619827" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-word-count-sort="3345">
+<div class="quarto-post image-left" data-index="6" data-categories="Projet européen" data-listing-date-sort="1514761200000" data-listing-file-modified-sort="1698181132101" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-word-count-sort="3345">
 <div class="thumbnail">
 <p><a href="../fr/blog_projects/egera/index.html"></a></p><a href="../fr/blog_projects/egera/index.html">
 <p><img src="../fr/blog_projects/egera/egera.jfif" class="thumbnail-image"></p>
@@ -373,12 +430,12 @@ Projet européen
 <div class="metadata">
 <a href="../fr/blog_projects/egera/index.html">
 <div class="listing-date">
-Jan 1, 2018
+1 janv. 2018
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="7" data-categories="projet européen" data-listing-date-sort="1104534000000" data-listing-file-modified-sort="1698180619832" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="236">
+<div class="quarto-post image-left" data-index="7" data-categories="projet européen" data-listing-date-sort="1104534000000" data-listing-file-modified-sort="1698181132102" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="236">
 <div class="thumbnail">
 <p><a href="../fr/blog_projects/mocho/index.html"></a></p><a href="../fr/blog_projects/mocho/index.html">
 <p><img src="../fr/blog_projects/mocho/mocho.jfif" class="thumbnail-image"></p>
@@ -407,14 +464,14 @@ projet européen
 <div class="metadata">
 <a href="../fr/blog_projects/mocho/index.html">
 <div class="listing-date">
-Jan 1, 2005
+1 janv. 2005
 </div>
 </a>
 </div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
-No matching items
+Aucun article correspondant
 </div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -471,12 +528,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copié");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copié");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -762,6 +819,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ Copyright 2023, Hélène Périvier, Quarto &amp; Github.
+  </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 
