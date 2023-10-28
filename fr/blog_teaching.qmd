@@ -9,8 +9,9 @@ listing:
   
 format:
   html:
-    theme: lux
-    css: styles.css
+    theme:
+      - lux
+      - custom.scss
     toc: true
 
 lang: fr   

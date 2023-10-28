@@ -7,7 +7,7 @@ project:
     - "ressources/en"
     
 website:
-   navbar:
+  navbar:
     background: secondary
     search: true
     left:
@@ -32,18 +32,18 @@ website:
         text: EN
         icon: globe2
         
-   page-footer: 
-    left: 
+  page-footer: 
+    left:
       - "Copyright 2023, Hélène Périvier, Quarto & Github."
         
 lang: fr
 
 format:
   html:
+    linkcolor: "blue"
     theme:
       - lux
       - custom.scss
-    css: styles.css
     toc: true
     
 editor: visual

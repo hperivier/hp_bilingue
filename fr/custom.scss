@@ -52,7 +52,7 @@ $body-color:                $gray-700 !default;
 
 // stylelint-disable-next-line value-keyword-case
 $font-family-sans-serif:      "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$h1-font-size:                2rem !default;
+$h1-font-size:                1.8rem !default;
 $h2-font-size:                1.75rem !default;
 $h3-font-size:                1.5rem !default;
 $h4-font-size:                1.25rem !default;
@@ -197,7 +197,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 
 body {
   font-weight: 200;
-  letter-spacing: 1px;
+  letter-spacing: normal;
 }
 
 h1,
@@ -207,7 +207,7 @@ h4,
 h5,
 h6 {
   text-transform: lowercase;
-  letter-spacing: 3px;
+  letter-spacing: normal !important;
 }
 
 .text-secondary {

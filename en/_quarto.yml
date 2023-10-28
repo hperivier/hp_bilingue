@@ -37,10 +37,10 @@ lang: en-UK
 
 format:
   html:
+    linkcolor: "blue"
     theme:
       - lux
       - custom.scss
-    css: styles.css
     toc: true
     
 editor: visual

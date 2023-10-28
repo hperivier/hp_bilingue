@@ -31,19 +31,18 @@ lang: fr
 editor: visual
 ---
 
-### Bienvenue sur mon site
-
 Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php) [Sciences Po](https://www.sciencespo.fr/fr/).
 
 Mes travaux portent sur l'évaluation des politiques familiales, sociales et fiscales, ainsi que sur l'analyse des inégalités femmes-hommes sur le marché du travail, dans la famille et dans l'enseignement supérieur. Je m'intéresse également à l'histoire de la pensée économique dans une perspective féministe.
 
 Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo.fr/programme-presage/fr.html) de Sciences Po. Depuis avril 2023, je suis présidente du Conseil de la famille au sein du [Haut Conseil de la famille de l'enfance et de l'âge, HCFEA](https://www.hcfea.fr/), dont la mission est d'animer le débat public sur les politiques publiques en direction des familles.
 
-### vient de sortir
+### Vient de sortir
 
 -   ["Gendering the Commons or Commoning gender studies? A Bibliometric analysis](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-09.pdf)", *Sciences Po OFCE Working Paper* n°09/2023
+-   ["Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France",](https://journals.sagepub.com/doi/10.1177/00197939231201570) avec Grégory Verdugo, *Industrial & Labor Relations Review*, septembre 2023, version working paper -\> [ici](#0)
 
-### dans les médias
+### Dans les médias
 
 -   [Un Nobel à soi: Claudia Goldin ou l'économie féministe](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/un-nobel-a-soi-claudia-goldin-ou-l-economie-feministe-4727328) , *Entendez-vous l'éco?,* France Culture, (octobre 2023)
 
@@ -51,14 +50,10 @@ Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo
 
 -   Podcast Genre etc. [Faire de la recherche en féministe](https://smartlink.ausha.co/sciencespo-presage-genre-etc/focus-faire-de-la-recherche-en-feministe), un échange avec Geneviève Fraisse, (septembre 2023).
 
--   dans les rues de Nantes, une affiche faisant référence au modèle de *Madame Gagnemiettes* (lui même faisant écho au fameux modèle de Monsieur Gagnepain), modèle que je décris dans mes travaux, et notamment dans le chapitre 5 de l'*Economie féministe* -\> merci à l'artiste pour la circulation des idées!
+-   Dans les rues de Nantes, une affiche faisant référence au modèle de *Madame Gagnemiettes* (lui même faisant écho au fameux modèle de Monsieur Gagnepain), modèle que je décris dans mes travaux, et notamment dans le chapitre 5 de l'*Economie féministe* -\> merci à l'artiste pour la circulation des idées!
 
     ![](images/gagnemiettes.jpg)
 
--   ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-15.pdf) , *Working Paper OFCE* n° 15/2022, Maxime Parodi, Hélène Périvier et Fabrice Larat, 2022
-
--\> à écouter l'épisode du [podcast Genre etc.](https://podcast.ausha.co/sciencespo-presage-genre-etc/les-femmes-dans-le-concours-d-entree-a-l-ecole-nationale-d-administration) consacré à la présentation de cette recherche
-
-### mon dernier livre
+### Mon dernier livre
 
 ![](/images/double_couv.jpg){fig-align="center" width="300"}
