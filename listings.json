@@ -10,10 +10,10 @@
   {
     "listing": "/fr/blog_projects.html",
     "items": [
-      "/fr/blog_projects/commons/index.html",
       "/fr/blog_projects/egale/index.html",
       "/fr/blog_projects/parents_isoles/index.html",
       "/fr/blog_projects/prodige/index.html",
+      "/fr/blog_projects/commons/index.html",
       "/fr/blog_projects/reset/index.html",
       "/fr/blog_projects/supera/index.html",
       "/fr/blog_projects/egera/index.html",
@@ -24,9 +24,9 @@
     "listing": "/en/blog_teaching.html",
     "items": [
       "/en/blog_teaching/Gender societies and economics/index.html",
+      "/en/blog_teaching/Certificat/index.html",
       "/en/blog_teaching/Case study/index.html",
-      "/en/blog_teaching/Economie genre/index.html",
-      "/en/blog_teaching/Certificat/index.html"
+      "/en/blog_teaching/Economie genre/index.html"
     ]
   },
   {
@@ -43,10 +43,10 @@
   {
     "listing": "/en/blog_projects.html",
     "items": [
-      "/en/blog_projects/commons/index.html",
       "/en/blog_projects/egale/index.html",
       "/en/blog_projects/parents_isoles/index.html",
       "/en/blog_projects/prodige/index.html",
+      "/en/blog_projects/commons/index.html",
       "/en/blog_projects/reset/index.html",
       "/en/blog_projects/supera/index.html",
       "/en/blog_projects/egera/index.html",
