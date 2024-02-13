@@ -3,7 +3,7 @@ title: "SUPERA"
 description: "Supporting the Promotion of Equality in Research and Academia"
 date: 01-01-2019
 
-categories: [EU project] # self-defined categories
+categories: [EU projects] # self-defined categories
 
 image: supera.jfif
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
@@ -14,6 +14,12 @@ SUPERA has received funding from the European Union's Horizon 2020 research and 
 In SUPERA, Sciences Po leads an impartial monitoring and GEP progress evaluation, developing a methodology for objective monitoring and assessment (WP7) -\> Maxime Forest & Hélène Périvier
 
 [![](images/paste-627E9E3F.png){fig-align="center" width="424"}](https://www.superaproject.eu/)
+
+### Sciences Po team
+
+-   [Maxime Forest](https://www.sciencespo.fr/programme-presage/fr/content/maxime-forest-cevipof-ofce.html), OFCE Sciences Po
+
+-   Hélène Périvier, OFCE Science
 
 ### Description
 

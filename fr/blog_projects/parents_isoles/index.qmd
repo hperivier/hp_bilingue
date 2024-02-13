@@ -3,7 +3,7 @@ title: "Familles monoparentales"
 description: "Etude sur la situation socio-économique des parents isolés"
 date: 01-01-2023
 
-categories: [Projet de recherche] 
+categories: [Projets de recherche] 
 lang: fr
 
 image: photo.jpg

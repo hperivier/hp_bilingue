@@ -3,7 +3,7 @@ title: "MOCHO"
 description: "The Rationale of Motherhood Choices : Influence of employment and public policies"
 date: 01-01-2005
 
-categories: [EU project] # self-defined categories
+categories: [EU projects] # self-defined categories
 
 image: mocho.jfif
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!

@@ -3,7 +3,7 @@ title: "EGERA"
 description: "Effective Gender Equality in Research and the Academia"
 date: 01-01-2018
 
-categories: [Projet européen] 
+categories: [Projets européens] 
 lang: fr
 
 image: egera.jfif
@@ -12,7 +12,7 @@ draft: false
 
 EGERA 2014-2017 est un projet co-financé par l'Union Européenne et coordonné par Sciences Po, l'OFCE via l'équipe de PRESAGE. Le financement du projet s'inscrivait dans le 7ème programme cadre pour la recherche. Le budget total du projet s'élèvait à 3 927 352 € dont 2 229 155€ issus de la contribution de l'UE.
 
-### L'équipe Sciences Po OFCE: 
+### L'équipe Sciences Po OFCE:
 
 -   [Anne Boring](http://www.anneboring.com/), OFCE Sciences Po, aujourd'hui Erasmus School of Economics, Erasmus University Rotterdam
 

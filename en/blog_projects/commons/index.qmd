@@ -3,13 +3,17 @@ title: "The commons with a gender lens"
 description: "Bibliometric analysis of the literature on the commons and gender"
 date: 01-12-2022
 
-categories: [Research] 
+categories: [Research projects] 
 
 image: communs2.jfif
 draft: false 
 ---
 
-Research project for the AFD -\> report to be published ([first draft in French)](pdf/Rapport_AFD_VF.pdf)
+Research project for the AFD -
+
+The report -\> [*Analyse bibliométrique de la littérature croisant genre et communs*](#0)
+
+The Working paper OFCE -\> ["Gendering the Commons or Commoning gender studies? A Bibliometric analysis](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-09.pdf)", *Sciences Po OFCE Working Paper* n°09/2023.
 
 ### Abstract
 

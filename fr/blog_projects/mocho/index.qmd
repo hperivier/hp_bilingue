@@ -3,7 +3,7 @@ title: "MOCHO"
 description: "The Rationale of Motherhood Choices : Influence of employment and public policies"
 date: 01-01-2005
 
-categories: [Projet européen] # self-defined categories
+categories: [Projets européens] # self-defined categories
 
 lang: fr
 

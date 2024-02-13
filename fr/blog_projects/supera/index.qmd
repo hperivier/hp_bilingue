@@ -3,7 +3,7 @@ title: "SUPERA"
 description: "Supporting the Promotion of Equality in Research and Academia"
 date: 01-01-2019
 
-categories: [Projet européen] 
+categories: [Projets européens] 
 
 lang: fr
 
@@ -15,7 +15,7 @@ SUPERA (2018-2022) a reçu le soutien de l'Union Européenne dans le cadre du pr
 
 Au sein de SUPERA, Sciences Po conduit une évaluation impartiale et bienveillante des *Gender Equality Plans* (GEP), et developpe une méthodologie pour évaluer de façon robuste et objective les actions mises en oeuvre.
 
-### L'équipe Sciences Po 
+### L'équipe Sciences Po
 
 -   [Maxime Forest](https://www.sciencespo.fr/programme-presage/fr/content/maxime-forest-cevipof-ofce.html), OFCE Sciences Po, évaluateur principal
 
@@ -23,7 +23,7 @@ Au sein de SUPERA, Sciences Po conduit une évaluation impartiale et bienveillan
 
 [![](images/paste-627E9E3F.png){fig-align="center" width="424"}](https://www.superaproject.eu/)
 
-### Description 
+### Description
 
 The way **scientific knowledge** is designed, developed and transformed into useful results for society continues to be influenced by the gender inequalities that affect our society as a whole. Gender stereotypes may for instance set a wrong context for analysis, and the male/man gender is too often used as a default mode. When research methods don't take into due consideration the variables connected to gender, scientific results are impoverished, and a lot of opportunities are missed. The research and higher education sector has peculiarities that require specific actions to overcome this situation, which we have called "**gender gap**".
 

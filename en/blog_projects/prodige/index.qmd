@@ -3,7 +3,7 @@ title: "PRODIGE"
 description: "Projet de Recherche sur les Orchestres, les DIscriminations et le GEnre"
 date: 01-01-2023
 
-categories: [Research] # self-defined categories
+categories: [Research projects] # self-defined categories
 
 image: photo.jpg
 draft: false 
@@ -13,7 +13,7 @@ The PRODIGE research project, *Research Project on Orchestras, Discrimination an
 
 In 2014-2015, a first project on the same topic was supported by ARDIS the *Région Ile-de-France*.
 
-This research echoes to the famous paper by Claudia Goldin and Cecilia Rouse["Orchestrating Impartiality: The Impact of "Blind" Auditions on Female Musicians", *American Economic Review,* Vol. 90, n°4, pp.715-741, 2000.](https://www.aeaweb.org/articles?id=10.1257/aer.90.4.715)
+This research echoes to the famous paper by Claudia Goldin and Cecilia Rouse["Orchestrating Impartiality: The Impact of"Blind" Auditions on Female Musicians", *American Economic Review,* Vol. 90, n°4, pp.715-741, 2000.](https://www.aeaweb.org/articles?id=10.1257/aer.90.4.715)
 
 ### ARDIS 2015
 

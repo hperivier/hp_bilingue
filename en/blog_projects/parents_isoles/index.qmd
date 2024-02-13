@@ -3,7 +3,7 @@ title: "Single parents families"
 description: "Socio-economic situation of single mothers"
 date: 01-01-2023
 
-categories: [Research] 
+categories: [Research projects] 
 
 lang: fr
 

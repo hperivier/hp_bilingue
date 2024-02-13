@@ -3,7 +3,7 @@ title: "EGALE"
 description: "Etude sur le Genre et Analyse  Longitudinale des Entrées à l'ENA"
 date: 01-01-2023
 
-categories: [Projet de recherche]
+categories: [Projets de recherche]
 
 lang: fr
 

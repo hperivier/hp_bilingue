@@ -3,7 +3,7 @@ title: "EGALE"
 description: "Gender inequality in higher education : the case of the competitive examination of the French National School of Administration "
 date: 01-01-2023
 
-categories: [Research] 
+categories: [Research projects] 
 
 image: ena.jfif
 draft: false 

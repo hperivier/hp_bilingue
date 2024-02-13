@@ -3,7 +3,7 @@ title: "PRODIGE"
 description: "Projet de Recherche sur les Orchestres, les DIscriminations et le GEnre"
 date: 01-01-2023
 
-categories: [Projet de recherche] # self-defined categories
+categories: [Projets de recherche] # self-defined categories
 
 lang: fr
 
@@ -15,9 +15,9 @@ PRODIGE (*Projet de Recherche sur les Orchestres, les discriminations et le Genr
 
 Il s'agit de mesurer les biais à l'oeuvre durant les procédures de recrutements et d'évaluer l'efficacité des auditions à l'aveugle pour lutter contre le discriminations. Cette anayse est appliquée au cas du recrutement des musiciens et musiciennes dans les orchestres permanents en France.
 
-Cette recherche fait écho au célèbre article de Claudia Goldin et Cecilia Rouse -\> ["Orchestrating Impartiality: The Impact of "Blind" Auditions on Female Musicians", *American Economic Review,* Vol. 90, n°4, pp.715-741, 2000.](https://www.aeaweb.org/articles?id=10.1257/aer.90.4.715)
+Cette recherche fait écho au célèbre article de Claudia Goldin et Cecilia Rouse -\> ["Orchestrating Impartiality: The Impact of"Blind" Auditions on Female Musicians", *American Economic Review,* Vol. 90, n°4, pp.715-741, 2000.](https://www.aeaweb.org/articles?id=10.1257/aer.90.4.715)
 
-En 2014-2015, un projet de recherche exploratoire avait reçu le soutien de l'ARDIS, dans le cadre du Domaine d\'intérêt majeur « Genre, inégalités, discriminations », de la Région Ile-de-France, via l'ARDIS.
+En 2014-2015, un projet de recherche exploratoire avait reçu le soutien de l'ARDIS, dans le cadre du Domaine d'intérêt majeur « Genre, inégalités, discriminations », de la Région Ile-de-France, via l'ARDIS.
 
 ### ARDIS 2015
 
@@ -35,7 +35,7 @@ En 2014-2015, un projet de recherche exploratoire avait reçu le soutien de l'AR
 
 Les auditions « à l'aveugle » sont-elles possibles de bout en bout des procédures de recrutements des musicien-ne-s dans les orchestres professionnels ? Le « paravent » est-il un outil de lutte contre les discriminations sociales, sexuées ou ethniques, et son utilisation a-t-elle permis de diversifier les profils des personnes recrutées? L'aide au financement de la recherche par l'ARDIS, financée par la Région Île-de-France dans le cadre du Domaine d'intérêt majeur « Genre, inégalités, discriminations », a permis de mener une recherche exploratoire sur ce thème. Celle-ci combine approches sociologique et économique des discriminations, elle vise à montrer l'impact de l'instauration de procédures « à l'aveugle » lors des recrutements des musicien-ne-s dans les orchestres et à décrypter les discours et perceptions autour de la mobilisation éventuelle du « paravent ». Une base de données a été construite à partir des informations collectées auprès de cinq orchestres permanents d'Île-de-France participant à l'étude de décembre 2013 à septembre 2014 : l'Ensemble intercontemporain, l'Orchestre de chambre de Paris, l'Orchestre national d'Île-de-France, l'Orchestre national de France et l'Orchestre philharmonique de Radio France. Nous remercions les équipes de ces orchestres qui nous ont aidées à réaliser ce travail. La base de données a permis de conduire une analyse statistique exploratoire à partir d'une série de concours de recrutement entre 2000 et 2014. L'analyse qualitative s'appuie sur des données de type ethnographique et des données issues d'entretiens menés avec des responsables et des administratifs des orchestres. Les résultats de cette recherche au croisement entre les travaux sur les musicien-ne-s professionnel-le-s et sur les procédures d'embauche antidiscriminatoires sont diposnibles dans le rapport suivant -\> [*Écouter sans voir: L'impact du paravent sur le recrutement des musicien-ne-s des orchestres de Paris et d'Île-de-France*, Janvier 2015, Recherche réalisée avec le soutien de ARDIS, Alliance sur les Recherche sur les Discriminations, Région Île-de-France](ardis.pdf)
 
-### PRODIGE 
+### PRODIGE
 
 #### Equipe de recherche
 
@@ -51,26 +51,15 @@ Les auditions « à l'aveugle » sont-elles possibles de bout en bout des procé
 
 #### Résumé
 
-Cette recherche se situe au croisement de plusieurs questionnements puisqu\'il s\'agit de mesurer les
-discriminations dans des procédures de sélection et d\'embauche, d\'évaluer les effets voulus et non voulus des recrutements à l\'aveugle et d\'analyser la construction des inégalités de sexe dans le secteur de l\'interprétation musicale. Elle s\'appuie sur deux axes : l\'un quantitatif portant sur la
-mesure de la discrimination et l\'analyse de l\'effet de la procédure de recrutement sur le profil des personnes recrutées et des personnes candidates, et l\'autre portant sur une approche qualitative des procédures de recrutement dans les orchestres, sur les aspects socio-historiques du mode
-de recrutement dans les orchestres et sur l\'égalité professionnelle au sein des orchestres. Quatre sources de données seront constituées : une base de données individuelles issues des concours ; une base de données historiques sur la féminisation des orchestres ; une base de données sur
-la composition des jurys et sur les différentes procédures de concours ; et enfin une source de données qualitatives réalisée à partir d\'archives et d\'entretiens. Le projet est porté par deux équipes permettant de couvrir les compétences nécessaires pour mener à bien le projet : compétences  en
-musicologie et sociologie de la musique, en études de genre, en statistiques et sur l\'analyse des discriminations.
+Cette recherche se situe au croisement de plusieurs questionnements puisqu'il s'agit de mesurer les discriminations dans des procédures de sélection et d'embauche, d'évaluer les effets voulus et non voulus des recrutements à l'aveugle et d'analyser la construction des inégalités de sexe dans le secteur de l'interprétation musicale. Elle s'appuie sur deux axes : l'un quantitatif portant sur la mesure de la discrimination et l'analyse de l'effet de la procédure de recrutement sur le profil des personnes recrutées et des personnes candidates, et l'autre portant sur une approche qualitative des procédures de recrutement dans les orchestres, sur les aspects socio-historiques du mode de recrutement dans les orchestres et sur l'égalité professionnelle au sein des orchestres. Quatre sources de données seront constituées : une base de données individuelles issues des concours ; une base de données historiques sur la féminisation des orchestres ; une base de données sur la composition des jurys et sur les différentes procédures de concours ; et enfin une source de données qualitatives réalisée à partir d'archives et d'entretiens. Le projet est porté par deux équipes permettant de couvrir les compétences nécessaires pour mener à bien le projet : compétences  en musicologie et sociologie de la musique, en études de genre, en statistiques et sur l'analyse des discriminations.
 
 #### La base donnée Ardige (ARDIS + PRODIGE)
 
-Grâce au soutien des 13 orchestres partenaires, nous disposons d\'une base de données exceptionnelle et unique pour analyser l\'évolution des recrutements des musiciennes et musiciens. La base de données CONCOURS comprend 325 concours complets, pour lesquels nous observons 10 200 candidatures de 5 900 individus. Les personnes candidatent en moyenne 1.7 fois. Ces concours s\'échelonnent de 2001 à 2021, ce qui nous donne la possibilité de constater les évolutions sur 20 années de concours.
+Grâce au soutien des 13 orchestres partenaires, nous disposons d'une base de données exceptionnelle et unique pour analyser l'évolution des recrutements des musiciennes et musiciens. La base de données CONCOURS comprend 325 concours complets, pour lesquels nous observons 10 200 candidatures de 5 900 individus. Les personnes candidatent en moyenne 1.7 fois. Ces concours s'échelonnent de 2001 à 2021, ce qui nous donne la possibilité de constater les évolutions sur 20 années de concours.
 
-Les données portent sur la plupart des instruments de l\'orchestre (par nombre décroissant de
-concours : violon, alto, contrebasse, violoncelle, hautbois, cors, trompette, clarinettes, bassons, flûtes,
-trombone, percussions, timbales, piano, tuba, harpe). 60% des concours concernent les cordes, 34% des instruments à vent, 6% des percussions et claviers. La plupart des concours s\'adressent à des
-violonistes avec 82 concours observés (soit un quart des concours observés), suivis des altistes avec 47
-concours (14%), puis des contrebassistes avec 36 concours (soit 11%). 66% des concours concernent des postes de solistes (215 concours), 32% des postes de tuttistes (105 concours) et 2% des concours, soit 5 concours, sont des concours ouverts à la fois pour des postes de tuttistes et des postes de solistes.
+Les données portent sur la plupart des instruments de l'orchestre (par nombre décroissant de concours : violon, alto, contrebasse, violoncelle, hautbois, cors, trompette, clarinettes, bassons, flûtes, trombone, percussions, timbales, piano, tuba, harpe). 60% des concours concernent les cordes, 34% des instruments à vent, 6% des percussions et claviers. La plupart des concours s'adressent à des violonistes avec 82 concours observés (soit un quart des concours observés), suivis des altistes avec 47 concours (14%), puis des contrebassistes avec 36 concours (soit 11%). 66% des concours concernent des postes de solistes (215 concours), 32% des postes de tuttistes (105 concours) et 2% des concours, soit 5 concours, sont des concours ouverts à la fois pour des postes de tuttistes et des postes de solistes.
 
-On observe 47% de candidatures de femmes. Elles sont particulièrement représentées parmi les
-flûtistes (73%), altistes (65%) et les violonistes (63%), alors que les hommes sont plus nombreux parmi
-les trombonistes (95%), les tubistes (93%) et les cornistes (86%). Sur les 325 concours observés, certains n\'aboutissent pas à un recrutement, quand d\'autres conduisent au recrutement de plusieurs personnes. Au total, 285 personnes ont été recrutées, dont 44% de femmes.
+On observe 47% de candidatures de femmes. Elles sont particulièrement représentées parmi les flûtistes (73%), altistes (65%) et les violonistes (63%), alors que les hommes sont plus nombreux parmi les trombonistes (95%), les tubistes (93%) et les cornistes (86%). Sur les 325 concours observés, certains n'aboutissent pas à un recrutement, quand d'autres conduisent au recrutement de plusieurs personnes. Au total, 285 personnes ont été recrutées, dont 44% de femmes.
 
 à suivre ...
 

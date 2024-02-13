@@ -1,9 +1,9 @@
 ---
 title: "Les communs au prisme du genre"
 description: "Analyse bibliométrique de la littérature croisant genre et communs"
-date: 01-12-2022
+date: 01-12-2021
 
-categories: [Projet de recherche] # self-defined categories
+categories: [Projets de recherche] # self-defined categories
 
 lang: fr
 image: communs2.jfif
@@ -12,7 +12,9 @@ draft: false
 
 Recherche réalisée pour l'Agence Française de Développement (AFD)
 
-Une première version du rapport est disponible ici -\>[*Analyse bibliométrique de la littérature croisant genre et communs*](Rapport_AFD_2022.pdf)
+Le rapport -\>[*Analyse bibliométrique de la littérature croisant genre et communs*](#0)
+
+Le document de travail OFCE -\> ["Gendering the Commons or Commoning gender studies? A Bibliometric analysis](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-09.pdf)", *Sciences Po OFCE Working Paper* n°09/2023.
 
 ### Résumé
 

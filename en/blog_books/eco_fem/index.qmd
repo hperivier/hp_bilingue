@@ -16,11 +16,13 @@ Economics was conceived by men, to be at the service of a society led by men. It
 
 ### **Published in Brazil**
 
-![![](https://hperivier.github.io/hp_bilingue/images/EF_bresil.jpg){width="150"}](){fig-align="center"}
+![](/images/EF_bresil.jpg){fig-align="center" width="150"}
 
 ### Lectures & conferences
 
 Podcast Genre etc. [Faire de la recherche en féministe](https://smartlink.ausha.co/sciencespo-presage-genre-etc/focus-faire-de-la-recherche-en-feministe), a discussion with Geneviève Fraisse, (Septembre 2023).
+
+Many thanks to the team of the [Augustin Cournot Doctoral Days](https://acdd.sciencesconf.org/) for having inviting me May the 4th (be with you) 2023 at Strasbourg to present *L'économie féministe*.
 
 Discussion organized by [Bazar do Tempo](#0){style="font-size: 11pt;"} with the political scientist Débora Thomé on the reception of *A Economia Feminista* in Brazil, the event is available [ici](#0). (16th March 2023).
 
@@ -28,9 +30,9 @@ Discussion organized by [Bazar do Tempo](#0){style="font-size: 11pt;"} with the 
 
 [Les débats de l'égalité, Worl Equality Lab, PSE, L'économie féministe](http://prod.inequalitylab.world/fr/event/leconomie-feministe-15-decembre-2020/) (December 15, 2022)
 
-[Discussion with the political scientist Débora Thomé, *A Economia Feminista* in Brazil](https://www.youtube.com/watch?v=XfWymYwPUMU) (March 16, 2023)
-
 ### Press coverage
+
+***Valor Econômico** -\>* Interview in [*Valor Econômico* on my book *L'économie féministe*](pdf/valor.pdf) by the journalist Laura Greenhalgh
 
 **France Culture** \| [la théorie économique et le féminisme](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/science-genree-science-biaisee-5874064 "la théorie économique et le féminisme - nouvelle fenêtre") (May 2022)
 
