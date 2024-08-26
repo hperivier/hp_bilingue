@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="../fr" xml:lang="../fr"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.358">
+<meta name="generator" content="quarto-1.6.6">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -47,7 +47,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     "f",
     "/",
@@ -62,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -97,8 +98,35 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -106,10 +134,10 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -155,7 +183,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -192,202 +220,185 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-left" data-index="0" data-categories="books" data-listing-date-sort="1603317600000" data-listing-file-modified-sort="1698646199261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="393">
+<div class="quarto-post image-left" data-index="0" data-categories="books" data-listing-date-sort="1603317600000" data-listing-file-modified-sort="1724674251184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="393">
 <div class="thumbnail">
-<p><a href="../en/blog_books/eco_fem/index.html"></a></p><a href="../en/blog_books/eco_fem/index.html">
-<p><img src="../en/blog_books/eco_fem/livre.jpeg" class="thumbnail-image"></p>
-</a><p><a href="../en/blog_books/eco_fem/index.html"></a></p>
+<p><a href="../en/blog_books/eco_fem/index.html" class="no-external"></a></p><a href="../en/blog_books/eco_fem/index.html" class="no-external">
+<p><img loading="lazy" src="../en/blog_books/eco_fem/livre.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../en/blog_books/eco_fem/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<p><a href="../en/blog_books/eco_fem/index.html"></a></p><a href="../en/blog_books/eco_fem/index.html">
 <h3 class="no-anchor listing-title">
+<a href="../en/blog_books/eco_fem/index.html" class="no-external"></a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="../en/blog_books/eco_fem/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('books'); return false;">
 books
 </div>
 </div>
-<p><a href="../en/blog_books/eco_fem/index.html"></a></p><a href="../en/blog_books/eco_fem/index.html">
 <div class="listing-description">
-<p>L’économie féministe. Pourquoi l’économie a besoin du féminisme et vice versa, Presses de Sciences Po, 2020. ISBN: 139782724626759</p>
+<a href="../en/blog_books/eco_fem/index.html" class="no-external">L’économie féministe. Pourquoi l’économie a besoin du féminisme et vice versa, Presses de Sciences Po, 2020. ISBN: 139782724626759</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="../en/blog_books/eco_fem/index.html">
+<a href="../en/blog_books/eco_fem/index.html" class="no-external">
 <div class="listing-date">
-Oct 22, 2020
+22 oct. 2020
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="1" data-categories="books" data-listing-date-sort="1415919600000" data-listing-file-modified-sort="1698181131782" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="169">
+<div class="quarto-post image-left" data-index="1" data-categories="books" data-listing-date-sort="1415919600000" data-listing-file-modified-sort="1724674251185" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="169">
 <div class="thumbnail">
-<p><a href="../en/blog_books/pro_soc/index.html"></a></p><a href="../en/blog_books/pro_soc/index.html">
-<p><img src="../en/blog_books/pro_soc/livre.jpg" class="thumbnail-image"></p>
-</a><p><a href="../en/blog_books/pro_soc/index.html"></a></p>
+<p><a href="../en/blog_books/pro_soc/index.html" class="no-external"></a></p><a href="../en/blog_books/pro_soc/index.html" class="no-external">
+<p><img loading="lazy" src="../en/blog_books/pro_soc/livre.jpg" class="thumbnail-image"></p>
+</a><p><a href="../en/blog_books/pro_soc/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<p><a href="../en/blog_books/pro_soc/index.html"></a></p><a href="../en/blog_books/pro_soc/index.html">
 <h3 class="no-anchor listing-title">
+<a href="../en/blog_books/pro_soc/index.html" class="no-external"></a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="../en/blog_books/pro_soc/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('books'); return false;">
 books
 </div>
 </div>
-<p><a href="../en/blog_books/pro_soc/index.html"></a></p><a href="../en/blog_books/pro_soc/index.html">
 <div class="listing-description">
-<p>Refonder le système de protection sociale. Pour une nouvelle génération de droits sociaux,, Presses de Sciences Po, with Bernard Gazier and Bruno Palier, 2014.ISBN: 139782724616255</p>
+<a href="../en/blog_books/pro_soc/index.html" class="no-external">Refonder le système de protection sociale. Pour une nouvelle génération de droits sociaux,, Presses de Sciences Po, with Bernard Gazier and Bruno Palier, 2014.ISBN: 139782724616255</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="../en/blog_books/pro_soc/index.html">
+<a href="../en/blog_books/pro_soc/index.html" class="no-external">
 <div class="listing-date">
-Nov 14, 2014
+14 nov. 2014
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="2" data-categories="special issue" data-listing-date-sort="1388530800000" data-listing-file-modified-sort="1698181131764" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="201">
+<div class="quarto-post image-left" data-index="2" data-categories="special issue" data-listing-date-sort="1388530800000" data-listing-file-modified-sort="1724674251180" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="201">
 <div class="thumbnail">
-<p><a href="../en/blog_books/crisis/index.html"></a></p><a href="../en/blog_books/crisis/index.html">
-<p><img src="../en/blog_books/crisis/livre.jpg" class="thumbnail-image"></p>
-</a><p><a href="../en/blog_books/crisis/index.html"></a></p>
+<p><a href="../en/blog_books/crisis/index.html" class="no-external"></a></p><a href="../en/blog_books/crisis/index.html" class="no-external">
+<p><img loading="lazy" src="../en/blog_books/crisis/livre.jpg" class="thumbnail-image"></p>
+</a><p><a href="../en/blog_books/crisis/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<p><a href="../en/blog_books/crisis/index.html"></a></p><a href="../en/blog_books/crisis/index.html">
 <h3 class="no-anchor listing-title">
+<a href="../en/blog_books/crisis/index.html" class="no-external"></a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="../en/blog_books/crisis/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('special issue'); return false;">
 special issue
 </div>
 </div>
-<p><a href="../en/blog_books/crisis/index.html"></a></p><a href="../en/blog_books/crisis/index.html">
 <div class="listing-description">
-<p>European labour markets in time of crisis: A gender perspective, Revue de l’OFCE, n°133, co-edited with Antoine Math and Anne Eydoux. ISBN: 978-2-312-00836-3</p>
+<a href="../en/blog_books/crisis/index.html" class="no-external">European labour markets in time of crisis: A gender perspective, Revue de l’OFCE, n°133, co-edited with Antoine Math and Anne Eydoux. ISBN: 978-2-312-00836-3</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="../en/blog_books/crisis/index.html">
+<a href="../en/blog_books/crisis/index.html" class="no-external">
 <div class="listing-date">
-Jan 1, 2014
+1 janv. 2014
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="3" data-categories="books" data-listing-date-sort="1309471200000" data-listing-file-modified-sort="1698181131767" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="180">
+<div class="quarto-post image-left" data-index="3" data-categories="books" data-listing-date-sort="1309471200000" data-listing-file-modified-sort="1724674251180" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="180">
 <div class="thumbnail">
-<p><a href="../en/blog_books/discriminations/index.html"></a></p><a href="../en/blog_books/discriminations/index.html">
-<p><img src="../en/blog_books/discriminations/livre.jpg" class="thumbnail-image"></p>
-</a><p><a href="../en/blog_books/discriminations/index.html"></a></p>
+<p><a href="../en/blog_books/discriminations/index.html" class="no-external"></a></p><a href="../en/blog_books/discriminations/index.html" class="no-external">
+<p><img loading="lazy" src="../en/blog_books/discriminations/livre.jpg" class="thumbnail-image"></p>
+</a><p><a href="../en/blog_books/discriminations/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<p><a href="../en/blog_books/discriminations/index.html"></a></p><a href="../en/blog_books/discriminations/index.html">
 <h3 class="no-anchor listing-title">
+<a href="../en/blog_books/discriminations/index.html" class="no-external"></a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="../en/blog_books/discriminations/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('books'); return false;">
 books
 </div>
 </div>
-<p><a href="../en/blog_books/discriminations/index.html"></a></p><a href="../en/blog_books/discriminations/index.html">
 <div class="listing-description">
-<p>Les discriminations entre les femmes et les hommes, Presses de Sciences Po, 2011. ISBN: 9782724612011</p>
+<a href="../en/blog_books/discriminations/index.html" class="no-external">Les discriminations entre les femmes et les hommes, Presses de Sciences Po, 2011. ISBN: 9782724612011</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="../en/blog_books/discriminations/index.html">
+<a href="../en/blog_books/discriminations/index.html" class="no-external">
 <div class="listing-date">
-Jul 1, 2011
+1 juil. 2011
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="4" data-categories="books" data-listing-date-sort="1167606000000" data-listing-file-modified-sort="1698181131765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
+<div class="quarto-post image-left" data-index="4" data-categories="books" data-listing-date-sort="1167606000000" data-listing-file-modified-sort="1724674251180" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
 <div class="thumbnail">
-<p><a href="../en/blog_books/deux_age/index.html"></a></p><a href="../en/blog_books/deux_age/index.html">
-<p><img src="../en/blog_books/deux_age/livre2.jpg" class="thumbnail-image"></p>
-</a><p><a href="../en/blog_books/deux_age/index.html"></a></p>
+<p><a href="../en/blog_books/deux_age/index.html" class="no-external"></a></p><a href="../en/blog_books/deux_age/index.html" class="no-external">
+<p><img loading="lazy" src="../en/blog_books/deux_age/livre2.jpg" class="thumbnail-image"></p>
+</a><p><a href="../en/blog_books/deux_age/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<p><a href="../en/blog_books/deux_age/index.html"></a></p><a href="../en/blog_books/deux_age/index.html">
 <h3 class="no-anchor listing-title">
+<a href="../en/blog_books/deux_age/index.html" class="no-external"></a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="../en/blog_books/deux_age/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('books'); return false;">
 books
 </div>
 </div>
-<p><a href="../en/blog_books/deux_age/index.html"></a></p><a href="../en/blog_books/deux_age/index.html">
 <div class="listing-description">
-<p>Le deuxième âge de l’émancipation. La société, les femmes et l’emploi, La République des Idées, Seuil, with Dominique Méda, 2007. ISBN:2020917629</p>
+<a href="../en/blog_books/deux_age/index.html" class="no-external">Le deuxième âge de l’émancipation. La société, les femmes et l’emploi, La République des Idées, Seuil, with Dominique Méda, 2007. ISBN:2020917629</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="../en/blog_books/deux_age/index.html">
+<a href="../en/blog_books/deux_age/index.html" class="no-external">
 <div class="listing-date">
-Jan 1, 2007
+1 janv. 2007
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="5" data-categories="special issue" data-listing-date-sort="1088632800000" data-listing-file-modified-sort="1698181131779" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="192">
+<div class="quarto-post image-left" data-index="5" data-categories="special issue" data-listing-date-sort="1088632800000" data-listing-file-modified-sort="1724674251184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="192">
 <div class="thumbnail">
-<p><a href="../en/blog_books/inegalités/index.html"></a></p><a href="../en/blog_books/inegalités/index.html">
-<p><img src="../en/blog_books/inegalités/livre.jpg" class="thumbnail-image"></p>
-</a><p><a href="../en/blog_books/inegalités/index.html"></a></p>
+<p><a href="../en/blog_books/inegalités/index.html" class="no-external"></a></p><a href="../en/blog_books/inegalités/index.html" class="no-external">
+<p><img loading="lazy" src="../en/blog_books/inegalités/livre.jpg" class="thumbnail-image"></p>
+</a><p><a href="../en/blog_books/inegalités/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<p><a href="../en/blog_books/inegalités/index.html"></a></p><a href="../en/blog_books/inegalités/index.html">
 <h3 class="no-anchor listing-title">
+<a href="../en/blog_books/inegalités/index.html" class="no-external"></a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="../en/blog_books/inegalités/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('special issue'); return false;">
 special issue
 </div>
 </div>
-<p><a href="../en/blog_books/inegalités/index.html"></a></p><a href="../en/blog_books/inegalités/index.html">
 <div class="listing-description">
-<p>Travail des femmes et inégalités, Revue de l’OFCE n°90, 2004, co-edited with Françoise Milewski</p>
+<a href="../en/blog_books/inegalités/index.html" class="no-external">Travail des femmes et inégalités, Revue de l’OFCE n°90, 2004, co-edited with Françoise Milewski </a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="../en/blog_books/inegalités/index.html">
+<a href="../en/blog_books/inegalités/index.html" class="no-external">
 <div class="listing-date">
-Jul 1, 2004
+1 juil. 2004
 </div>
 </a>
 </div>
@@ -432,18 +443,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -475,7 +475,47 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/hperivier\.github\.io\/hp_bilingue\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -510,7 +550,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -525,15 +569,28 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    if (id.startsWith('sec-')) {
+    if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
         }
         return container.innerHTML
       } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -542,7 +599,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
-      return note.innerHTML;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
@@ -584,6 +649,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
       }
     }, function(instance) {
     });
@@ -659,7 +747,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     window.addEventListener(
       "resize",
       throttle(() => {
-        console.log("RESIZE");
         elRect = undefined;
         if (selectedAnnoteEl) {
           selectCodeLines(selectedAnnoteEl);
