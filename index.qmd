@@ -1,34 +1,38 @@
 ---
-title: "Hélène Périvier"
-subtitle: "OFCE Sciences Po <br> 10 place de Catalogne 75014 Paris <br> {{< fa phone >}} +33 1 44 18 54 92"
-project:
-  type: website
+    title: "Hélène Périvier"
+    subtitle: "OFCE Sciences Po<br>10 place de Catalogne 75014 Paris <br> {{< fa phone >}} +33 1 44 18 54 92"
+    project:
+      type: website
 
-  navbar:
-    background: secondary
-    search: true
-    left:
-      - text: "Home"
-        file: index.qmd
-  
-about:
-  template: trestles
-  image: HP50_1.jpg
-  image-width: 10em
-  image-shape: rounded
-  links:
-    - icon: email
-      text: email
-      href: mailto:helene.perivier@sciencespo.fr
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/HelenePerivier
-    - icon: github
-      text: Github
-      href: https://github.com/hperivier
+      navbar:
+        background: secondary
+        search: true
+        left:
+          - text: "Home"
+            file: index.qmd
+      
+    about:
+      template: trestles
+      image: HP50_1.jpg
+      image-width: 10em
+      image-shape: rounded
+      links:
+        - icon: envelope
+          text: Email
+          href: mailto:helene.perivier@sciencespo.fr
+        - icon: github
+          text: Github
+          href: https://github.com/hperivier
+        - icon: twitter
+          text: twitter
+          href: https://twitter.com/HelenePerivier
+        - icon: linkedin 
+          text: LinkedIn
+          href: https://linkedin.com/in/heleneperivier
 
-lang: fr
-editor: visual
+
+    lang: fr
+    editor: visual
 ---
 
 Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php) [Sciences Po](https://www.sciencespo.fr/fr/).
@@ -39,12 +43,17 @@ Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo
 
 ### Vient de sortir
 
--   Nouvelle version -\>["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique: L'effet croisé du genre et de l'origine soc](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-14.pdf)[iale"](pdf/Article-ENA_2023_WP.pdf), *Working Paper OFCE* n° 14/2023, avec Maxime Parodi et Fabrice Larat, 2023.
--   ["Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France",](https://journals.sagepub.com/doi/10.1177/00197939231201570) avec Grégory Verdugo, *Industrial & Labor Relations Review*, septembre 2023, version working paper -\> [ici](#0)
+-   ["Crossing Gender Studies With the Commons: A Bibliometric Analysis"](https://thecommonsjournal.org/articles/10.5334/ijc.1341), *The International Journal of the Commons*, Vol. 18, n°1, 2024. doi: 10.5334/ijc.1341
+
+-   ["Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/perivier_verdugo_2024.pdf), avec Grégory Verdugo, *Industrial & Labor Relations Review*, Vol. 77(1), 2024. doi: 10.1177/00197939231201570
+
+    -\> ["Parental Leave: Where are the fathers?"](https://wol.iza.org/opinions/where-are-the-fathers), avec Grégory Verdugo, IZA World of Labor, August 2023
+
+-   Nouvelle version mai 2024 -\>["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique: L'effet croisé du genre et de l'origine sociale"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-14.pdf), *Working Paper OFCE* n° 14/2023, avec Maxime Parodi et Fabrice Larat.
 
 ### Dans les médias
 
--   France Inter, *Le téléphone sonne* -\> [Pourquoi la France fait-elle moins de bébés?](https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-18-20-le-telephone-sonne-du-vendredi-27-octobre-2023-2211597), (27 octobre 2023).
+-   France Inter, *Le téléphone sonne* -\> ["Quelles priorités pour les familles monoparentales?"](https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-18-20-le-telephone-sonne-du-vendredi-07-juin-2024-1339206), (7 juin 2024).
 
 -   [Un Nobel à soi: Claudia Goldin ou l'économie féministe](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/un-nobel-a-soi-claudia-goldin-ou-l-economie-feministe-4727328) , *Entendez-vous l'éco?,* France Culture, (octobre 2023).
 

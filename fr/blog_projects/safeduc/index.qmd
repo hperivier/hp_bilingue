@@ -1,0 +1,36 @@
+---
+title: "SAFEDUC"
+description: "Mesurer les VSS au sein de la population étudiante"
+date: 06-01-2024
+
+categories: [Projets de recherche]
+
+lang: fr
+
+image: university.jpg
+draft: false 
+---
+
+SAFEDUC met la recherche au service de la lutte contre les violences sexistes et sexuelles (VSS) dans l'enseignement supérieur et la recherche en produisant des connaissances sur l’ampleur et la diversité de ces phénomènes au sein de la population étudiante. Les VSS font depuis une dizaine d’années l’objet d’une attention particulière dans le débat public. Leur visibilité publique tient pour beaucoup au succès de campagnes de témoignages largement diffusées en ligne, à l’image de #MeToo et #BalanceTonPorc. En parallèle de ces campagnes, des initiatives étudiantes et scientifiques se sont multipliées pour visibiliser ces violences dans l’enseignement supérieur. Ces initiatives ont notamment montré que ces violences touchent majoritairement les étudiantes et les minorités de genre, qu’elles dégradent leurs conditions d’apprentissage, leurs sociabilités, et qu’elles sont, par prolongement, susceptibles de nuire à leurs trajectoires professionnelles.
+
+SAFEDUC est un projet de recherche piloté par le [Programme d’études sur le genre de Sciences Po](https://www.sciencespo.fr/gender-studies/fr/) dans le cadre du partenariat entre Université Paris Cité et Sciences Po, et s’appuie sur une dotation accordée au titre de l’[Initiative d’Excellence Université Paris 2019 (IdEx UP19)](https://u-paris.fr/idex-universite-paris/). Il s’agit de construire un protocole d’enquête reproductible permettant de mesurer les VSS en tenant compte de la multiplicité des formes que prennent ces violences, ainsi que des contextes dans lesquels elles émergent. Ce projet permet de saisir plus finement le contexte de survenue des violences à l’échelle de chaque université et de chaque campus. L’enquête actualise les recherches existantes.
+
+L'équipe a construit un questionnaire d'enquête adapté à la population étudiante. Du 25 mars au 19 mai 2024, l’ensemble des étudiantes et étudiants d’Université Paris Cité et de Sciences Po, doctorantes et doctorants inclus, ont pu répondre de manière anonyme à ce questionnaire en ligne. Les résultats sont en cours de traitement par l'équipe. Le projet a été suivi avec attention par les DPO des deux institutions partenaires ainsi que par leur sservices juridiques. Il a reçu un [avis favorable du comité éthique de l'Inserm.](inserm_fr.pdf)
+
+à suivre pour les résultats...
+
+-\> [Présentation de l'enquête](safeduc.pdf)
+
+## L'équipe de recherche
+
+-   Coutolleau Victor, sociologue, OFCE-CRIS, PRESAGE Sciences Po.
+
+-   Le Gallic-Ach Clara, assistante de recherche, doctorante en sociologie, OFCE-CRIS, PRESAGE, Sciences Po
+
+-   Périvier Hélène, économiste, OFCE, Sciences Po, PRESAGE.
+
+-   Bonnot Virginie, professeure des universités, Laboratoire de Psychologie Sociale, Université Paris Cité.
+
+-   Dominguez-Folgueras Marta, Associate professor, Sociologie, Centre de Recherche sur les Inégalités Sociales (CRIS) Sciences Po.
+
+-   Kivits Joëlle, professeure des universités en sociologie et en santé publique, titulaire de la Chaire « Genre et Prévention en santé », Université Paris Cité.
