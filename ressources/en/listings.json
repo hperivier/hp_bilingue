@@ -1,13 +1,17 @@
 [
   {
-    "listing": "/blog_books.html",
+    "listing": "/blog_projects.html",
     "items": [
-      "/blog_books/eco_fem/index.html",
-      "/blog_books/pro_soc/index.html",
-      "/blog_books/crisis/index.html",
-      "/blog_books/discriminations/index.html",
-      "/blog_books/deux_age/index.html",
-      "/blog_books/inegalités/index.html"
+      "/blog_projects/safeduc/index.html",
+      "/blog_projects/WonW/index.html",
+      "/blog_projects/egale/index.html",
+      "/blog_projects/prodige/index.html",
+      "/blog_projects/parents_isoles/index.html",
+      "/blog_projects/commons/index.html",
+      "/blog_projects/reset/index.html",
+      "/blog_projects/supera/index.html",
+      "/blog_projects/egera/index.html",
+      "/blog_projects/mocho/index.html"
     ]
   },
   {
@@ -20,17 +24,14 @@
     ]
   },
   {
-    "listing": "/blog_projects.html",
+    "listing": "/blog_books.html",
     "items": [
-      "/blog_projects/safeduc/index.html",
-      "/blog_projects/egale/index.html",
-      "/blog_projects/prodige/index.html",
-      "/blog_projects/parents_isoles/index.html",
-      "/blog_projects/commons/index.html",
-      "/blog_projects/reset/index.html",
-      "/blog_projects/supera/index.html",
-      "/blog_projects/egera/index.html",
-      "/blog_projects/mocho/index.html"
+      "/blog_books/eco_fem/index.html",
+      "/blog_books/pro_soc/index.html",
+      "/blog_books/crisis/index.html",
+      "/blog_books/discriminations/index.html",
+      "/blog_books/deux_age/index.html",
+      "/blog_books/inegalités/index.html"
     ]
   },
   {
