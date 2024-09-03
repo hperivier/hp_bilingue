@@ -31,6 +31,7 @@ website:
       - href: ressources/en
         text: EN
         icon: globe2
+    google-analytics: "UA-6203191024"
         
   page-footer: 
     left:
@@ -45,6 +46,7 @@ format:
       - lux
       - custom.scss
     toc: true
+  
     
 editor: visual
 

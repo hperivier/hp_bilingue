@@ -1,0 +1,78 @@
+---
+title: "WonW"
+description: "Addressing Socio-Economic Determinants of Abortion Access in Europe in light of the telemedicine revolution"
+date: 05-01-2024
+
+categories: [Projets de recherche]
+
+lang: fr
+
+image: photo.jpeg
+draft: false 
+---
+
+## Research on telemedicine abortion
+
+Abortion remains a deeply contentious issue across the globe, including in Europe. Recent changes around telemedicine abortion and self-managed abortion, however, challenge this paradigm and require new scientific inquiries. While debates often revolve around moral, legal, and medical considerations, there is a critical aspect that is often overlooked: the socio-economic determinants and outcomes of abortion access. Despite the European continent historically having more progressive abortion laws compared to other regions, research on abortion is often confined to a medico-legal paradigm.
+
+Telemedicine abortion, or self-managed abortion, has long been advocated and practiced by feminist groups and has only been adopted by several countries in the course and/or aftermath of the COVID-19 pandemic. Several countries, including the United States, France, the United Kingdom, and Ireland, have amended their laws and policies to allow women to manage their own abortions in the first quarter of pregnancy, following feminist practices, scientific evidence, and WHO recommendations on the issue. In a significant step toward the demedicalization of abortion, telemedicine abortion now holds the potential to bridge the gap in abortion access in Europe, while also altering the power dynamics involved in the abortion process and access. Research from the US demonstrates that abortion access contributes to women's empowerment and gender equality by contributing to increased educational attainment and female labor force participation.
+
+This project aims to address socio-economic determinants and outcomes of abortion access in Europe in light of the recent developments around telemedicine and self-managed abortions. The European context is not only diverse when it comes to abortion law and policy landscape, but also provides avenues for supranational analyses as countries are also mobilized at the European Union level for abortion rights and access. Moreover, European countries are among the few countries which embraced telemedicine abortion provision, whose impact is yet to be studied. This project builds on two other projects we undertook previously : 1) [Access to abortion and telemedicine abortion in france: a mixed-method study on why individuals resort to telemedical abortion over local abortion services in France](https://www.sciencespo.fr/liepp/en/content/access-abortion-and-telemedicine-abortion-france-mixed-method-study-why-individuals-resort-t.html) and 2) [Abortion in the european union: institutional sources of divergences and solidarities](https://www.sciencespo.fr/liepp/en/content/abortion-european-union-institutional-sources-divergences-and-solidarities.html) supported by the LIEPP. Our first collaboration resulted in [a publication](https://srh.bmj.com/content/47/4/285) in the *British Medical Journal* and has been a key reference (and the only study) about the telemedicine abortion reform in France. This resulted in an article, which received conditional acceptance from *Feminist Economics* journal. In an attempt to share our insights and research agenda, on 1 December 2023, we convened an international  symposium at Sciences Po entitled “[Navigating the Controversy: Reproductive Rights and Futures](https://www.sciencespo.fr/gender-studies/en/news/when-research-tackles-abortion-controversy/)”. The conference highllights can be found [here](https://www.sciencespo.fr/en/news/explore-highlights-from-the-sciences-po-symposium-on-reproductive-rights-in-europe/). This was a starting point for future collaborations with researchers from different fields.
+
+By providing a comprehensive understanding of abortion and telemedicine abortion that transcends the confines of a mere medico-legal framework, we aim to integrate abortion rights and access into broader discussions and policies on gender equality by elucidating the intricate interplay between abortion access, women's empowerment, and gender equality. This project advances several questions:
+
+Analyze the potential of telemedicine and self-managed abortion practices to mitigate barriers to access both within countries and at the European level
+
+-   How do socio-economic factors such as income level, education, and distance to healthcare services impact abortion access across various European countries?
+
+-   How the different telemedicine abortion models adopted in several European countries influence abortion access in country and at the European level?
+
+-   How does abortion access, particularly through telemedicine and self-managed practices, influence women's socio-economic outcomes, including empowerment and gender equality, across different European countries?
+
+We plan to focus on some case studies. These may include a range of countries, both progressive and less progressive countries in terms of abortion access, such as Hungary, Poland, France, and the Netherlands, following a "most different" approach. To this end, we have already established an agreement with an international telemedicine abortion provider service called [Women on Web](https://www.womenonweb.org/en/). Women on Web is one of the first telemedicine abortion services to be established in 2005 and operates in several countries, providing access to abortion care. Women on Web provide anonymized data for our research.
+
+## Team research
+
+-   Hazal Atay, LIEPP, PRESAGE, Sciences Po.
+
+-   Gabrielle Sagot, Insee, Département d'économie Sciences Po
+
+-   Héléne Périvier, OFCE, PRESAGE, Sciences Po.
+
+## **Related bibliography in economics**
+
+Ananat, Elizabeth, Jonathan Gruber, Phillip Levine, and Douglas Staigner. 2009. “Abortion and Selection.” *Review of Economics and Statistics* 91(1): 124–36.
+
+Coast, Ernestina, Samantha R. Lattof, Yana van der Meulen Rodgers, Brittany Moore, and Cheri Poss. 2021. “The Microeconomics of Abortion: A Scoping Review and Analysis of the Economic Consequences for Abortion Care-Seekers” ed. Hannah E Carter. *PLOS ONE* 16(6): e0252005. doi:10.1371/journal.pone.0252005.
+
+Donohue III, John J., and Steven D. Levitt. 2001. “The Impact of Legalized Abortion on Crime.” *The Quarterly Journal of Economics* CXVI(2): 379–420.
+
+Donohue III, John J., and Steven D. Levitt. 2004. “Further Evidence That Legalized Abortion Lowered Crime: A Reply to Joyce.” *The Journal of Human Resources* 39(1): 29–49.
+
+Gammage, Sarah, Shareen Joshi, and Yana van der Meulen Rodgers. 2020. “The Intersections of Women’s Economic and Reproductive Empowerment.” *Feminist Economics* 26(1): 1–22. doi:10.1080/13545701.2019.1674451
+
+Kalist, David E. 2004. “Abortion and Female Labor Force Participation: Evidence Prior to Roe v. Wade.” *Journal of Labor Research* 25(3): 503–14. doi:10.1007/s12122-004-1028-3.
+
+Killinger, Kristina, Sophie Günther, Rebecca Gomperts, Hazal Atay, and Margit Endler. 2020. “Why Women Choose Abortion through Telemedicine Outside the Formal Health Sector in Germany: A Mixed-Methods Study.” *BMJ Sexual & Reproductive Health*: bmjsrh-2020-200789. doi:10.1136/bmjsrh-2020-200789.
+
+Meeks, Thomas J. 1990. “The Economic Efficiency and Equity of Abortion.” *Economics and philosophy* 6(1): 95–138.
+
+Miller, Sarah, Laura R. Wherry, and Diana Greene Foster. 2023. “The Economic Consequences of Being Denied an Abortion.” *American Economic Journal: Economic Policy* 15(1): 394–437. doi:10.1257/pol.20210159.
+
+Myers, Caitlin Knowles. 2017. “The Power of Abortion Policy: Reexamining the Effects of Young Women’s Access to Reproductive Control.” *Journal of Political Economy* 125(6): 2178–2224. doi:10.1086/694293.
+
+Nuevo-Chiquero, Ana. 2014. “The Labor Force Effects of Unplanned Childbearing.” *Labour Economics* 29: 91–101. doi:10.1016/j.labeco.2014.07.006.
+
+Robeyns, Ingrid. 2016. “Capabilitarianism.” *Journal of Human Development and Capabilities* 17(3): 397–414.
+
+Robeyns, Ingrid. 2017. *Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined*. Open Book Publishers.
+
+Rosenzweig, Mark R., and T. Paul Schultz. 1983. “Estimating a Household Production Function: Heterogeneity, the Demand for Health Inputs, and Their Effects on Birth Weight.” *Journal of Political Economy* 91(5): 723–46. doi:10.1086/261179.
+
+Sen, Amartya. 1985. *Commodities and Capabilities*. Oxford University Press.
+
+Sen, Amartya. 2003. “Development as Capability Expansion.” In *Readings in Human Development*, eds. Fukuda-Parr Sakiko and A.K. Shiva Kumar. Oxford University Press.
+
+Sen, Amartya. 2004. “Capabilities, Lists, and Public Reason: Continuing the Conversation.” *Feminist Economics* 10(3): 77–80. doi:10.1080/1354570042000315163.
+
+Strenio, Jacqueline. 2020. “Time Heals All Wounds? A Capabilities Approach for Analyzing Intimate Partner Violence.” *Feminist Economics* 26(4): 31–55. doi:10.1080/13545701.2020.1756375.
