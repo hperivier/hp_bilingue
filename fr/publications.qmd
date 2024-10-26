@@ -7,6 +7,8 @@ lang: fr
 
 ### Working papers
 
+["From choice to capabilities: abortion and reproductive justice"](https://sciencespo.hal.science/hal-04725763), *Sciences Po LIEPP Working Paper* n°169, Octobre 2024, avec Hazal Atay, accepté pour publication dans *Feminist economics*.
+
 ["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique: L'effet croisé du genre et de l'origine soc](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-14.pdf)[iale"](pdf/Article-ENA_2023_WP.pdf), *Working Paper OFCE* n° 14/2023, avec Maxime Parodi et Fabrice Larat, dernière version mai 2024.
 
 ["Measuring the Child Penalty Early in a Career: The Case of Young Adults in France",](https://www.iza.org/publications/dp/14763/measuring-the-child-penalty-early-in-a-career-the-case-of-young-adults-in-france) avec [Stephen Bazen](https://www.iza.org/person/1677), Xavier Joutard, *Discussion Paper IZA*, N° 14763, 2021*.*
@@ -17,7 +19,7 @@ lang: fr
 
 [Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/perivier_verdugo_2024.pdf), avec Grégory Verdugo, *Industrial & Labor Relations Review*, Vol. 77(1), (Jan 2024): 88-118. doi: 10.1177/00197939231201570
 
-["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), avec Rebecca Rogers, *Œconomia*, Vol.12, n°3, 2022.
+["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), avec Rebecca Rogers, *Œconomia*, Vol.12, n°3, 2022. [doi.org/10.4000/oeconomia.13633](https://doi.org/10.4000/oeconomia.13633)
 
 ["Le soutien apporté par le système sociofiscal aux parents séparés : bilan et proposition de réformes"](http://localhost:4275/info_soc.pdf), avec Muriel Pucci, *Informations sociales*, n°207, 2022/3, pp. 74-82, 2022.
 
@@ -29,11 +31,11 @@ lang: fr
 
 ["Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard](pdf/pegard.pdf)", avec Rebecca Rogers, *French Politics, Cultures and Societies*, Vol. 37, n°3. 2019. doi:10.3167/fpcs.2019.370301
 
-["Les échelles d'équivalence à l'épreuve des nouvelles configurations familiales](pdf/revue_ecoFR.pdf)", avec Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018.
+["Les échelles d'équivalence à l'épreuve des nouvelles configurations familiales](pdf/revue_ecoFR.pdf)", avec Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018. doi:10.3167/fpcs.2019.370301
 
 ["La stratégie de l'union européenne pour promouvoir l'égalité professionnelle est-elle efficace ?](ofce2018.pdf) ", avec Grégory Verdugo, *Revue de l'OFCE*, n°158, 2018.
 
-["Recession, Austerity and Gender: A Comparison of Eight European Labour Markets"](pdf/ilr.pdf), *International Labour Review*, Vol. 157, n°1, 2018.
+["Recession, Austerity and Gender: A Comparison of Eight European Labour Markets"](pdf/ilr.pdf), *International Labour Review*, Vol. 157, n°1, 2018. doi: 10.1111/ilr.12032 . hal-03458445
 
 ["The new Spirit of neo-liberalism: Equality and economic prosperity](pdf/neolib.pdf)", avec Réjane Sénac, *International Social Science Journal*, 223-224, 2017. <https://doi.org/10.1111/issj.12131>
 
@@ -47,7 +49,7 @@ lang: fr
 
 ["Les femmes sur le marché du travail aux Etats-Unis : Evolutions mises en perspective avec la France et la Suède](http://www.ofce.sciences-po.fr/pdf/revue/3-108.pdf)", *Revue de l'OFCE*, n°108, 2009.
 
-["L'allocation de parent isolé a-t-elle favorisé l'inactivité des femmes ?",](http://www.insee.fr/fr/ffc/docs_ffc/ES429G%20.pdf) avec Yves de Curraize, *Economie et Statistique*, n°429-430, 2009.
+["L'allocation de parent isolé a-t-elle favorisé l'inactivité des femmes ?",](pdf/curraize_perivier.pdf) avec Yves de Curraize, *Economie et Statistique*, n°429-430, 2009.
 
 "Repenser la prise en charge de la petite enfance : comment et à quel coût ? ", *European Journal of Economic and Social System*s, Vol. 22, n°2, 2009.
 

@@ -29,6 +29,12 @@ about:
     - icon: linkedin 
       text: LinkedIn
       href: https://linkedin.com/in/heleneperivier
+    - icon: orcid
+      text: ORCid 0000-0003-4088-9839
+      href: https://orcid.org/my-orcid?orcid=0000-0003-4088-9839
+
+
+      
 editor: visual
 ---
 
@@ -40,6 +46,8 @@ I am the director and the co-founder of the gender studies program of Sciences P
 
 ### Just released
 
+-   ["From choice to capabilities: abortion and reproductive justice"](https://sciencespo.hal.science/hal-04725763), *Sciences Po LIEPP Working Paper* n°169, Octobre 2024, with Hazal Atay, forthcoming in *Feminist economics*.
+
 -   ["Crossing Gender Studies With the Commons: A Bibliometric Analysis"](https://thecommonsjournal.org/articles/10.5334/ijc.1341), *The International Journal of the Commons*, Vol. 18, n°1, 2024. doi: 10.5334/ijc.1341
 
 -   ["Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/perivier_verdugo_2024.pdf), with Grégory Verdugo, *Industrial & Labor Relations Review*, Vol. 77(1), 2024. doi: 10.1177/00197939231201570
@@ -50,9 +58,11 @@ I am the director and the co-founder of the gender studies program of Sciences P
 
 ### In the media
 
+-   France Culture, Entendez-vous l'éco -\> Homo oeconomicus (5/44): ["Du paternalisme à la privatisation, le choix de la crèche"](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/entendez-vous-l-eco-emission-du-lundi-23-septembre-2024-1549139), (Septembre 2024).
+
 -   France Inter, *Le téléphone sonne* -\> ["Quelles priorités pour les familles monoparentales?"](https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-18-20-le-telephone-sonne-du-vendredi-07-juin-2024-1339206), (June 7, 2024).
 
--   [Un Nobel à soi: Claudia Goldin ou l'économie féministe](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/un-nobel-a-soi-claudia-goldin-ou-l-economie-feministe-4727328) , *Entendez-vous l'éco?,* France Culture, (Octobre 2023)
+-   France Culture, *Entendez-vous l'éco? -\>* ["Un Nobel à soi: Claudia Goldin ou l'économie féministe"](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/un-nobel-a-soi-claudia-goldin-ou-l-economie-feministe-4727328), (Octobre 2023).
 
     on the same topic in *The Conversation* -\> [« Nobel » d'économie : Claudia Goldin et l'émancipation des femmes américaines](#0)
 

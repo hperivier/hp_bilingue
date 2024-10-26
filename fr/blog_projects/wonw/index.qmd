@@ -11,6 +11,8 @@ image: photo.jpeg
 draft: false 
 ---
 
+Dernière publication sur les droits reproductifs -\> ["From choice to capabilities: abortion and reproductive justice"](https://sciencespo.hal.science/hal-04725763), *Sciences Po LIEPP Working Paper* n°169, Octobre 2024, avec Hazal Atay, forthcoming in *Feminist economics*.
+
 ## Research on telemedicine abortion
 
 Abortion remains a deeply contentious issue across the globe, including in Europe. Recent changes around telemedicine abortion and self-managed abortion, however, challenge this paradigm and require new scientific inquiries. While debates often revolve around moral, legal, and medical considerations, there is a critical aspect that is often overlooked: the socio-economic determinants and outcomes of abortion access. Despite the European continent historically having more progressive abortion laws compared to other regions, research on abortion is often confined to a medico-legal paradigm.
