@@ -31,7 +31,7 @@ lang: fr
 
 ["Women and the Language of Statistics in Late-Nineteenth-Century France: Reading the Graphs of Madame Pégard](pdf/pegard.pdf)", avec Rebecca Rogers, *French Politics, Cultures and Societies*, Vol. 37, n°3. 2019. doi:10.3167/fpcs.2019.370301
 
-["Les échelles d'équivalence à l'épreuve des nouvelles configurations familiales](pdf/revue_ecoFR.pdf)", avec Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018. doi:10.3167/fpcs.2019.370301
+["Les échelles d'équivalence à l'épreuve des nouvelles configurations familiales](pdf/revue_ecoFR.pdf)", avec Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018. <https://doi.org/10.3917/reco.pr2.0114>.
 
 ["La stratégie de l'union européenne pour promouvoir l'égalité professionnelle est-elle efficace ?](ofce2018.pdf) ", avec Grégory Verdugo, *Revue de l'OFCE*, n°158, 2018.
 
@@ -123,9 +123,11 @@ lang: fr
 
 "[Analyse bibliométrique de la littérature croisant genre et communs](https://www.afd.fr/fr/ressources/analyse-bibliometrique-de-la-litterature-croisant-genre-et-communs)", *Papier de recherche*, AFD, n°281, juin 2023. ISSN : 2492 - 2846
 
+["Quelles conditions d’accès à l’emploi pour les jeunes mères isolées ?"](https://shs-cairn-info.proxy.bibliotheques.uqam.ca/revue-cereq-essentiels-2022-1-page-97?lang=fr.), avec Stephen Bazen & Xavier Joutard, *Céreq Essentiels,* N° 4(1), 97-105. 
+
 ["Il faut trouver une nouvelle articulation entre le marché, la famille et l'État social", entretien autour de *L'Économie féministe*,](https://www.lcdpu.fr/livre/?GCOI=27000100089780&fa=sommaire) Eigensinn , n°01, 2020.
 
-"Quelles conséquences de la crise sanitaire sur les inégalités entre les sexes en France ?", avec Anne Boring, Marta Dominguez, Réjane Sénac et Marie Mercat-Bruns, in [*Le Monde d'aujourd'hui Les sciences sociales au temps de la Covid, Première édition*](http://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100370780#h2tabtableContents), Lazar M, G. Plantin and X. Ragot (dir.) Presses de Sciences Po, 2020.
+"Quelles conséquences de la crise sanitaire sur les inégalités entre les sexes en France ?", avec Anne Boring, Marta Dominguez, Réjane Sénac et Marie Mercat-Bruns, in [*Le Monde d'aujourd'hui Les sciences sociales au temps de la Covid, Première édition*](http://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100370780#h2tabtableContents), Lazar M, G. Plantin, X. Ragot (dir.) Presses de Sciences Po, 2020.
 
 "[Repenser le congé parental en France dans une perspective féministe](https://www.alternatives-economiques.fr/node/94395)", *L'économie politique,* n°88, 11-2020.
 
