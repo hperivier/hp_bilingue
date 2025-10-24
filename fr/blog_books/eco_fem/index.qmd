@@ -11,6 +11,8 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 ### Conférences autour du livre
 
+[Conférence organisée par Cairn et Regards croisés sur l'économie](Hélène Périvier), décembre 2023
+
 Podcast Genre etc. [Faire de la recherche en féministe](https://smartlink.ausha.co/sciencespo-presage-genre-etc/focus-faire-de-la-recherche-en-feministe), un échange avec Geneviève Fraisse, (septembre 2023).
 
 Discussion organisée par les éditions [Bazar do Tempo](#0){style="font-size: 11pt;"} avec la politiste Débora Thomé autour de la réception *A Economia Feminista* au Brazil, l'évènement est disponible [ici](#0). (16 mars 2023).

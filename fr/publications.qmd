@@ -7,19 +7,25 @@ lang: fr
 
 ### Working papers
 
+["Synthèse de la passation de l'enquête SAFEDUC. Représentativité d'une enquête sur les VSS en milieu étudiant"](pdf/WP_passationV2.pdf), avec Victor Coutolleau et Clara Le Gallic-Ach, Working paper OFCE, n°9, 2025.
+
+["Measuring the Child Penalty Early in a Career: The Case of Young Adults in France"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2025-02.pdf), avec [Stephen Bazen](https://www.iza.org/person/1677) et Xavier Joutard, *Working Paper OFCE* n° 02/2025, 2025*.*
+
 ["Orchestrating Equality of Opportunities. Sex segregation and gender bias in decision-making,](pdf/V9_EN.pdf) *Working Paper OFCE* n° 15/2024, avec Maxime Parodi, Audrey Etienne, Reguina Hatzipetrou-Andronikou et Hyacinthe Ravet.
 
-["From choice to capabilities: abortion and reproductive justice"](https://sciencespo.hal.science/hal-04725763), *Sciences Po LIEPP Working Paper* n°169, Octobre 2024, avec Hazal Atay, accepté pour publication dans *Feminist economics*.
-
-["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique: L'effet croisé du genre et de l'origine soc](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-14.pdf)[iale"](pdf/Article-ENA_2023_WP.pdf), *Working Paper OFCE* n° 14/2023, avec Maxime Parodi et Fabrice Larat, dernière version mai 2024.
-
-["Measuring the Child Penalty Early in a Career: The Case of Young Adults in France",](https://www.iza.org/publications/dp/14763/measuring-the-child-penalty-early-in-a-career-the-case-of-young-adults-in-france) avec [Stephen Bazen](https://www.iza.org/person/1677), Xavier Joutard, *Discussion Paper IZA*, N° 14763, 2021*.*
+["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique: L'effet croisé du genre et de l'origine soc](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-14.pdf)[iale"](pdf/Article-ENA_2023_WP.pdf), avec Maxime Parodi et Fabrice Larat, *Working Paper OFCE* n° 14/2023, dernière version mai 2024.
 
 ### Revues à comité de lecture
 
+["Mesurer les violences sexistes et sexuelles en milieu étudiant. Défis méthodologiques et incertitudes juridiques"](pdf/defi.pdf), avec Victor Coutolleau et Clara Le Gallic-Ach, *Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique*, Volume 168, Issue 1, Octobre 2025. [doi : 10.1177/07591063251370960](https://doi.org/10.1177/07591063251370960)
+
+["À l'aveugle. L’effet genré du « paravent » dans le recrutement des instrumentistes d’orchestre"](pdf/tgs.pdf), *Travail, genre et sociétés*, n°53, avril 2025, avec Hyacinthe Ravet, Reguina Hatzipetrou-Andronikou, Audrey Etienne et Maxime Parodi. doi : 10.3917/tgs.053.0097 
+
+["From choice to capabilities: abortion and reproductive justice"](pdf/FE.pdf), avec Hazal Atay, *Feminist economics*, March 2025.
+
 ["Crossing Gender Studies With the Commons: A Bibliometric Analysis"](https://thecommonsjournal.org/articles/10.5334/ijc.1341), *The International Journal of the Commons*, Vol. 18 (1), 2024. doi: 10.5334/ijc.1341
 
-[Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/perivier_verdugo_2024.pdf), avec Grégory Verdugo, *Industrial & Labor Relations Review*, Vol. 77(1), (Jan 2024): 88-118. doi: 10.1177/00197939231201570
+[Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/perivier_verdugo_2024.pdf), avec Grégory Verdugo, *Industrial & Labor Relations Review*, Vol. 77(1), 2024. doi: 10.1177/00197939231201570
 
 ["Writing women back into the history of French economic thought: the case of Flora Tristan, Julie-Victoire Daubié and Clémence Royer"](https://journals.openedition.org/oeconomia/13633), avec Rebecca Rogers, *Œconomia*, Vol.12, n°3, 2022. [doi.org/10.4000/oeconomia.13633](https://doi.org/10.4000/oeconomia.13633)
 
@@ -78,6 +84,10 @@ lang: fr
 ["Les mesures fiscales d'incitation au travail des personnes peu qualifiées ](http://www.ofce.sciences-po.fr/pdf/revue/r87/r87-5.pdf.)", *Revue de l'OFCE*, n° 87, 2003.
 
 ### Policy Brief & Blog OFCE
+
+["Les familles pénalisées par l'inflation: la perte importante de pouvoir d'achat des prestations familiales"](https://www.ofce.sciences-po.fr/blog2024/fr/2025/20250409_HPAM/), avec Antoine Math, 9 avril 2025.
+
+["Plafonner le quotient conjugal: un surcoît de recettes fiscales de plus de 3 milliards"](https://www.ofce.sciences-po.fr/blog2024/fr/2025/20250204_HPMP/), avec Muriel Pucci, Post de Blog OFCE, 4 février 2025.
 
 ["Inégalités des chances au concours externe de l'ENA : le rôle du genre croisé à l'origine sociale ](https://www.ofce.sciences-po.fr/blog/inegalites-des-chances-au-concours-externe-de-lenale-role-du-genre-croise-a-lorigine-sociale/)", avec Maxime Parodi et Fabrice Larat, janvier 2023.
 

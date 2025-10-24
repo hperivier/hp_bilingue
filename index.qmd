@@ -38,7 +38,7 @@
     editor: visual
 ---
 
-Je suis économiste à l'[OFCE](http://www.ofce.sciences-po.fr/index.php) [Sciences Po](https://www.sciencespo.fr/fr/).
+Je suis directrice de recherche à l'[OFCE](http://www.ofce.sciences-po.fr/index.php), [Sciences Po](https://www.sciencespo.fr/fr/).
 
 Mes travaux portent sur l'évaluation des politiques familiales, sociales et fiscales, ainsi que sur l'analyse des inégalités femmes-hommes sur le marché du travail, dans la famille et dans l'enseignement supérieur. Je m'intéresse également à l'histoire de la pensée économique dans une perspective féministe.
 
@@ -46,17 +46,13 @@ Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo
 
 ### Vient de sortir
 
--   ["Orchestrating Equality of Opportunities. Sex segregation and gender bias in decision-making,](pdf/V9_EN.pdf) *Working Paper OFCE* n° 15/2024, avec Maxime Parodi, Audrey Etienne, Reguina Hatzipetrou-Andronikou et Hyacinthe Ravet.
+-   ["Mesurer les violences sexistes et sexuelles en milieu étudiant. Défis méthodologiques et incertitudes juridiques"](pdf/defi.pdf), avec Victor Coutolleau et Clara Le Gallic-Ach, *Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique*, Volume 168, Issue 1, Octobre 2025. [doi : 10.1177/07591063251370960](https://doi.org/10.1177/07591063251370960)
 
--   ["From choice to capabilities: abortion and reproductive justice"](https://sciencespo.hal.science/hal-04725763), *Sciences Po LIEPP Working Paper* n°169, Octobre 2024, avec Hazal Atay, accepté pour publication dans *Feminist economics*.
+-   ["À l'aveugle. L’effet genré du « paravent » dans le recrutement des instrumentistes d’orchestre"](pdf/tgs.pdf), *Travail, genre et sociétés*, n°53, avril 2025, avec Hyacinthe Ravet, Reguina Hatzipetrou-Andronikou, Audrey Etienne et Maxime Parodi.
 
--   ["Crossing Gender Studies With the Commons: A Bibliometric Analysis"](https://thecommonsjournal.org/articles/10.5334/ijc.1341), *The International Journal of the Commons*, Vol. 18, n°1, 2024. doi: 10.5334/ijc.1341
+-   ["Exposition des étudiantes et étudiants aux violences sexuelles et sexistes: Résultats SAFEDUC 2024"](https://www.sciencespo.fr/gender-studies/fr/recherche/projet-safeduc/resultats-2024/) , Rapport de l'équipe SAFEDUC, 2025.
 
--   ["Where are the Fathers? The Effects of Earmarking Parental Leave on Fathers in France"](pdf/perivier_verdugo_2024.pdf), avec Grégory Verdugo, *Industrial & Labor Relations Review*, Vol. 77(1), 2024. doi: 10.1177/00197939231201570
-
-    -\> ["Parental Leave: Where are the fathers?"](https://wol.iza.org/opinions/where-are-the-fathers), avec Grégory Verdugo, IZA World of Labor, August 2023
-
--   Nouvelle version mai 2024 -\>["De Sciences Po à l'ENA, la voie étroite vers les sommets de la fonction publique: L'effet croisé du genre et de l'origine sociale"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2023-14.pdf), *Working Paper OFCE* n° 14/2023, avec Maxime Parodi et Fabrice Larat.
+-   ["Synthèse de la passation de l'enquête SAFEDUC. Représentativité d'une enquête sur les VSS en milieu étudiant",](pdf/WP_passationV2.pdf) avec Victor Coutolleau et Clara Le Gallic-Ach, *Working paper OFCE*, n°9, 2025.
 
 ### Dans les médias
 

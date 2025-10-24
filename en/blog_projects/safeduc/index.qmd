@@ -17,20 +17,32 @@ SAFEDUC is a research project led by Sciences Po's Gender Studies Program in the
 
 The team designed a survey questionnaire tailored to the student population. From March 25 to May 19, 2024, all *Université Paris Cité* and *Sciences Po* students, including PhD students, were able to respond anonymously to this online questionnaire. The results are currently being processed by the team. The project has been closely monitored by the DPOs of both partner institutions, as well as by their legal departments. It has received a favorable statement from [Inserm's ethics committee](inserm_en.pdf).
 
-results to follow...
-
 -\> [Presentation](#0) of the survey
+
+-\> The questionnaire is available [here](https://www.sciencespo.fr/gender-studies/sites/sciencespo.fr.gender-studies/files/SAFEDUC-questionnaire-complet-FR-EN.pdf)
+
+The questionnaire is available to all research teams wishing to conduct a survey of this type. This document is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.fr). Please cite “SAFEDUC Survey (2024, UPCité - Sciences Po)” for any use.
+
+## First results
+
+-   ["Student Exposure to Gender-Based and Sexual Violence: SAFEDUC 2024 Survey Results"](https://www.sciencespo.fr/gender-studies/en/research/safeduc-research-project/2024-results/)
+
+-   ["Mesurer les violences sexistes et sexuelles en milieu étudiant. Défis méthodologiques et incertitudes juridiques"](defi.pdf), Victor Coutolleau, Clara Le Gallic Ach and Périvier Hélène, Working paper OFCE, n°8, 2025.
+
+-   ["Synthèse de la passation de l'enquête SAFEDUC. Représentativité d'une enquête sur les VSS en milieu étudiant",](WP_passationV2.pdf) Victor Coutolleau, Clara Le Gallic Ach and Hélène Périvier, Working paper OFCE, n°9, 2025.
 
 ## Research team
 
--   Coutolleau Victor, sociologiste, OFCE-CRIS, PRESAGE Sciences Po.
+-   Victor Coutolleau, sociologist, OFCE, PRESAGE Sciences Po.
 
--   Le Gallic-Ach Clara, Ph.D student in sociology, OFCE-CRIS, PRESAGE, Sciences Po
+-   Clara Le Gallic-Ach, Ph.D in sociology, Ined-CRIS, PRESAGE, Sciences Po
 
--   Périvier Hélène, economist, OFCE, Sciences Po, PRESAGE.
+-   Hélène Périvier, Director of research, OFCE, Sciences Po, PRESAGE.
 
--   Bonnot Virginie, professor at the *Laboratoire de Psychologie Sociale, Université Paris Cit*é.
+-   Virginie Bonnot, Professor at the Laboratoire de Psychologie Sociale, Université Paris Cité.
 
--   Dominguez-Folgueras Marta, Associate professor, Sociology, CRIS, PRESAGE, Sciences Po.
+-   Marta Dominguez-Folgueras, Associate professor, Sociology, CRIS, PRESAGE, Sciences Po.
 
--   Kivits Joëlle, Professor in Sociology and Public Health, holder of the *Gender and Health Prevention* Chair held by the Cité du Genre, Vice-President for Equality, Diversity and Inclusion, *Université Paris Cit*é.
+-   Joëlle Kivits, Professor in Sociology and Public Health, holder of the *Gender and Health Prevention* Chair held by the Cité du Genre, Vice-President for Equality, Diversity and Inclusion, Université Paris Cité.
+
+## 

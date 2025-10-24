@@ -5,9 +5,9 @@ editor: visual
 lang: fr
 ---
 
-Mon parcours professionnel est jalonné de rencontres avec des personnes formidables dont le soutien, les encouragements, l'inspiration, les collaborations m'ont portée dans mes projets -\> merci Jacques, Dave, Jean-Paul, Danièle, Françoise, Gérard, Michel, Bertrand, Geneviève, Charlène, Violette, Dominique, Julie, Rebecca, Maxime, un autre Maxime, Réjane, Muriel, Guillaume, Pierre, Grégory, Raul, Laurence, Antoine, mes collègues de l'OFCE, de PRESAGE, de Sciences Po, du HCFEA ...
+Mon parcours professionnel est jalonné de rencontres avec des personnes formidables dont le soutien, les encouragements, l'inspiration, les collaborations m'ont portée dans mes projets -\> merci Jacques, Dave, Jean-Paul, Danièle, Françoise, Gérard, Charlène, Violette, Dominique, Julie, Rebecca, Maxime, un autre Maxime, Réjane, Muriel, mes collègues de l'OFCE, de PRESAGE, de Sciences Po, du HCFEA ...
 
-et évidemment et surtout merci Xavier !
+et surtout merci Xavier !
 
 [CV](pdf/cv.pdf)
 
@@ -41,8 +41,4 @@ Le Conseil de la famille du HCFEA a pour mission d'animer le débat public et d'
 
 Le HCFEA s'appuie sur un collectif très dynamique. Il est doté d'un secretariat général piloté par Laurence Rioux, de deux conseillères scientifiques [Catherine Collombet](https://www.researchgate.net/profile/Catherine-Collombet), [Camille Chaserant](https://centredeconomiesorbonne.cnrs.fr/en/membres/chaserant-camille-2/), et d'un conseiller scientifique [Antoine Math](#0) qui réalisent un travail remarquable pour le Conseil de la famille.
 
-En 2023, le Conseil a publié un rapport sur ["Le pouvoir d'achat des familles face au choc d'inflation"](https://www.hcfea.fr/IMG/pdf/pouvoir_d_achat_des_familles_face_au_choc_d_inflation-4.pdf). Nous y faisons de [nombreuses recommendations](https://www.hcfea.fr/IMG/pdf/synthese_et_propositions-6.pdf) notamment en matière d'indexation des prestations familiales.
-
-En 2024, les trois Conseils du HCFEA ont publié un avis commun sur la loi du 26 janvier 2024 « Pour contrôler l’immigration, améliorer l’intégration » dans les domaines de la famille, de l’enfance et de l’âge ([Avis adopté le 30 avril 2024](https://www.hcfea.fr/IMG/pdf/avis_du_hcfea_sur_la_loi_immigration-2.pdf)).
-
-Le Conseil travaille sur la restauration des enfants à l'extérieur du domicile familial. Nous menons notamment une analyse des politiques relatives à la restauration scolaire. Le rapport paraîtra à la fin de l'année 2024.
+Pour voir tous les travaux du Conseil de la famille du HCFEA rendez-vous [ici](https://www.hcfea.fr/spip.php?rubrique32)

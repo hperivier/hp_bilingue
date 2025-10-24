@@ -3,9 +3,9 @@ title: "Bio"
 editor: visual
 ---
 
-Throughout my career, I have met great people whose support, encouragement, inspiration, collaboration have guided me in my projects - \> thanks to Jacques, Dave, Jean-Paul, Danièle, Françoise, Gérard, Michel, Bertrand, Geneviève, Yasmine, Charlène, Violette, Dominique, Julie, Rebecca, Maxime, another Maxime, Réjane, Muriel, Guillaume, Pierre, Grégory, Raul, Laurence, Antoine... all my colleagues from the OFCE, from PRESAGE, from Sciences Po and from the HCFEA...
+Throughout my career, I have met great people whose support, encouragement, inspiration, collaboration have guided me in my projects - \> thanks to Jacques, Dave, Jean-Paul, Danièle, Françoise, Gérard, Charlène, Violette, Dominique, Julie, Rebecca, Maxime, another Maxime, Réjane, Muriel ... all my colleagues from the OFCE, from PRESAGE, from Sciences Po and from the HCFEA...
 
-First and foremost, thank you so much Xavier!
+And most of all, thank you Xavier!
 
 [Resume](pdf/cv_en.pdf)
 
@@ -41,8 +41,4 @@ The Council's mission is to stimulate public debate and provide public authoriti
 
 The HCFEA relies on a dynamic team. It has a General Secretariat headed by Laurence Rioux, two scientific advisors [Catherine Collombet](https://www.researchgate.net/profile/Catherine-Collombet) and [Camille Chaserant](https://centredeconomiesorbonne.cnrs.fr/en/membres/chaserant-camille-2/), and a scientific advisor [Antoine Math](https://ires.fr/institut/equipe/chercheurs/antoine-math/), all of whom do outstanding work for the Family Council.
 
-In 2023, the Council published a report on family purchasing power in the face of inflation shock “[*Le pouvoir d'achat des familles face au choc d'inflation*](https://www.hcfea.fr/IMG/pdf/pouvoir_d_achat_des_familles_face_au_choc_d_inflation-4.pdf)”. We made a [number of recommendations](https://www.hcfea.fr/IMG/pdf/synthese_et_propositions-6.pdf), notably concerning the indexation of family benefits.
-
-In 2024, the three Councils of the HCFEA published a joint statement regarding the French law of January 26, 2024 “*To control immigration, improve integration*” in the fields of family, childhood and age ([Statement adopted on April 30, 2024](https://www.hcfea.fr/IMG/pdf/avis_du_hcfea_sur_la_loi_immigration-2.pdf)).
-
-The Council works on catering for children outside the family home. In particular, we are conducting an analysis of public policies regarding school canteens. The report will be published by the end of 2024.
+To view all the work of the HCFEA Family Council, please visit [here](https://www.hcfea.fr/spip.php?rubrique32).
