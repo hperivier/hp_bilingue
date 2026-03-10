@@ -7,19 +7,17 @@ editor: visual
 
 ### Working papers
 
-["Mesurer les violences sexistes et sexuelles en milieu étudiant. Défis méthodologiques et incertitudes juridiques"](pdf/WP_defis_25.pdf), joint with Victor Coutolleau et Clara Le Gallic-Ach, Working paper OFCE, n°8, 2025.
-
-["Synthèse de la passation de l'enquête SAFEDUC. Représentativité d'une enquêt sur les VSS en milieu étudiant"](pdf/WP_passationV2.pdf), joint with Victor Coutolleau et Clara Le Gallic-Ach, Working paper OFCE, n°9, 2025.
-
 ["Measuring the Child Penalty Early in a Career: The Case of Young Adults in France"](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2025-02.pdf), joint with [Stephen Bazen](https://www.iza.org/person/1677) & Xavier Joutard, *Working Paper OFCE* n° 02/2025, 2025*.*
 
-["Orchestrating Equality of Opportunities. Sex segregation and gender bias in decision-making,](pdf/V9_EN.pdf) joint with Maxime Parodi, Audrey Etienne, Reguina Hatzipetrou-Andronikou and Hyacinthe Ravet, *Working Paper OFCE* n° 15/2024.
+["Orchestrating Equality of Opportunities. Sex segregation and gender bias in decision-making,](pdf/OFCEWP2024-15.pdf) joint with Maxime Parodi, Audrey Etienne, Reguina Hatzipetrou-Andronikou and Hyacinthe Ravet, *Working Paper OFCE* n° 15/2024.
 
 ### Refereed journals
 
+["Synthèse de la passation de l'enquête SAFEDUC. Représentativité d'une enquête sur les VSS en milieu étudiant"](pdf/safeduc_paper2.pdf), joint with Victor Coutolleau and Clara Le Gallic-Ach, *Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique*, Volume 169, 2026. doi: 10.1177/07591063261424250
+
 ["De Sciences Po à l'Éna, la voie étroite vers les sommets de la fonction publique: L'effet croisé du genre et de l'origine sociale"](pdf/egale1.pdf), joint with Maxime Parodi and Fabrice Larat, *Revue d'Économie Politique*, volume 135, n°6, 2025.
 
-["Mesurer les violences sexistes et sexuelles en milieu étudiant. Défis méthodologiques et incertitudes juridiques"](pdf/defi.pdf), joint with Victor Coutolleau and Clara Le Gallic-Ach, *Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique*, Volume 168, Issue 1, Octobre 2025. [doi : 10.1177/07591063251370960](https://doi.org/10.1177/07591063251370960)
+["Mesurer les violences sexistes et sexuelles en milieu étudiant. Défis méthodologiques et incertitudes juridiques"](pdf/defi.pdf), joint with Victor Coutolleau and Clara Le Gallic-Ach, *Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique*, Volume 168, 2025. [doi : 10.1177/07591063251370960](https://doi.org/10.1177/07591063251370960)
 
 ["À l'aveugle. L’effet genré du « paravent » dans le recrutement des instrumentistes d’orchestre"](pdf/tgs.pdf), *Travail, genre et sociétés*, n°53, April 2025, joint with Hyacinthe Ravet, Reguina Hatzipetrou-Andronikou, Audrey Etienne and Maxime Parodi. doi : 10.3917/tgs.053.0097 
 
@@ -43,7 +41,7 @@ editor: visual
 
 ["Equivalence scales challenged by new family configurations](pdf/revue_ecoFR.pdf)", joint with Henri Martin, *Revue Économique*, Vol. 69, n°2, 2018. <https://doi.org/10.3917/reco.pr2.0114>.
 
-["La stratégie de l'union européenne pour promouvoir l'égalité professionnelle est-elle efficace ?](ofce2018.pdf)", joint with Grégory Verdugo, *Revue de l'OFCE*, n°158, 2018.
+["La stratégie de l'union européenne pour promouvoir l'égalité professionnelle est-elle efficace ?](pdf/ofce2018.pdf)", joint with Grégory Verdugo, *Revue de l'OFCE*, n°158, 2018.
 
 ["Recession, Austerity and Gender: A Comparison of Eight European Labour Markets](pdf/ilr.pdf)", *International Labour Review*, Vol. 157, n°1, 2018. doi: 10.1111/ilr.12032 . hal-03458445
 

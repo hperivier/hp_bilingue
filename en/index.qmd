@@ -20,9 +20,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:helene.perivier@sciencespo.fr
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/HelenePerivier
     - icon: github
       text: Github
       href: https://github.com/hperivier
