@@ -47,7 +47,7 @@ editor: visual
 
 ["The new Spirit of neo-liberalism: Equality and economic prosperity](pdf/neolib.pdf)", joint with Réjane Sénac, *International Social Science Journal*, 223-224, 2017. <https://doi.org/10.1111/issj.12131>
 
-"La pauvreté au prisme du genre", *Communications,*EHESS/CNRS-Centre Edgar Morin, n°98, 2016.
+["La pauvreté au prisme du genre"](pdf/pauvrete.pdf), *Communications,* EHESS/CNRS-Centre Edgar Morin, n°98, 2016.
 
 ["Une lecture genrée de la Sécurité sociale: 70 ans après, quel bilan pour l'égalité des femmes et des hommes?](http://www.cairn.info/revue-informations-sociales-2015-3.htm)", *Informations sociales*, n°189, 2015.
 
