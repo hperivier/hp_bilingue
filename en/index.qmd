@@ -43,6 +43,16 @@ I am the director and the co-founder of the gender studies program of Sciences P
 
 ### Just released
 
+This chart shows the evolution, between 2009 and 2023, of fertility rates and women’s labor force participation rates in Europe. Until the mid-2010s, countries with generous family policies that facilitated the reconciliation of family and professional life were able to combine high fertility rates with high female employment rates. Today, although these policies remain necessary, they are no longer sufficient to ensure sustained fertility levels. The determinants of fertility choices appear to have become more complex, as notably illustrated by the survey conducted by the HCFEA available [here](https://hcfea.gouv.fr/typologie-des-approches-de-la-parentalite-chez-les-20-35-ans) in French only.
+
+```{r, echo=FALSE}
+#| label: fig-ani_en
+#| fig-asp: 0.6
+#| fig-cap-location: top
+#| fig-cap: Toward a New Demographic Regime ? 
+knitr::include_graphics("g_ani_en.gif")
+```
+
 -   ["Synthèse de la passation de l'enquête SAFEDUC. Représentativité d'une enquête sur les VSS en milieu étudiant"](pdf/safeduc_paper2.pdf), joint with Victor Coutolleau and Clara Le Gallic-Ach, *Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique*, Volume 169, 2026. doi: 10.1177/07591063261424250
 
 -   ["De Sciences Po à l'Éna, la voie étroite vers les sommets de la fonction publique: L'effet croisé du genre et de l'origine sociale"](egale1.pdf), joint with Maxime Parodi and Fabrice Larat, *Revue d'Économie Politique*, volume 135, n°6, 2025.

@@ -43,6 +43,16 @@ Je suis directrice et cofondatrice du programme [PRESAGE](https://www.sciencespo
 
 ### Vient de sortir
 
+Ce graphique montre l’évolution, entre 2009 et 2023, du taux de fécondité et du taux de participation des femmes au marché du travail en Europe. Jusqu’au milieu des années 2010, les pays dotés de politiques familiales généreuses facilitant l’articulation entre vie familiale et vie professionnelle parvenaient à conjuguer des taux de fécondité et d’activité des femmes élevés. Aujourd’hui, si ces politiques demeurent nécessaires, elles ne suffisent plus à garantir un niveau de fécondité soutenu. Les déterminants des choix de fécondité apparaissent plus complexes, comme le montre notamment l’enquête du [HCFEA]{.underline} disponible [ici](https://hcfea.gouv.fr/typologie-des-approches-de-la-parentalite-chez-les-20-35-ans).
+
+```{r, echo=FALSE}
+#| label: fig-ani
+#| fig-asp: 0.6
+#| fig-cap-location: top
+#| fig-cap: Vers un nouveau régime démographique? 
+knitr::include_graphics("g_ani.gif")
+```
+
 -   ["Synthèse de la passation de l'enquête SAFEDUC. Représentativité d'une enquête sur les VSS en milieu étudiant"](pdf/safeduc_paper2.pdf), avec Victor Coutolleau et Clara Le Gallic-Ach, *Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique*, Volume 169, 2026. doi: 10.1177/07591063261424250
 
 -   ["De Sciences Po à l'Éna, la voie étroite vers les sommets de la fonction publique: L'effet croisé du genre et de l'origine sociale"](pdf/egale1.pdf), avec Maxime Parodi et Fabrice Larat, *Revue d'Économie Politique*, volume 135, n°6, 2025.
